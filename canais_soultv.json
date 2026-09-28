@@ -747,17 +747,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "224",
-    "name": "TV Alagoinha",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_ALAGOINHA_100_X_100.png",
-    "url": "https://cdn-tiva-stmv-jnbhost-com-br.smartplay.pe/tvalagoinha/tvalagoinha/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "117",
     "name": "TV Alternativa",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TVA_100X100.png",

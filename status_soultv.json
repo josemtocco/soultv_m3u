@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 112,
-  "total_ativos": 106,
-  "total_removidos_teste": 6,
+  "total_ativos": 105,
+  "total_removidos_teste": 7,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -73,7 +73,6 @@
     "Rede TV Paraná",
     "Rede UTV Brasil",
     "Tenda TV",
-    "TV Alagoinha",
     "TV Alternativa",
     "TV Diário do Sertão",
     "TV IN",
@@ -121,16 +120,16 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "WTJ TV",
-      "url": "https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/wtjtvminas/wtjtvminas/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "WTJ TV",
+      "url": "https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/wtjtvminas/wtjtvminas/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
       "name": "Rede Brasil",
@@ -139,18 +138,24 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Hip Hop Vai Além TV",
-      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "TV Litoral RN",
       "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV Alagoinha",
+      "url": "https://cdn-tiva-stmv-jnbhost-com-br.smartplay.pe/tvalagoinha/tvalagoinha/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Hip Hop Vai Além TV",
+      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-09-28T18:00:16Z",
-  "duracao_segundos": 9.43
+  "atualizado_em": "2026-09-28T23:11:34Z",
+  "duracao_segundos": 15.89
 }
