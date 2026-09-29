@@ -2,9 +2,9 @@
   "ok": true,
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
-  "total_api": 112,
+  "total_api": 104,
   "total_ativos": 101,
-  "total_removidos_teste": 11,
+  "total_removidos_teste": 3,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -78,12 +78,12 @@
     "TV IN",
     "TV Itapê",
     "Tv Life America",
+    "TV Litoral RN",
     "TV MAX",
     "TV Meio",
     "Tv Mogiana",
     "Tv Nordestina",
     "Tv Nova Nordeste",
-    "TV O Repórter",
     "TV Onix",
     "TV PAMPA",
     "TV Reconcavo",
@@ -110,40 +110,10 @@
   ],
   "falhas": [
     {
-      "name": "Unique TV",
-      "url": "https://pop.uniquetv.com.br/uniquetv/video.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Rede Metrópole",
-      "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartplay.pe/metropole/index.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Unique Sports",
-      "url": "https://pop.uniquetv.com.br/uniquesports1/video.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Planalto Norte",
-      "url": "https://pop.uniquetv.com.br/tvplanaltonorte/video.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "WTJ TV",
-      "url": "https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/wtjtvminas/wtjtvminas/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
       "name": "Rede Brasil",
@@ -152,30 +122,12 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "REISEN CLUBE TV",
-      "url": "https://pop.uniquetv.com.br/reisenclubetv/video.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Litoral RN",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Conexão TV",
-      "url": "https://pop.uniquetv.com.br/tvconexao/video.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-09-29T12:07:17Z",
-  "duracao_segundos": 6.21
+  "atualizado_em": "2026-09-29T21:51:22Z",
+  "duracao_segundos": 7.07
 }

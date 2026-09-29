@@ -217,6 +217,9 @@ https://cdn-tiva-stream01-msolutionbrasil-com-br.smartplay.pe/hls/tvitape/live.m
 #EXTINF:-1 tvg-id="129" tvg-name="Tv Life America" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
+#EXTINF:-1 tvg-id="243" tvg-name="TV Litoral RN" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_5.jpg" group-title="Regionais",TV Litoral RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+
 #EXTINF:-1 tvg-id="55" tvg-name="TV MAX" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png" group-title="Regionais",TV MAX
 https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8
 
@@ -231,9 +234,6 @@ https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabilioj
 
 #EXTINF:-1 tvg-id="231" tvg-name="Tv Nova Nordeste" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png" group-title="Regionais",Tv Nova Nordeste
 https://stream.ecast.com.br/nova-tv/index.m3u8
-
-#EXTINF:-1 tvg-id="285" tvg-name="TV O Repórter" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TIPO__JORNAL.png" group-title="Regionais",TV O Repórter
-https://video11.logicahost.com.br/jornaloreporter/jornaloreporter/playlist.m3u8
 
 #EXTINF:-1 tvg-id="234" tvg-name="TV Onix" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_ONIX_Branco__100_x_100_.png" group-title="Regionais",TV Onix
 https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8

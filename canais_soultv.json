@@ -802,6 +802,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "243",
+    "name": "TV Litoral RN",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_5.jpg",
+    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "55",
     "name": "TV MAX",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png",
@@ -851,17 +862,6 @@
     "name": "Tv Nova Nordeste",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png",
     "url": "https://stream.ecast.com.br/nova-tv/index.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "285",
-    "name": "TV O Repórter",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TIPO__JORNAL.png",
-    "url": "https://video11.logicahost.com.br/jornaloreporter/jornaloreporter/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
