@@ -221,17 +221,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "254",
-    "name": "Unique Sports",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/UNIQUE_SPORTS_100X100.png",
-    "url": "https://pop.uniquetv.com.br/uniquesports1/video.m3u8",
-    "categories": [
-      "Esportes / Games"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "302",
     "name": "VGS TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/100px.png",
@@ -747,6 +736,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "224",
+    "name": "TV Alagoinha",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_ALAGOINHA_100_X_100.png",
+    "url": "https://cdn-tiva-stmv-jnbhost-com-br.smartplay.pe/tvalagoinha/tvalagoinha/playlist.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "117",
     "name": "TV Alternativa",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TVA_100X100.png",
@@ -891,17 +891,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "85",
-    "name": "TV Planalto Norte",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TVPLANALTO.png",
-    "url": "https://pop.uniquetv.com.br/tvplanaltonorte/video.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "211",
     "name": "TV Reconcavo",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_braca.png",
@@ -944,17 +933,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
-  },
-  {
-    "id": "62",
-    "name": "Unique TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/UNIQUE100X100_1.png",
-    "url": "https://pop.uniquetv.com.br/uniquetv/video.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
   },
   {
     "id": "137",
@@ -1045,17 +1023,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "312",
-    "name": "Conexão TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/conexaotv-100x100.png",
-    "url": "https://pop.uniquetv.com.br/tvconexao/video.m3u8",
-    "categories": [
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "247",
     "name": "DM Kids TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo2_PNGHD_1.png",
@@ -1139,17 +1106,6 @@
     "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redefamilia/redefamilia/playlist.m3u8",
     "categories": [
       "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "173",
-    "name": "REISEN CLUBE TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo100x100reisen.png",
-    "url": "https://pop.uniquetv.com.br/reisenclubetv/video.m3u8",
-    "categories": [
-      "Viagens"
     ],
     "status": "ativo",
     "teste": "HTTP 206"

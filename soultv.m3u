@@ -61,9 +61,6 @@ https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports02/rssports02/pl
 #EXTINF:-1 tvg-id="180" tvg-name="RS SPORTS 3" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_3_100X100_Dz8ksEi.png" group-title="Esportes / Games",RS SPORTS 3
 https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports03/rssports03/playlist.m3u8
 
-#EXTINF:-1 tvg-id="254" tvg-name="Unique Sports" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/UNIQUE_SPORTS_100X100.png" group-title="Esportes / Games",Unique Sports
-https://pop.uniquetv.com.br/uniquesports1/video.m3u8
-
 #EXTINF:-1 tvg-id="302" tvg-name="VGS TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/100px.png" group-title="Esportes / Games",VGS TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/vgstv/index.m3u8
 
@@ -202,6 +199,9 @@ https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="249" tvg-name="Tenda TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/PAG_02_-_LOGO_100X100.png" group-title="Regionais",Tenda TV
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="224" tvg-name="TV Alagoinha" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_ALAGOINHA_100_X_100.png" group-title="Regionais",TV Alagoinha
+https://cdn-tiva-stmv-jnbhost-com-br.smartplay.pe/tvalagoinha/tvalagoinha/playlist.m3u8
+
 #EXTINF:-1 tvg-id="117" tvg-name="TV Alternativa" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TVA_100X100.png" group-title="Regionais",TV Alternativa
 https://cdn-tiva-stmv5-samcast-com-br.smartplay.pe/wagner7919/wagner7919/playlist.m3u8
 
@@ -241,9 +241,6 @@ https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="TV PAMPA" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvpampa-logo3.png" group-title="Regionais",TV PAMPA
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvpampa/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="85" tvg-name="TV Planalto Norte" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TVPLANALTO.png" group-title="Regionais",TV Planalto Norte
-https://pop.uniquetv.com.br/tvplanaltonorte/video.m3u8
-
 #EXTINF:-1 tvg-id="211" tvg-name="TV Reconcavo" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_braca.png" group-title="Regionais",TV Reconcavo
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvreconcavo/tvreconcavo/playlist.m3u8
 
@@ -255,9 +252,6 @@ https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="152" tvg-name="Tv Zoom" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Zoom_Soul_Tv.png" group-title="Regionais",Tv Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-
-#EXTINF:-1 tvg-id="62" tvg-name="Unique TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/UNIQUE100X100_1.png" group-title="Regionais",Unique TV
-https://pop.uniquetv.com.br/uniquetv/video.m3u8
 
 #EXTINF:-1 tvg-id="137" tvg-name="Astral TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png" group-title="Religioso",Astral TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8
@@ -283,9 +277,6 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="304" tvg-name="Canal 25" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo.png" group-title="Variedades",Canal 25
 https://cdn-tiva-stream01-msolutionbrasil-com-br.smartplay.pe/hls/canal25/live.m3u8
 
-#EXTINF:-1 tvg-id="312" tvg-name="Conexão TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/conexaotv-100x100.png" group-title="Variedades",Conexão TV
-https://pop.uniquetv.com.br/tvconexao/video.m3u8
-
 #EXTINF:-1 tvg-id="247" tvg-name="DM Kids TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo2_PNGHD_1.png" group-title="Variedades",DM Kids TV
 https://cdn-tiva-video03-logicahost-com-br.smartplay.pe/dmkidstv/dmkidstv/playlist.m3u8
 
@@ -309,9 +300,6 @@ https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="288" tvg-name="TV Rede Mais Familia" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_2Ofmxdy.png" group-title="Variedades",TV Rede Mais Familia
 https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redefamilia/redefamilia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="173" tvg-name="REISEN CLUBE TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo100x100reisen.png" group-title="Viagens",REISEN CLUBE TV
-https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 
 #EXTINF:-1 tvg-id="303" tvg-name="Vambora Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/vamboraviajar-100x100.png" group-title="Viagens",Vambora Channel
 https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/vamborachannel/vamborachannel/playlist.m3u8

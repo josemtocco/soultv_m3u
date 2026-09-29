@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 112,
-  "total_ativos": 105,
-  "total_removidos_teste": 7,
+  "total_ativos": 101,
+  "total_removidos_teste": 11,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -26,7 +26,6 @@
     "RS SPORTS",
     "RS SPORTS 2",
     "RS SPORTS 3",
-    "Unique Sports",
     "VGS TV",
     "AWTV",
     "ISTV",
@@ -73,6 +72,7 @@
     "Rede TV Paraná",
     "Rede UTV Brasil",
     "Tenda TV",
+    "TV Alagoinha",
     "TV Alternativa",
     "TV Diário do Sertão",
     "TV IN",
@@ -86,12 +86,10 @@
     "TV O Repórter",
     "TV Onix",
     "TV PAMPA",
-    "TV Planalto Norte",
     "TV Reconcavo",
     "TV Rio Preto",
     "TV Votorantim",
     "Tv Zoom",
-    "Unique TV",
     "Astral TV",
     "Br Global Station",
     "RAE TV",
@@ -100,7 +98,6 @@
     "TV Gazin",
     "Adesso TV",
     "Canal 25",
-    "Conexão TV",
     "DM Kids TV",
     "Kanuca TV Brasil",
     "Kids Mais",
@@ -109,13 +106,36 @@
     "TV Erga Omnes",
     "TV Judaica",
     "TV Rede Mais Familia",
-    "REISEN CLUBE TV",
     "Vambora Channel"
   ],
   "falhas": [
     {
+      "name": "Unique TV",
+      "url": "https://pop.uniquetv.com.br/uniquetv/video.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Rede Metrópole",
       "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartplay.pe/metropole/index.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Unique Sports",
+      "url": "https://pop.uniquetv.com.br/uniquesports1/video.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV Planalto Norte",
+      "url": "https://pop.uniquetv.com.br/tvplanaltonorte/video.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "WTJ TV",
+      "url": "https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/wtjtvminas/wtjtvminas/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -126,14 +146,14 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "WTJ TV",
-      "url": "https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/wtjtvminas/wtjtvminas/playlist.m3u8",
+      "name": "Rede Brasil",
+      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redebrasiloficial/redebrasiloficial/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Rede Brasil",
-      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+      "name": "REISEN CLUBE TV",
+      "url": "https://pop.uniquetv.com.br/reisenclubetv/video.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -144,18 +164,18 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Alagoinha",
-      "url": "https://cdn-tiva-stmv-jnbhost-com-br.smartplay.pe/tvalagoinha/tvalagoinha/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Conexão TV",
+      "url": "https://pop.uniquetv.com.br/tvconexao/video.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-09-28T23:11:34Z",
-  "duracao_segundos": 15.89
+  "atualizado_em": "2026-09-29T04:12:30Z",
+  "duracao_segundos": 7.74
 }
