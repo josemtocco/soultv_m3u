@@ -130,9 +130,6 @@ https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/pla
 #EXTINF:-1 tvg-id="286" tvg-name="RIT TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/1399_-_logo_100x100.png" group-title="Minas",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 
-#EXTINF:-1 tvg-id="226" tvg-name="TV Difusão" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px.png" group-title="Minas",TV Difusão
-https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="193" tvg-name="TV Mais Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png" group-title="Minas",TV Mais Brasil
 https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 

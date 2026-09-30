@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 104,
-  "total_ativos": 99,
-  "total_removidos_teste": 5,
+  "total_ativos": 98,
+  "total_removidos_teste": 6,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -49,7 +49,6 @@
     "Auge TV",
     "BH Channel",
     "RIT TV",
-    "TV Difusão",
     "TV Mais Brasil",
     "TV Marcheti",
     "TVídeoNews",
@@ -120,6 +119,12 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "TV Difusão",
+      "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Br Global Station",
       "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
       "status": "inativo",
@@ -138,6 +143,6 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-09-30T11:55:01Z",
-  "duracao_segundos": 7.45
+  "atualizado_em": "2026-09-30T17:36:17Z",
+  "duracao_segundos": 7.37
 }
