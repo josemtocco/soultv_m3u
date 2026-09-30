@@ -49,13 +49,13 @@
     "Auge TV",
     "BH Channel",
     "RIT TV",
+    "TV Difusão",
     "TV Mais Brasil",
     "TV Marcheti",
     "TVídeoNews",
     "VRT Channel",
     "WTV Brasil",
     "TV A Folha",
-    "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
     "40 gtv",
@@ -107,6 +107,12 @@
   ],
   "falhas": [
     {
+      "name": "Tv Grande Natal HDTV",
+      "url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
@@ -119,14 +125,8 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Difusão",
-      "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Br Global Station",
-      "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
+      "name": "TV Litoral RN",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -137,12 +137,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Litoral RN",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+      "name": "Br Global Station",
+      "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-09-30T17:36:17Z",
-  "duracao_segundos": 7.37
+  "atualizado_em": "2026-09-30T21:51:53Z",
+  "duracao_segundos": 6.07
 }

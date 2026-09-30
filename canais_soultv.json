@@ -483,6 +483,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "226",
+    "name": "TV Difusão",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px.png",
+    "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "193",
     "name": "TV Mais Brasil",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png",
@@ -542,17 +553,6 @@
     "name": "TV A Folha",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png",
     "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
-    "categories": [
-      "Música"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "61",
-    "name": "Tv Grande Natal HDTV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg",
-    "url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
     "categories": [
       "Música"
     ],
