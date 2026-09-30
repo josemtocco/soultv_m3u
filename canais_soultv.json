@@ -256,6 +256,18 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "233",
+    "name": "Play TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo_100x100_no_formato.png",
+    "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/playtv/index.m3u8",
+    "categories": [
+      "Filmes / Séries",
+      "Variedades"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "345",
     "name": "TV 24 HORAS",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/24_horas_tv_SOUL_TV.png",
@@ -323,6 +335,17 @@
     "categories": [
       "Filmes / Séries",
       "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "66",
+    "name": "Bem Melhor",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Reduz.png",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/bemmelhor/bemmelhor/playlist.m3u8",
+    "categories": [
+      "Gastronomia"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -427,6 +450,17 @@
     "teste": "HTTP 200"
   },
   {
+    "id": "280",
+    "name": "Auge TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_100x100_OjSe73F.png",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "324",
     "name": "BH Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_NLLcngR.png",
@@ -453,6 +487,17 @@
     "name": "TV Difusão",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px.png",
     "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "193",
+    "name": "TV Mais Brasil",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png",
+    "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
     "categories": [
       "Minas"
     ],
@@ -521,6 +566,17 @@
     "url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
     "categories": [
       "Música"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "212",
+    "name": "Pet Lovers TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/BOLA_PETLOVERSTV.png",
+    "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/petloverstv/petloverstv/playlist.m3u8",
+    "categories": [
+      "Pet"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -739,17 +795,6 @@
     "name": "Tv Life America",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png",
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "243",
-    "name": "TV Litoral RN",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_5.jpg",
-    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
