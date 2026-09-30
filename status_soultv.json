@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 104,
-  "total_ativos": 101,
-  "total_removidos_teste": 3,
+  "total_ativos": 95,
+  "total_removidos_teste": 9,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -29,14 +29,12 @@
     "VGS TV",
     "AWTV",
     "ISTV",
-    "Play TV",
     "TV 24 HORAS",
     "TV DA QUEBRADA",
     "TV METROPOLES",
     "TV Protagonistas",
     "TV Sonata",
     "Vivax",
-    "Bem Melhor",
     "Assim é Portugal",
     "CNB American TV",
     "FMTV",
@@ -46,18 +44,15 @@
     "TV Florida",
     "TV Portuguesa",
     "AG Tv",
-    "Auge TV",
     "BH Channel",
     "RIT TV",
     "TV Difusão",
-    "TV Mais Brasil",
     "TV Marcheti",
     "TVídeoNews",
     "VRT Channel",
     "WTV Brasil",
     "TV A Folha",
     "Tv Grande Natal HDTV",
-    "Pet Lovers TV",
     "TV + Pet",
     "40 gtv",
     "Amazon Sat",
@@ -91,7 +86,6 @@
     "TV Votorantim",
     "Tv Zoom",
     "Astral TV",
-    "Br Global Station",
     "RAE TV",
     "Tv Adorar",
     "TV Avivando Nações",
@@ -110,6 +104,12 @@
   ],
   "falhas": [
     {
+      "name": "Play TV",
+      "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/playtv/index.m3u8",
+      "status": "inativo",
+      "motivo": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
@@ -122,12 +122,42 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "TV Mais Brasil",
+      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "name": "Bem Melhor",
+      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/bemmelhor/bemmelhor/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "name": "Pet Lovers TV",
+      "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/petloverstv/petloverstv/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Br Global Station",
+      "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Auge TV",
+      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-09-29T21:51:22Z",
-  "duracao_segundos": 7.07
+  "atualizado_em": "2026-09-30T03:57:41Z",
+  "duracao_segundos": 6.94
 }
