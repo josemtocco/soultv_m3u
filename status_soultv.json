@@ -79,6 +79,7 @@
     "TV IN",
     "TV Itapê",
     "Tv Life America",
+    "TV Litoral RN",
     "TV MAX",
     "TV Meio",
     "Tv Mogiana",
@@ -103,7 +104,6 @@
     "SBC",
     "TV Erga Omnes",
     "TV Judaica",
-    "TV Rede Mais Familia",
     "Vambora Channel"
   ],
   "falhas": [
@@ -112,6 +112,12 @@
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV Rede Mais Familia",
+      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redefamilia/redefamilia/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
       "name": "Br Global Station",
@@ -126,18 +132,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Litoral RN",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Tv Nordestina",
       "url": "https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-01T04:07:40Z",
-  "duracao_segundos": 7.5
+  "atualizado_em": "2026-10-01T12:26:04Z",
+  "duracao_segundos": 6.21
 }

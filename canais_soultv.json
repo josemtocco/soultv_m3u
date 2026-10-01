@@ -813,6 +813,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "243",
+    "name": "TV Litoral RN",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_5.jpg",
+    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "55",
     "name": "TV MAX",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png",
@@ -1071,17 +1082,6 @@
     "name": "TV Judaica",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Judaica_100x100.png",
     "url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
-    "categories": [
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "288",
-    "name": "TV Rede Mais Familia",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_2Ofmxdy.png",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redefamilia/redefamilia/playlist.m3u8",
     "categories": [
       "Variedades"
     ],
