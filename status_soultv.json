@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 104,
-  "total_ativos": 98,
-  "total_removidos_teste": 6,
+  "total_ativos": 99,
+  "total_removidos_teste": 5,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -16,6 +16,7 @@
     "Viva e Eduque",
     "D+ TV",
     "Q Tal Channel",
+    "Rede Brasil",
     "Rede QDM",
     "Séries Classic",
     "TV Clube",
@@ -56,6 +57,7 @@
     "VRT Channel",
     "WTV Brasil",
     "TV A Folha",
+    "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
     "40 gtv",
@@ -80,7 +82,6 @@
     "TV MAX",
     "TV Meio",
     "Tv Mogiana",
-    "Tv Nordestina",
     "Tv Nova Nordeste",
     "TV Onix",
     "TV PAMPA",
@@ -107,26 +108,14 @@
   ],
   "falhas": [
     {
-      "name": "Tv Grande Natal HDTV",
-      "url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Rede Brasil",
-      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redebrasiloficial/redebrasiloficial/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Litoral RN",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+      "name": "Br Global Station",
+      "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -137,12 +126,18 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Br Global Station",
-      "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
+      "name": "TV Litoral RN",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Tv Nordestina",
+      "url": "https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-09-30T21:51:53Z",
-  "duracao_segundos": 6.07
+  "atualizado_em": "2026-10-01T04:07:40Z",
+  "duracao_segundos": 7.5
 }

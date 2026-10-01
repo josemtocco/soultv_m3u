@@ -31,6 +31,9 @@ https://cdn-tiva-stmv1-samcast-com-br.smartplay.pe/demaistv6503/demaistv6503/pla
 #EXTINF:-1 tvg-id="110" tvg-name="Q Tal Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/QTAL_channel_logo_REDUZIDO.png" group-title="Entretenimento",Q Tal Channel
 https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="245" tvg-name="Rede Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/rede_brasil_MARCA_100x100.png" group-title="Entretenimento",Rede Brasil
+https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redebrasiloficial/redebrasiloficial/playlist.m3u8
+
 #EXTINF:-1 tvg-id="111" tvg-name="Rede QDM" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_QDM_reduzido.png" group-title="Entretenimento",Rede QDM
 https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
 
@@ -151,6 +154,9 @@ https://cdn-tiva-stmv7-samcast-com-br.smartplay.pe/wtvbrasil/wtvbrasil/playlist.
 #EXTINF:-1 tvg-id="87" tvg-name="TV A Folha" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png" group-title="Música",TV A Folha
 https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8
 
+#EXTINF:-1 tvg-id="61" tvg-name="Tv Grande Natal HDTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg" group-title="Música",Tv Grande Natal HDTV
+https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
+
 #EXTINF:-1 tvg-id="212" tvg-name="Pet Lovers TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/BOLA_PETLOVERSTV.png" group-title="Pet",Pet Lovers TV
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/petloverstv/petloverstv/playlist.m3u8
 
@@ -222,9 +228,6 @@ https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/redemeio/index.m3u8
 
 #EXTINF:-1 tvg-id="241" tvg-name="Tv Mogiana" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_1.png" group-title="Regionais",Tv Mogiana
 https://a.cdni.live/mogianaonline4773/mogianaonline4773/playlist.m3u8
-
-#EXTINF:-1 tvg-id="60" tvg-name="Tv Nordestina" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Nordestina_logo_100x100.png" group-title="Regionais",Tv Nordestina
-https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="231" tvg-name="Tv Nova Nordeste" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png" group-title="Regionais",Tv Nova Nordeste
 https://stream.ecast.com.br/nova-tv/index.m3u8
