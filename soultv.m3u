@@ -178,9 +178,6 @@ https://cdn-tiva-stmv1-voxtvhd-com-br.smartplay.pe/canaltvc/canaltvc/playlist.m3
 #EXTINF:-1 tvg-id="289" tvg-name="DESATIVADO - Lider TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOLGO_100_X_100_-_negativa.png" group-title="Regionais",DESATIVADO - Lider TV
 https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/lidertvssp/lidertvssp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="154" tvg-name="Extremo Oriental TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Extremo_Oriental_iPWitif.png" group-title="Regionais",Extremo Oriental TV
-https://cdn-tiva-video05-logicahost-com-br.smartplay.pe/extremotv/extremotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="251" tvg-name="Masper TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-MASPER-VERTICAL_100x100.png" group-title="Regionais",Masper TV
 https://tv02.zas.media:1936/masper/masper/playlist.m3u8
 
@@ -220,9 +217,6 @@ https://cdn-tiva-stream01-msolutionbrasil-com-br.smartplay.pe/hls/tvitape/live.m
 #EXTINF:-1 tvg-id="129" tvg-name="Tv Life America" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
-#EXTINF:-1 tvg-id="243" tvg-name="TV Litoral RN" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_5.jpg" group-title="Regionais",TV Litoral RN
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
-
 #EXTINF:-1 tvg-id="55" tvg-name="TV MAX" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png" group-title="Regionais",TV MAX
 https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8
 
@@ -231,6 +225,9 @@ https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/redemeio/index.m3u8
 
 #EXTINF:-1 tvg-id="241" tvg-name="Tv Mogiana" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_1.png" group-title="Regionais",Tv Mogiana
 https://a.cdni.live/mogianaonline4773/mogianaonline4773/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="Tv Nordestina" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Nordestina_logo_100x100.png" group-title="Regionais",Tv Nordestina
+https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="231" tvg-name="Tv Nova Nordeste" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png" group-title="Regionais",Tv Nova Nordeste
 https://stream.ecast.com.br/nova-tv/index.m3u8
@@ -294,6 +291,9 @@ https://cdn-tiva-stmv1-srvif-com.smartplay.pe/grupoergaomnes/grupoergaomnes/play
 
 #EXTINF:-1 tvg-id="332" tvg-name="TV Judaica" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Judaica_100x100.png" group-title="Variedades",TV Judaica
 https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="288" tvg-name="TV Rede Mais Familia" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_2Ofmxdy.png" group-title="Variedades",TV Rede Mais Familia
+https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redefamilia/redefamilia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="303" tvg-name="Vambora Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/vamboraviajar-100x100.png" group-title="Viagens",Vambora Channel
 https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/vamborachannel/vamborachannel/playlist.m3u8

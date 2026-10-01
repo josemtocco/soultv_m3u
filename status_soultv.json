@@ -65,7 +65,6 @@
     "America TV",
     "Canal TVC",
     "DESATIVADO - Lider TV",
-    "Extremo Oriental TV",
     "Masper TV",
     "OK TV",
     "POA Streaming TV",
@@ -79,10 +78,10 @@
     "TV IN",
     "TV Itapê",
     "Tv Life America",
-    "TV Litoral RN",
     "TV MAX",
     "TV Meio",
     "Tv Mogiana",
+    "Tv Nordestina",
     "Tv Nova Nordeste",
     "TV Onix",
     "TV PAMPA",
@@ -104,6 +103,7 @@
     "SBC",
     "TV Erga Omnes",
     "TV Judaica",
+    "TV Rede Mais Familia",
     "Vambora Channel"
   ],
   "falhas": [
@@ -114,14 +114,14 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Rede Mais Familia",
-      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redefamilia/redefamilia/playlist.m3u8",
+      "name": "Br Global Station",
+      "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Br Global Station",
-      "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
+      "name": "Extremo Oriental TV",
+      "url": "https://cdn-tiva-video05-logicahost-com-br.smartplay.pe/extremotv/extremotv/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -132,12 +132,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Tv Nordestina",
-      "url": "https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
+      "name": "TV Litoral RN",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-01T12:26:04Z",
-  "duracao_segundos": 6.21
+  "atualizado_em": "2026-10-01T22:20:24Z",
+  "duracao_segundos": 8.18
 }

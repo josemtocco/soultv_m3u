@@ -659,17 +659,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "154",
-    "name": "Extremo Oriental TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Extremo_Oriental_iPWitif.png",
-    "url": "https://cdn-tiva-video05-logicahost-com-br.smartplay.pe/extremotv/extremotv/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "251",
     "name": "Masper TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-MASPER-VERTICAL_100x100.png",
@@ -813,17 +802,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "243",
-    "name": "TV Litoral RN",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_5.jpg",
-    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "55",
     "name": "TV MAX",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png",
@@ -851,6 +829,17 @@
     "name": "Tv Mogiana",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_1.png",
     "url": "https://a.cdni.live/mogianaonline4773/mogianaonline4773/playlist.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "60",
+    "name": "Tv Nordestina",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Nordestina_logo_100x100.png",
+    "url": "https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
@@ -1082,6 +1071,17 @@
     "name": "TV Judaica",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Judaica_100x100.png",
     "url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
+    "categories": [
+      "Variedades"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "288",
+    "name": "TV Rede Mais Familia",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_2Ofmxdy.png",
+    "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redefamilia/redefamilia/playlist.m3u8",
     "categories": [
       "Variedades"
     ],
