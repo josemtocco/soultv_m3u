@@ -124,6 +124,9 @@ https://tvportuguesa.myemail.pt:8888/live/stream1_aac/index.m3u8
 #EXTINF:-1 tvg-id="115" tvg-name="AG Tv" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_YOUTUBE_100100px_ZfxeqjJ.png" group-title="Minas",AG Tv
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 
+#EXTINF:-1 tvg-id="280" tvg-name="Auge TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_100x100_OjSe73F.png" group-title="Minas",Auge TV
+https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="324" tvg-name="BH Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_NLLcngR.png" group-title="Minas",BH Channel
 https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8
 
@@ -141,9 +144,6 @@ https://cdn-tiva-stmv1-samcast-com-br.smartplay.pe/junior4319/junior4319/playlis
 
 #EXTINF:-1 tvg-id="158" tvg-name="TVídeoNews" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV%C3%ADdeoNews_logo_oficial_reduz.png" group-title="Minas",TVídeoNews
 https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvideonews/tvideonews/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="69" tvg-name="VRT Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png" group-title="Minas",VRT Channel
-https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="148" tvg-name="WTV Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png" group-title="Minas",WTV Brasil
 https://cdn-tiva-stmv7-samcast-com-br.smartplay.pe/wtvbrasil/wtvbrasil/playlist.m3u8

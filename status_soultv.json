@@ -47,13 +47,13 @@
     "TV Florida",
     "TV Portuguesa",
     "AG Tv",
+    "Auge TV",
     "BH Channel",
     "RIT TV",
     "TV Difusão",
     "TV Mais Brasil",
     "TV Marcheti",
     "TVídeoNews",
-    "VRT Channel",
     "WTV Brasil",
     "TV A Folha",
     "Tv Grande Natal HDTV",
@@ -119,8 +119,8 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Litoral RN",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+      "name": "Amazon Sat",
+      "url": "https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -131,18 +131,18 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Amazon Sat",
-      "url": "https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8",
+      "name": "TV Litoral RN",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Auge TV",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8",
+      "name": "VRT Channel",
+      "url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+      "motivo": "ConnectTimeout: HTTPSConnectionPool(host='sistemavrt2023.vrtchannel.tv.br', port=3626): Max retries exceeded with url: /hybrid/play.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='sistemavrt2023.vrtchannel.tv.br', port=3626) at 0x7fc4651dcc50>, 'Connection to sistemavrt2023.vrtchannel.tv.br timed out. (connect timeout=12)'))"
     }
   ],
-  "atualizado_em": "2026-10-02T04:02:09Z",
-  "duracao_segundos": 8.71
+  "atualizado_em": "2026-10-02T11:52:37Z",
+  "duracao_segundos": 15.18
 }

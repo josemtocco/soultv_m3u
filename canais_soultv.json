@@ -461,6 +461,17 @@
     "teste": "HTTP 200"
   },
   {
+    "id": "280",
+    "name": "Auge TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_100x100_OjSe73F.png",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "324",
     "name": "BH Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_NLLcngR.png",
@@ -520,17 +531,6 @@
     "name": "TVídeoNews",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV%C3%ADdeoNews_logo_oficial_reduz.png",
     "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvideonews/tvideonews/chunklist.m3u8",
-    "categories": [
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "69",
-    "name": "VRT Channel",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png",
-    "url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
     "categories": [
       "Minas"
     ],
