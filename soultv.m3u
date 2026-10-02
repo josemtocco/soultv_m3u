@@ -145,6 +145,9 @@ https://cdn-tiva-stmv1-samcast-com-br.smartplay.pe/junior4319/junior4319/playlis
 #EXTINF:-1 tvg-id="158" tvg-name="TVídeoNews" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV%C3%ADdeoNews_logo_oficial_reduz.png" group-title="Minas",TVídeoNews
 https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvideonews/tvideonews/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="69" tvg-name="VRT Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png" group-title="Minas",VRT Channel
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="148" tvg-name="WTV Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png" group-title="Minas",WTV Brasil
 https://cdn-tiva-stmv7-samcast-com-br.smartplay.pe/wtvbrasil/wtvbrasil/playlist.m3u8
 
@@ -162,6 +165,9 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 
 #EXTINF:-1 tvg-id="215" tvg-name="40 gtv" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png" group-title="Regionais",40 gtv
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="Amazon Sat" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png" group-title="Regionais",Amazon Sat
+https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-id="181" tvg-name="America TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_america-tv.png" group-title="Regionais",America TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12962/playlist/playlist.m3u8
@@ -183,9 +189,6 @@ https://stmv2.srvsh.com.br/douglas5010/douglas5010/playlist.m3u8
 
 #EXTINF:-1 tvg-id="221" tvg-name="POA Streaming TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_POA_Streaming_100_px.png" group-title="Regionais",POA Streaming TV
 https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/poastreaming/poastreaming/playlist.m3u8
-
-#EXTINF:-1 tvg-id="132" tvg-name="Primer TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Pe%C3%A7as_App_logo_100_x_100_reduz.png" group-title="Regionais",Primer TV
-http://177.74.174.57:8080/hls/primertv.m3u8
 
 #EXTINF:-1 tvg-id="250" tvg-name="Rede TV Paraná" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/PAG_02_-_LOGO_100X100_YUPjBIv.png" group-title="Regionais",Rede TV Paraná
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8

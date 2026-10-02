@@ -538,6 +538,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "69",
+    "name": "VRT Channel",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png",
+    "url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "148",
     "name": "WTV Brasil",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png",
@@ -602,6 +613,17 @@
     ],
     "status": "ativo",
     "teste": "HTTP 206"
+  },
+  {
+    "id": "57",
+    "name": "Amazon Sat",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png",
+    "url": "https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 200"
   },
   {
     "id": "181",
@@ -674,17 +696,6 @@
     "name": "POA Streaming TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_POA_Streaming_100_px.png",
     "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/poastreaming/poastreaming/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "132",
-    "name": "Primer TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Pe%C3%A7as_App_logo_100_x_100_reduz.png",
-    "url": "http://177.74.174.57:8080/hls/primertv.m3u8",
     "categories": [
       "Regionais"
     ],
