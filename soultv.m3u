@@ -124,9 +124,6 @@ https://tvportuguesa.myemail.pt:8888/live/stream1_aac/index.m3u8
 #EXTINF:-1 tvg-id="115" tvg-name="AG Tv" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_YOUTUBE_100100px_ZfxeqjJ.png" group-title="Minas",AG Tv
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 
-#EXTINF:-1 tvg-id="280" tvg-name="Auge TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_100x100_OjSe73F.png" group-title="Minas",Auge TV
-https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="324" tvg-name="BH Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_NLLcngR.png" group-title="Minas",BH Channel
 https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8
 
@@ -166,9 +163,6 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-id="215" tvg-name="40 gtv" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png" group-title="Regionais",40 gtv
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="57" tvg-name="Amazon Sat" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png" group-title="Regionais",Amazon Sat
-https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8
-
 #EXTINF:-1 tvg-id="181" tvg-name="America TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_america-tv.png" group-title="Regionais",America TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12962/playlist/playlist.m3u8
 
@@ -177,6 +171,9 @@ https://cdn-tiva-stmv1-voxtvhd-com-br.smartplay.pe/canaltvc/canaltvc/playlist.m3
 
 #EXTINF:-1 tvg-id="289" tvg-name="DESATIVADO - Lider TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOLGO_100_X_100_-_negativa.png" group-title="Regionais",DESATIVADO - Lider TV
 https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/lidertvssp/lidertvssp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="154" tvg-name="Extremo Oriental TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Extremo_Oriental_iPWitif.png" group-title="Regionais",Extremo Oriental TV
+https://cdn-tiva-video05-logicahost-com-br.smartplay.pe/extremotv/extremotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="251" tvg-name="Masper TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-MASPER-VERTICAL_100x100.png" group-title="Regionais",Masper TV
 https://tv02.zas.media:1936/masper/masper/playlist.m3u8

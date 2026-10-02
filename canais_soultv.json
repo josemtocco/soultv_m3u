@@ -461,17 +461,6 @@
     "teste": "HTTP 200"
   },
   {
-    "id": "280",
-    "name": "Auge TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_100x100_OjSe73F.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8",
-    "categories": [
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "324",
     "name": "BH Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_NLLcngR.png",
@@ -615,17 +604,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "57",
-    "name": "Amazon Sat",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png",
-    "url": "https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "181",
     "name": "America TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_america-tv.png",
@@ -652,6 +630,17 @@
     "name": "DESATIVADO - Lider TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOLGO_100_X_100_-_negativa.png",
     "url": "https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/lidertvssp/lidertvssp/playlist.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "154",
+    "name": "Extremo Oriental TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Extremo_Oriental_iPWitif.png",
+    "url": "https://cdn-tiva-video05-logicahost-com-br.smartplay.pe/extremotv/extremotv/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
