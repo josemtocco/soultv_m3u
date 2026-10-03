@@ -115,6 +115,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "TV Litoral RN",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
@@ -125,14 +131,8 @@
       "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Litoral RN",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-02T21:48:57Z",
-  "duracao_segundos": 8.13
+  "atualizado_em": "2026-10-03T03:46:56Z",
+  "duracao_segundos": 11.08
 }
