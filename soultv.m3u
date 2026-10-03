@@ -16,6 +16,9 @@ https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/hackathonbrasil/hackatho
 #EXTINF:-1 tvg-id="267" tvg-name="Sou + Pop TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_alta_resolu%C3%A7%C3%A3o_SouPop_100x100.png" group-title="Cultura",Sou + Pop TV
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/soumaispop/soumaispop/playlist.m3u8
 
+#EXTINF:-1 tvg-id="296" tvg-name="Tv História" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png" group-title="Cultura",Tv História
+https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/tvhistoria/tvhistoria/playlist.m3u8
+
 #EXTINF:-1 tvg-id="235" tvg-name="Veza TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/VezaTV_Branco_-_Logo_1_4naHcCE.png" group-title="Cultura",Veza TV
 https://vezatv.cdn.cportal.com.br/live/stream.m3u8
 
@@ -33,6 +36,9 @@ https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redebrasiloficial/redebr
 
 #EXTINF:-1 tvg-id="111" tvg-name="Rede QDM" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_QDM_reduzido.png" group-title="Entretenimento",Rede QDM
 https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="240" tvg-name="Séries Classic" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100.png" group-title="Entretenimento",Séries Classic
+https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/serieclassic/serieclassic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="214" tvg-name="TV Clube" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Clube_Brasil_100x100.png" group-title="Entretenimento",TV Clube
 https://stream.ecast.com.br/jonas-silva/index.m3u8
@@ -63,6 +69,9 @@ https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/vgstv/index.m3u8
 
 #EXTINF:-1 tvg-id="149" tvg-name="AWTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png" group-title="Filmes / Séries",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="74" tvg-name="ISTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_istv_png.png" group-title="Filmes / Séries",ISTV
+https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/redeistv/redeistv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="233" tvg-name="Play TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo_100x100_no_formato.png" group-title="Filmes / Séries",Play TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/playtv/index.m3u8
@@ -267,6 +276,9 @@ https://cdn-tiva-stream01-msolutionbrasil-com-br.smartplay.pe/hls/canal25/live.m
 
 #EXTINF:-1 tvg-id="247" tvg-name="DM Kids TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo2_PNGHD_1.png" group-title="Variedades",DM Kids TV
 https://cdn-tiva-video03-logicahost-com-br.smartplay.pe/dmkidstv/dmkidstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="290" tvg-name="Kanuca TV Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Kanuca_TV_100x100.png" group-title="Variedades",Kanuca TV Brasil
+https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/kanucatv/kanucatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="183" tvg-name="Kids Mais" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/unnamed.png" group-title="Variedades",Kids Mais
 https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
