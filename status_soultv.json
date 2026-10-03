@@ -115,8 +115,8 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Litoral RN",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+      "name": "Br Global Station",
+      "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -127,12 +127,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Br Global Station",
-      "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
+      "name": "TV Litoral RN",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-03T03:46:56Z",
-  "duracao_segundos": 11.08
+  "atualizado_em": "2026-10-03T11:05:19Z",
+  "duracao_segundos": 6.79
 }
