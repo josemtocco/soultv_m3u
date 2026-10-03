@@ -3,22 +3,20 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 104,
-  "total_ativos": 100,
-  "total_removidos_teste": 4,
+  "total_ativos": 96,
+  "total_removidos_teste": 8,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
     "Bem + TV",
     "Hackathon Brasil TV",
     "Sou + Pop TV",
-    "Tv História",
     "Veza TV",
     "Viva e Eduque",
     "D+ TV",
     "Q Tal Channel",
     "Rede Brasil",
     "Rede QDM",
-    "Séries Classic",
     "TV Clube",
     "TV CNB",
     "Tv Estilo",
@@ -29,7 +27,6 @@
     "RS SPORTS 3",
     "VGS TV",
     "AWTV",
-    "ISTV",
     "Play TV",
     "TV 24 HORAS",
     "TV DA QUEBRADA",
@@ -98,7 +95,6 @@
     "Adesso TV",
     "Canal 25",
     "DM Kids TV",
-    "Kanuca TV Brasil",
     "Kids Mais",
     "Rede SDP TV",
     "SBC",
@@ -109,14 +105,32 @@
   ],
   "falhas": [
     {
+      "name": "ISTV",
+      "url": "https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/redeistv/redeistv/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 521, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "Séries Classic",
+      "url": "https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/serieclassic/serieclassic/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 521, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Br Global Station",
       "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV Litoral RN",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -127,12 +141,18 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Litoral RN",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+      "name": "Tv História",
+      "url": "https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/tvhistoria/tvhistoria/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 521, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Kanuca TV Brasil",
+      "url": "https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/kanucatv/kanucatv/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-03T11:05:19Z",
-  "duracao_segundos": 6.79
+  "atualizado_em": "2026-10-03T15:42:48Z",
+  "duracao_segundos": 11.33
 }

@@ -55,17 +55,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "296",
-    "name": "Tv História",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png",
-    "url": "https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/tvhistoria/tvhistoria/playlist.m3u8",
-    "categories": [
-      "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "235",
     "name": "Veza TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/VezaTV_Branco_-_Logo_1_4naHcCE.png",
@@ -131,17 +120,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
-  },
-  {
-    "id": "240",
-    "name": "Séries Classic",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100.png",
-    "url": "https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/serieclassic/serieclassic/playlist.m3u8",
-    "categories": [
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
   },
   {
     "id": "214",
@@ -247,18 +225,6 @@
     "name": "AWTV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png",
     "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "74",
-    "name": "ISTV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_istv_png.png",
-    "url": "https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/redeistv/redeistv/playlist.m3u8",
     "categories": [
       "Filmes / Séries",
       "Entretenimento"
@@ -1016,17 +982,6 @@
     "name": "DM Kids TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo2_PNGHD_1.png",
     "url": "https://cdn-tiva-video03-logicahost-com-br.smartplay.pe/dmkidstv/dmkidstv/playlist.m3u8",
-    "categories": [
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "290",
-    "name": "Kanuca TV Brasil",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Kanuca_TV_100x100.png",
-    "url": "https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/kanucatv/kanucatv/playlist.m3u8",
     "categories": [
       "Variedades"
     ],
