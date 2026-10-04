@@ -461,17 +461,6 @@
     "teste": "HTTP 200"
   },
   {
-    "id": "280",
-    "name": "Auge TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_100x100_OjSe73F.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8",
-    "categories": [
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "324",
     "name": "BH Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_NLLcngR.png",
@@ -939,6 +928,17 @@
     "name": "Astral TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png",
     "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8",
+    "categories": [
+      "Religioso"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "210",
+    "name": "Br Global Station",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/100x_100.png",
+    "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
     "categories": [
       "Religioso"
     ],

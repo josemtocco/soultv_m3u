@@ -47,7 +47,6 @@
     "TV Florida",
     "TV Portuguesa",
     "AG Tv",
-    "Auge TV",
     "BH Channel",
     "RIT TV",
     "TV Difusão",
@@ -91,6 +90,7 @@
     "TV Votorantim",
     "Tv Zoom",
     "Astral TV",
+    "Br Global Station",
     "RAE TV",
     "Tv Adorar",
     "TV Avivando Nações",
@@ -115,12 +115,6 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Br Global Station",
-      "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
@@ -131,8 +125,14 @@
       "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Auge TV",
+      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-03T20:35:27Z",
-  "duracao_segundos": 12.62
+  "atualizado_em": "2026-10-04T04:17:51Z",
+  "duracao_segundos": 15.15
 }
