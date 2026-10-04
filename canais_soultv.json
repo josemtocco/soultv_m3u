@@ -461,6 +461,17 @@
     "teste": "HTTP 200"
   },
   {
+    "id": "280",
+    "name": "Auge TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_100x100_OjSe73F.png",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "324",
     "name": "BH Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_NLLcngR.png",
@@ -767,17 +778,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 206"
-  },
-  {
-    "id": "327",
-    "name": "TV IN",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGOTIPO-TVIN-100X100_copiar.png",
-    "url": "https://live.tvinterior.com.br/hls/stream.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
   },
   {
     "id": "179",

@@ -47,6 +47,7 @@
     "TV Florida",
     "TV Portuguesa",
     "AG Tv",
+    "Auge TV",
     "BH Channel",
     "RIT TV",
     "TV Difusão",
@@ -75,7 +76,6 @@
     "TV Alagoinha",
     "TV Alternativa",
     "TV Diário do Sertão",
-    "TV IN",
     "TV Itapê",
     "Tv Life America",
     "TV MAX",
@@ -127,12 +127,12 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Auge TV",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8",
+      "name": "TV IN",
+      "url": "https://live.tvinterior.com.br/hls/stream.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+      "motivo": "ConnectionError: HTTPSConnectionPool(host='live.tvinterior.com.br', port=443): Max retries exceeded with url: /hls/stream.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='live.tvinterior.com.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     }
   ],
-  "atualizado_em": "2026-10-04T04:17:51Z",
-  "duracao_segundos": 15.15
+  "atualizado_em": "2026-10-04T11:46:56Z",
+  "duracao_segundos": 13.07
 }
