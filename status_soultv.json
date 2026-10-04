@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 104,
-  "total_ativos": 100,
-  "total_removidos_teste": 4,
+  "total_ativos": 101,
+  "total_removidos_teste": 3,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -76,6 +76,7 @@
     "TV Alagoinha",
     "TV Alternativa",
     "TV Diário do Sertão",
+    "TV IN",
     "TV Itapê",
     "Tv Life America",
     "TV MAX",
@@ -125,14 +126,8 @@
       "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV IN",
-      "url": "https://live.tvinterior.com.br/hls/stream.m3u8",
-      "status": "inativo",
-      "motivo": "ConnectionError: HTTPSConnectionPool(host='live.tvinterior.com.br', port=443): Max retries exceeded with url: /hls/stream.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='live.tvinterior.com.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     }
   ],
-  "atualizado_em": "2026-10-04T11:46:56Z",
-  "duracao_segundos": 13.07
+  "atualizado_em": "2026-10-04T16:27:26Z",
+  "duracao_segundos": 7.31
 }

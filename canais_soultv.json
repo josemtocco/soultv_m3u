@@ -780,6 +780,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "327",
+    "name": "TV IN",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGOTIPO-TVIN-100X100_copiar.png",
+    "url": "https://live.tvinterior.com.br/hls/stream.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 200"
+  },
+  {
     "id": "179",
     "name": "TV Itapê",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TVITAPE_200x200.png",
