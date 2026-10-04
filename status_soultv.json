@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 104,
-  "total_ativos": 101,
-  "total_removidos_teste": 3,
+  "total_ativos": 99,
+  "total_removidos_teste": 5,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -37,7 +37,6 @@
     "TV Protagonistas",
     "TV Sonata",
     "Vivax",
-    "Bem Melhor",
     "Assim é Portugal",
     "CNB American TV",
     "FMTV",
@@ -87,7 +86,6 @@
     "TV Onix",
     "TV PAMPA",
     "TV Reconcavo",
-    "TV Rio Preto",
     "TV Votorantim",
     "Tv Zoom",
     "Astral TV",
@@ -116,18 +114,30 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "TV Litoral RN",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Litoral RN",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+      "name": "TV Rio Preto",
+      "url": "https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/tvriopreto/tvriopreto/playlist.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video02-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "name": "Bem Melhor",
+      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/bemmelhor/bemmelhor/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video01-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
     }
   ],
-  "atualizado_em": "2026-10-04T16:27:26Z",
-  "duracao_segundos": 7.31
+  "atualizado_em": "2026-10-04T20:51:45Z",
+  "duracao_segundos": 15.9
 }
