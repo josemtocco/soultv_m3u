@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 104,
-  "total_ativos": 101,
-  "total_removidos_teste": 3,
+  "total_ativos": 100,
+  "total_removidos_teste": 4,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -31,9 +31,7 @@
     "AWTV",
     "ISTV",
     "Play TV",
-    "TV 24 HORAS",
     "TV DA QUEBRADA",
-    "TV METROPOLES",
     "TV Protagonistas",
     "TV Sonata",
     "Vivax",
@@ -79,6 +77,7 @@
     "TV IN",
     "TV Itapê",
     "Tv Life America",
+    "TV Litoral RN",
     "TV MAX",
     "TV Meio",
     "Tv Mogiana",
@@ -110,6 +109,18 @@
   ],
   "falhas": [
     {
+      "name": "TV 24 HORAS",
+      "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV METROPOLES",
+      "url": "https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
@@ -120,14 +131,8 @@
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Litoral RN",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-05T13:35:26Z",
-  "duracao_segundos": 5.48
+  "atualizado_em": "2026-10-05T23:43:47Z",
+  "duracao_segundos": 12.29
 }

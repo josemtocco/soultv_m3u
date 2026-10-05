@@ -76,14 +76,8 @@ https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/redeistv/redeistv/playli
 #EXTINF:-1 tvg-id="233" tvg-name="Play TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo_100x100_no_formato.png" group-title="Filmes / Séries",Play TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/playtv/index.m3u8
 
-#EXTINF:-1 tvg-id="345" tvg-name="TV 24 HORAS" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/24_horas_tv_SOUL_TV.png" group-title="Filmes / Séries",TV 24 HORAS
-https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
-
 #EXTINF:-1 tvg-id="348" tvg-name="TV DA QUEBRADA" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_QUEBRADA_100X100_COM_FUNDO_0fOHbbh.png" group-title="Filmes / Séries",TV DA QUEBRADA
 https://stmv2.samcast.com.br/davi2252/davi2252/playlist.m3u8
-
-#EXTINF:-1 tvg-id="346" tvg-name="TV METROPOLES" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_METROPOLES_FUDO_VERMELHO_100x100.png" group-title="Filmes / Séries",TV METROPOLES
-https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8
 
 #EXTINF:-1 tvg-id="347" tvg-name="TV Protagonistas" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_so_marca_final_1.jpg" group-title="Filmes / Séries",TV Protagonistas
 https://Stmv1.samcast.com.br/tvprotagonistasdo2603/tvprotagonistasdo2603/playlist.m3u8
@@ -219,6 +213,9 @@ https://cdn-tiva-stream01-msolutionbrasil-com-br.smartplay.pe/hls/tvitape/live.m
 
 #EXTINF:-1 tvg-id="129" tvg-name="Tv Life America" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+
+#EXTINF:-1 tvg-id="243" tvg-name="TV Litoral RN" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_5.jpg" group-title="Regionais",TV Litoral RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-name="TV MAX" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png" group-title="Regionais",TV MAX
 https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8

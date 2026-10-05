@@ -279,18 +279,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "345",
-    "name": "TV 24 HORAS",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/24_horas_tv_SOUL_TV.png",
-    "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "348",
     "name": "TV DA QUEBRADA",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_QUEBRADA_100X100_COM_FUNDO_0fOHbbh.png",
@@ -298,18 +286,6 @@
     "categories": [
       "Filmes / Séries",
       "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "346",
-    "name": "TV METROPOLES",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_METROPOLES_FUDO_VERMELHO_100x100.png",
-    "url": "https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Minas"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -806,6 +782,17 @@
     "name": "Tv Life America",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png",
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "243",
+    "name": "TV Litoral RN",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_5.jpg",
+    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
