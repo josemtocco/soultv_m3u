@@ -351,6 +351,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "66",
+    "name": "Bem Melhor",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Reduz.png",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/bemmelhor/bemmelhor/playlist.m3u8",
+    "categories": [
+      "Gastronomia"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "54",
     "name": "Assim é Portugal",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvportugal-logo.png",
@@ -884,6 +895,17 @@
     "name": "TV Reconcavo",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_braca.png",
     "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvreconcavo/tvreconcavo/playlist.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "206",
+    "name": "TV Rio Preto",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/SOUL_TV_RIO_PRETO_LOGO_100X100PX.png",
+    "url": "https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/tvriopreto/tvriopreto/playlist.m3u8",
     "categories": [
       "Regionais"
     ],

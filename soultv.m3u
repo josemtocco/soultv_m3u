@@ -94,6 +94,9 @@ https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/isonata/isonata/playlist
 #EXTINF:-1 tvg-id="265" tvg-name="Vivax" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_VIVAX_100x100.png" group-title="Filmes / Séries",Vivax
 https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="66" tvg-name="Bem Melhor" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Reduz.png" group-title="Gastronomia",Bem Melhor
+https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/bemmelhor/bemmelhor/playlist.m3u8
+
 #EXTINF:-1 tvg-id="54" tvg-name="Assim é Portugal" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvportugal-logo.png" group-title="Internacional",Assim é Portugal
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/assimeportugal/assimeportugal/playlist.m3u8
 
@@ -240,6 +243,9 @@ https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvpampa/tvpampa/playlist
 
 #EXTINF:-1 tvg-id="211" tvg-name="TV Reconcavo" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_braca.png" group-title="Regionais",TV Reconcavo
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvreconcavo/tvreconcavo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="206" tvg-name="TV Rio Preto" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/SOUL_TV_RIO_PRETO_LOGO_100X100PX.png" group-title="Regionais",TV Rio Preto
+https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/tvriopreto/tvriopreto/playlist.m3u8
 
 #EXTINF:-1 tvg-id="177" tvg-name="TV Votorantim" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TVV_100px.png" group-title="Regionais",TV Votorantim
 https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8

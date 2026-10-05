@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 104,
-  "total_ativos": 99,
-  "total_removidos_teste": 5,
+  "total_ativos": 101,
+  "total_removidos_teste": 3,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -37,6 +37,7 @@
     "TV Protagonistas",
     "TV Sonata",
     "Vivax",
+    "Bem Melhor",
     "Assim é Portugal",
     "CNB American TV",
     "FMTV",
@@ -86,6 +87,7 @@
     "TV Onix",
     "TV PAMPA",
     "TV Reconcavo",
+    "TV Rio Preto",
     "TV Votorantim",
     "Tv Zoom",
     "Astral TV",
@@ -124,20 +126,8 @@
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Rio Preto",
-      "url": "https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/tvriopreto/tvriopreto/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video02-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
-    },
-    {
-      "name": "Bem Melhor",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/bemmelhor/bemmelhor/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video01-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
     }
   ],
-  "atualizado_em": "2026-10-04T20:51:45Z",
-  "duracao_segundos": 15.9
+  "atualizado_em": "2026-10-05T04:01:32Z",
+  "duracao_segundos": 8.42
 }
