@@ -46,7 +46,6 @@
     "TV Portuguesa",
     "AG Tv",
     "Auge TV",
-    "BH Channel",
     "RIT TV",
     "TV Difusão",
     "TV Mais Brasil",
@@ -74,6 +73,7 @@
     "TV Alagoinha",
     "TV Alternativa",
     "TV Diário do Sertão",
+    "TV IN",
     "TV Itapê",
     "Tv Life America",
     "TV Litoral RN",
@@ -108,12 +108,6 @@
   ],
   "falhas": [
     {
-      "name": "SescTV",
-      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "TV 24 HORAS",
       "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
       "status": "inativo",
@@ -126,18 +120,24 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Hip Hop Vai Além TV",
-      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+      "name": "SescTV",
+      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV IN",
-      "url": "https://live.tvinterior.com.br/hls/stream.m3u8",
+      "name": "BH Channel",
+      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
       "status": "inativo",
-      "motivo": "ConnectionError: HTTPSConnectionPool(host='live.tvinterior.com.br', port=443): Max retries exceeded with url: /hls/stream.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='live.tvinterior.com.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Hip Hop Vai Além TV",
+      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-06T12:44:39Z",
-  "duracao_segundos": 13.0
+  "atualizado_em": "2026-10-06T22:19:24Z",
+  "duracao_segundos": 7.24
 }

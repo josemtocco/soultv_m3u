@@ -448,17 +448,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "324",
-    "name": "BH Channel",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_NLLcngR.png",
-    "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
-    "categories": [
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "286",
     "name": "RIT TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/1399_-_logo_100x100.png",
@@ -754,6 +743,17 @@
     ],
     "status": "ativo",
     "teste": "HTTP 206"
+  },
+  {
+    "id": "327",
+    "name": "TV IN",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGOTIPO-TVIN-100X100_copiar.png",
+    "url": "https://live.tvinterior.com.br/hls/stream.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 200"
   },
   {
     "id": "179",
