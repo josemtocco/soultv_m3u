@@ -580,6 +580,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "57",
+    "name": "Amazon Sat",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png",
+    "url": "https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 200"
+  },
+  {
     "id": "181",
     "name": "America TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_america-tv.png",
@@ -805,17 +816,6 @@
     "name": "Tv Mogiana",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_1.png",
     "url": "https://a.cdni.live/mogianaonline4773/mogianaonline4773/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "60",
-    "name": "Tv Nordestina",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Nordestina_logo_100x100.png",
-    "url": "https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
     "categories": [
       "Regionais"
     ],

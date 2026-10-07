@@ -58,6 +58,7 @@
     "Pet Lovers TV",
     "TV + Pet",
     "40 gtv",
+    "Amazon Sat",
     "America TV",
     "Canal TVC",
     "DESATIVADO - Lider TV",
@@ -79,7 +80,6 @@
     "TV MAX",
     "TV Meio",
     "Tv Mogiana",
-    "Tv Nordestina",
     "Tv Nova Nordeste",
     "TV Onix",
     "TV PAMPA",
@@ -113,8 +113,14 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Amazon Sat",
-      "url": "https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8",
+      "name": "Hip Hop Vai Além TV",
+      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Tv Nordestina",
+      "url": "https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -125,8 +131,8 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Hip Hop Vai Além TV",
-      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+      "name": "BH Channel",
+      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
@@ -135,14 +141,8 @@
       "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "BH Channel",
-      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-07T04:17:05Z",
-  "duracao_segundos": 15.32
+  "atualizado_em": "2026-10-07T12:38:48Z",
+  "duracao_segundos": 12.2
 }

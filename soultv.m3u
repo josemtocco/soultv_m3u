@@ -157,6 +157,9 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-id="215" tvg-name="40 gtv" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png" group-title="Regionais",40 gtv
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="57" tvg-name="Amazon Sat" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png" group-title="Regionais",Amazon Sat
+https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8
+
 #EXTINF:-1 tvg-id="181" tvg-name="America TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_america-tv.png" group-title="Regionais",America TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12962/playlist/playlist.m3u8
 
@@ -219,9 +222,6 @@ https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/redemeio/index.m3u8
 
 #EXTINF:-1 tvg-id="241" tvg-name="Tv Mogiana" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_1.png" group-title="Regionais",Tv Mogiana
 https://a.cdni.live/mogianaonline4773/mogianaonline4773/playlist.m3u8
-
-#EXTINF:-1 tvg-id="60" tvg-name="Tv Nordestina" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Nordestina_logo_100x100.png" group-title="Regionais",Tv Nordestina
-https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="231" tvg-name="Tv Nova Nordeste" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png" group-title="Regionais",Tv Nova Nordeste
 https://stream.ecast.com.br/nova-tv/index.m3u8
