@@ -525,17 +525,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "87",
-    "name": "TV A Folha",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
-    "categories": [
-      "Música"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "61",
     "name": "Tv Grande Natal HDTV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg",
@@ -606,17 +595,6 @@
     "name": "Canal TVC",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tvc_100x100_soul_tv.png",
     "url": "https://cdn-tiva-stmv1-voxtvhd-com-br.smartplay.pe/canaltvc/canaltvc/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "289",
-    "name": "DESATIVADO - Lider TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOLGO_100_X_100_-_negativa.png",
-    "url": "https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/lidertvssp/lidertvssp/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
@@ -904,17 +882,6 @@
     "name": "Astral TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png",
     "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8",
-    "categories": [
-      "Religioso"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "210",
-    "name": "Br Global Station",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/100x_100.png",
-    "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
     "categories": [
       "Religioso"
     ],

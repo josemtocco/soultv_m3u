@@ -2,9 +2,9 @@
   "ok": true,
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
-  "total_api": 104,
-  "total_ativos": 98,
-  "total_removidos_teste": 6,
+  "total_api": 103,
+  "total_ativos": 95,
+  "total_removidos_teste": 8,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -53,7 +53,6 @@
     "TVídeoNews",
     "VRT Channel",
     "WTV Brasil",
-    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -61,7 +60,6 @@
     "Amazon Sat",
     "America TV",
     "Canal TVC",
-    "DESATIVADO - Lider TV",
     "Extremo Oriental TV",
     "Masper TV",
     "OK TV",
@@ -88,7 +86,6 @@
     "TV Votorantim",
     "Tv Zoom",
     "Astral TV",
-    "Br Global Station",
     "RAE TV",
     "Tv Adorar",
     "TV Avivando Nações",
@@ -113,6 +110,18 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "TV A Folha",
+      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Br Global Station",
+      "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
@@ -121,6 +130,12 @@
     {
       "name": "Tv Nordestina",
       "url": "https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV 24 HORAS",
+      "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -135,14 +150,8 @@
       "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV 24 HORAS",
-      "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-07T12:38:48Z",
-  "duracao_segundos": 12.2
+  "atualizado_em": "2026-10-07T22:41:29Z",
+  "duracao_segundos": 9.32
 }

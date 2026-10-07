@@ -142,9 +142,6 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="148" tvg-name="WTV Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png" group-title="Minas",WTV Brasil
 https://cdn-tiva-stmv7-samcast-com-br.smartplay.pe/wtvbrasil/wtvbrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="87" tvg-name="TV A Folha" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png" group-title="Música",TV A Folha
-https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8
-
 #EXTINF:-1 tvg-id="61" tvg-name="Tv Grande Natal HDTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg" group-title="Música",Tv Grande Natal HDTV
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 
@@ -165,9 +162,6 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-12962/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="229" tvg-name="Canal TVC" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tvc_100x100_soul_tv.png" group-title="Regionais",Canal TVC
 https://cdn-tiva-stmv1-voxtvhd-com-br.smartplay.pe/canaltvc/canaltvc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="289" tvg-name="DESATIVADO - Lider TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOLGO_100_X_100_-_negativa.png" group-title="Regionais",DESATIVADO - Lider TV
-https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/lidertvssp/lidertvssp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="154" tvg-name="Extremo Oriental TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Extremo_Oriental_iPWitif.png" group-title="Regionais",Extremo Oriental TV
 https://cdn-tiva-video05-logicahost-com-br.smartplay.pe/extremotv/extremotv/playlist.m3u8
@@ -246,9 +240,6 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="137" tvg-name="Astral TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png" group-title="Religioso",Astral TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8
-
-#EXTINF:-1 tvg-id="210" tvg-name="Br Global Station" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/100x_100.png" group-title="Religioso",Br Global Station
-https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8
 
 #EXTINF:-1 tvg-id="135" tvg-name="RAE TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RAETV.png" group-title="Religioso",RAE TV
 https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/raetv/raetv/playlist.m3u8
