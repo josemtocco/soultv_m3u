@@ -756,29 +756,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "243",
-    "name": "TV Litoral RN",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_5.jpg",
-    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "55",
-    "name": "TV MAX",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8",
-    "categories": [
-      "Regionais",
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "218",
     "name": "TV Meio",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/SOULTV-100x100px-.png",
@@ -882,6 +859,17 @@
     "name": "Astral TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png",
     "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8",
+    "categories": [
+      "Religioso"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "210",
+    "name": "Br Global Station",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/100x_100.png",
+    "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
     "categories": [
       "Religioso"
     ],

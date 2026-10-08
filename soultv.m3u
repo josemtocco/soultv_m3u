@@ -205,12 +205,6 @@ https://cdn-tiva-stream01-msolutionbrasil-com-br.smartplay.pe/hls/tvitape/live.m
 #EXTINF:-1 tvg-id="129" tvg-name="Tv Life America" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
-#EXTINF:-1 tvg-id="243" tvg-name="TV Litoral RN" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_5.jpg" group-title="Regionais",TV Litoral RN
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-name="TV MAX" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png" group-title="Regionais",TV MAX
-https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8
-
 #EXTINF:-1 tvg-id="218" tvg-name="TV Meio" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/SOULTV-100x100px-.png" group-title="Regionais",TV Meio
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/redemeio/index.m3u8
 
@@ -240,6 +234,9 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="137" tvg-name="Astral TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png" group-title="Religioso",Astral TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8
+
+#EXTINF:-1 tvg-id="210" tvg-name="Br Global Station" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/100x_100.png" group-title="Religioso",Br Global Station
+https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8
 
 #EXTINF:-1 tvg-id="135" tvg-name="RAE TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RAETV.png" group-title="Religioso",RAE TV
 https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/raetv/raetv/playlist.m3u8
