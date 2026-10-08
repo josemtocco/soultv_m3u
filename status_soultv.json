@@ -2,19 +2,15 @@
   "ok": true,
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
-  "total_api": 103,
-  "total_ativos": 94,
-  "total_removidos_teste": 9,
+  "total_api": 81,
+  "total_ativos": 74,
+  "total_removidos_teste": 7,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
-    "Bem + TV",
-    "Hackathon Brasil TV",
-    "Sou + Pop TV",
     "Tv História",
     "Veza TV",
     "Viva e Eduque",
-    "D+ TV",
     "Q Tal Channel",
     "Rede Brasil",
     "Rede QDM",
@@ -27,7 +23,6 @@
     "RS SPORTS",
     "RS SPORTS 2",
     "RS SPORTS 3",
-    "VGS TV",
     "AWTV",
     "ISTV",
     "Play TV",
@@ -41,18 +36,16 @@
     "FMTV",
     "Onda Digital TV",
     "Peru Channel",
-    "TV Carioca Net",
     "TV Florida",
     "TV Portuguesa",
     "AG Tv",
-    "Auge TV",
     "RIT TV",
     "TV Difusão",
     "TV Mais Brasil",
     "TV Marcheti",
-    "TVídeoNews",
     "VRT Channel",
     "WTV Brasil",
+    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -60,15 +53,12 @@
     "Amazon Sat",
     "America TV",
     "Canal TVC",
-    "Extremo Oriental TV",
-    "Masper TV",
     "OK TV",
     "POA Streaming TV",
     "Primer TV",
     "Rede TV Paraná",
     "Rede UTV Brasil",
     "Tenda TV",
-    "TV Alagoinha",
     "TV Alternativa",
     "TV Diário do Sertão",
     "TV IN",
@@ -77,18 +67,10 @@
     "Tv Mogiana",
     "Tv Nordestina",
     "Tv Nova Nordeste",
-    "TV Onix",
     "TV PAMPA",
-    "TV Reconcavo",
-    "TV Rio Preto",
     "TV Votorantim",
-    "Tv Zoom",
     "Astral TV",
-    "Br Global Station",
-    "RAE TV",
     "Tv Adorar",
-    "TV Avivando Nações",
-    "TV Gazin",
     "Adesso TV",
     "Canal 25",
     "DM Kids TV",
@@ -96,18 +78,10 @@
     "Kids Mais",
     "Rede SDP TV",
     "SBC",
-    "TV Erga Omnes",
     "TV Judaica",
-    "TV Rede Mais Familia",
-    "Vambora Channel"
+    "TV Rede Mais Familia"
   ],
   "falhas": [
-    {
-      "name": "TV METROPOLES",
-      "url": "https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
     {
       "name": "TV 24 HORAS",
       "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
@@ -115,8 +89,8 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV MAX",
-      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8",
+      "name": "TV METROPOLES",
+      "url": "https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -127,8 +101,8 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV A Folha",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
+      "name": "TV MAX",
+      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -139,24 +113,18 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Itapê",
-      "url": "https://cdn-tiva-stream01-msolutionbrasil-com-br.smartplay.pe/hls/tvitape/live.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Litoral RN",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+      "name": "TV Alagoinha",
+      "url": "https://cdn-tiva-stmv-jnbhost-com-br.smartplay.pe/tvalagoinha/tvalagoinha/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-08T12:48:24Z",
-  "duracao_segundos": 7.68
+  "atualizado_em": "2026-10-08T22:52:45Z",
+  "duracao_segundos": 5.85
 }

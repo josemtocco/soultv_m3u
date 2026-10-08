@@ -22,39 +22,6 @@
     "teste": "HTTP 200"
   },
   {
-    "id": "291",
-    "name": "Bem + TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_BemTV_Vertical_Branco_100x100.png",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/bemmaistv01/bemmaistv01/playlist.m3u8",
-    "categories": [
-      "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "145",
-    "name": "Hackathon Brasil TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/hackathonbrasil/hackathonbrasil/playlist.m3u8",
-    "categories": [
-      "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "267",
-    "name": "Sou + Pop TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_alta_resolu%C3%A7%C3%A3o_SouPop_100x100.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/soumaispop/soumaispop/playlist.m3u8",
-    "categories": [
-      "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "296",
     "name": "Tv História",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png",
@@ -83,18 +50,6 @@
     "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/vivaedeixeviver/vivaedeixeviver/playlist.m3u8",
     "categories": [
       "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "82",
-    "name": "D+ TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_DEMAIS_TV_100X100.png",
-    "url": "https://cdn-tiva-stmv1-samcast-com-br.smartplay.pe/demaistv6503/demaistv6503/playlist.m3u8",
-    "categories": [
-      "Entretenimento",
-      "Variedades"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -225,17 +180,6 @@
     "name": "RS SPORTS 3",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_3_100X100_Dz8ksEi.png",
     "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports03/rssports03/playlist.m3u8",
-    "categories": [
-      "Esportes / Games"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "302",
-    "name": "VGS TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/100px.png",
-    "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/vgstv/index.m3u8",
     "categories": [
       "Esportes / Games"
     ],
@@ -393,17 +337,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "89",
-    "name": "TV Carioca Net",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_CARIOCA_NET_SEM_FUNDO.png",
-    "url": "https://cdn-tiva-video03-logicahost-com-br.smartplay.pe/cariocainternacional1/cariocainternacional1/playlist.m3u8",
-    "categories": [
-      "Internacional"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "140",
     "name": "TV Florida",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logosoul.png",
@@ -435,17 +368,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
-  },
-  {
-    "id": "280",
-    "name": "Auge TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_100x100_OjSe73F.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/canalaugetv/canalaugetv/playlist.m3u8",
-    "categories": [
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
   },
   {
     "id": "286",
@@ -492,17 +414,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "158",
-    "name": "TVídeoNews",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV%C3%ADdeoNews_logo_oficial_reduz.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvideonews/tvideonews/chunklist.m3u8",
-    "categories": [
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "69",
     "name": "VRT Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png",
@@ -520,6 +431,17 @@
     "url": "https://cdn-tiva-stmv7-samcast-com-br.smartplay.pe/wtvbrasil/wtvbrasil/playlist.m3u8",
     "categories": [
       "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "87",
+    "name": "TV A Folha",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
+    "categories": [
+      "Música"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -602,28 +524,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "154",
-    "name": "Extremo Oriental TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Extremo_Oriental_iPWitif.png",
-    "url": "https://cdn-tiva-video05-logicahost-com-br.smartplay.pe/extremotv/extremotv/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "251",
-    "name": "Masper TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-MASPER-VERTICAL_100x100.png",
-    "url": "https://tv02.zas.media:1936/masper/masper/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "204",
     "name": "OK TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/100_X_100.png",
@@ -683,17 +583,6 @@
     "name": "Tenda TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/PAG_02_-_LOGO_100X100.png",
     "url": "https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "224",
-    "name": "TV Alagoinha",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_ALAGOINHA_100_X_100.png",
-    "url": "https://cdn-tiva-stmv-jnbhost-com-br.smartplay.pe/tvalagoinha/tvalagoinha/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
@@ -789,43 +678,10 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "234",
-    "name": "TV Onix",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_ONIX_Branco__100_x_100_.png",
-    "url": "https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "28",
     "name": "TV PAMPA",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvpampa-logo3.png",
     "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvpampa/tvpampa/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "211",
-    "name": "TV Reconcavo",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_braca.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvreconcavo/tvreconcavo/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "206",
-    "name": "TV Rio Preto",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/SOUL_TV_RIO_PRETO_LOGO_100X100PX.png",
-    "url": "https://cdn-tiva-video02-logicahost-com-br.smartplay.pe/tvriopreto/tvriopreto/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
@@ -844,43 +700,10 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "152",
-    "name": "Tv Zoom",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Zoom_Soul_Tv.png",
-    "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "137",
     "name": "Astral TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png",
     "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8",
-    "categories": [
-      "Religioso"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "210",
-    "name": "Br Global Station",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/100x_100.png",
-    "url": "https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8",
-    "categories": [
-      "Religioso"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "135",
-    "name": "RAE TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RAETV.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/raetv/raetv/playlist.m3u8",
     "categories": [
       "Religioso"
     ],
@@ -894,28 +717,6 @@
     "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartplay.pe/tvadorar/index.m3u8",
     "categories": [
       "Religioso"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "144",
-    "name": "TV Avivando Nações",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_tv_avivando_na%C3%A7%C3%B5es.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvavivandonacoes/tvavivandonacoes/playlist.m3u8",
-    "categories": [
-      "Religioso"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "310",
-    "name": "TV Gazin",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_Gazin_100x100_PNG_ihJObtR.png",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvgazin/tvgazin/playlist.m3u8",
-    "categories": [
-      "Shopping"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -998,17 +799,6 @@
     "teste": "HTTP 200"
   },
   {
-    "id": "170",
-    "name": "TV Erga Omnes",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LogoTVErgaOmnes100.png",
-    "url": "https://cdn-tiva-stmv1-srvif-com.smartplay.pe/grupoergaomnes/grupoergaomnes/playlist.m3u8",
-    "categories": [
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "332",
     "name": "TV Judaica",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Judaica_100x100.png",
@@ -1026,17 +816,6 @@
     "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redefamilia/redefamilia/playlist.m3u8",
     "categories": [
       "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "303",
-    "name": "Vambora Channel",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/vamboraviajar-100x100.png",
-    "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/vamborachannel/vamborachannel/playlist.m3u8",
-    "categories": [
-      "Viagens"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
