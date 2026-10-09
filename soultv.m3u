@@ -160,6 +160,9 @@ https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="249" tvg-name="Tenda TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/PAG_02_-_LOGO_100X100.png" group-title="Regionais",Tenda TV
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="224" tvg-name="TV Alagoinha" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_ALAGOINHA_100_X_100.png" group-title="Regionais",TV Alagoinha
+https://cdn-tiva-stmv-jnbhost-com-br.smartplay.pe/tvalagoinha/tvalagoinha/playlist.m3u8
+
 #EXTINF:-1 tvg-id="117" tvg-name="TV Alternativa" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TVA_100X100.png" group-title="Regionais",TV Alternativa
 https://cdn-tiva-stmv5-samcast-com-br.smartplay.pe/wagner7919/wagner7919/playlist.m3u8
 

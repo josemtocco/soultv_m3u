@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 74,
-  "total_removidos_teste": 7,
+  "total_ativos": 75,
+  "total_removidos_teste": 6,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -59,6 +59,7 @@
     "Rede TV Paraná",
     "Rede UTV Brasil",
     "Tenda TV",
+    "TV Alagoinha",
     "TV Alternativa",
     "TV Diário do Sertão",
     "TV IN",
@@ -83,8 +84,14 @@
   ],
   "falhas": [
     {
-      "name": "TV 24 HORAS",
-      "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
+      "name": "SescTV",
+      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV MAX",
+      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -95,14 +102,8 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "SescTV",
-      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV MAX",
-      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8",
+      "name": "TV 24 HORAS",
+      "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -117,14 +118,8 @@
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Alagoinha",
-      "url": "https://cdn-tiva-stmv-jnbhost-com-br.smartplay.pe/tvalagoinha/tvalagoinha/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-08T22:52:45Z",
-  "duracao_segundos": 5.85
+  "atualizado_em": "2026-10-09T04:32:49Z",
+  "duracao_segundos": 6.89
 }
