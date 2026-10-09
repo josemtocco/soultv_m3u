@@ -44,17 +44,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "209",
-    "name": "Viva e Eduque",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_VIVAEDUQUE-100x100.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/vivaedeixeviver/vivaedeixeviver/playlist.m3u8",
-    "categories": [
-      "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "110",
     "name": "Q Tal Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/QTAL_channel_logo_REDUZIDO.png",
@@ -64,17 +53,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
-  },
-  {
-    "id": "245",
-    "name": "Rede Brasil",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/rede_brasil_MARCA_100x100.png",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redebrasiloficial/redebrasiloficial/playlist.m3u8",
-    "categories": [
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
   },
   {
     "id": "111",
@@ -247,52 +225,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "105",
-    "name": "TV Sonata",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvsonata.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/isonata/isonata/playlist.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "265",
-    "name": "Vivax",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_VIVAX_100x100.png",
-    "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "66",
-    "name": "Bem Melhor",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Reduz.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/bemmelhor/bemmelhor/playlist.m3u8",
-    "categories": [
-      "Gastronomia"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "54",
-    "name": "Assim é Portugal",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvportugal-logo.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/assimeportugal/assimeportugal/playlist.m3u8",
-    "categories": [
-      "Internacional"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "174",
     "name": "CNB American TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_100_x_100.png",
@@ -304,32 +236,10 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "263",
-    "name": "FMTV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_FMTV_100x100.png",
-    "url": "https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/fmtvbr/fmtvbr/playlist.m3u8",
-    "categories": [
-      "Internacional"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "118",
     "name": "Onda Digital TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_100_X_100.png",
     "url": "http://live.ondadigitaltv.com/ODTV/index.m3u8",
-    "categories": [
-      "Internacional"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "114",
-    "name": "Peru Channel",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LogobTRANSPARENTE_100x100.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/entertainmentplay/entertainmentplay/playlist.m3u8",
     "categories": [
       "Internacional"
     ],
@@ -436,34 +346,12 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "87",
-    "name": "TV A Folha",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
-    "categories": [
-      "Música"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "61",
     "name": "Tv Grande Natal HDTV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg",
     "url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
     "categories": [
       "Música"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "212",
-    "name": "Pet Lovers TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/BOLA_PETLOVERSTV.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/petloverstv/petloverstv/playlist.m3u8",
-    "categories": [
-      "Pet"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -528,17 +416,6 @@
     "name": "OK TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/100_X_100.png",
     "url": "https://stmv2.srvsh.com.br/douglas5010/douglas5010/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "221",
-    "name": "POA Streaming TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_POA_Streaming_100_px.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/poastreaming/poastreaming/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
@@ -667,32 +544,10 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "60",
-    "name": "Tv Nordestina",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Nordestina_logo_100x100.png",
-    "url": "https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "231",
     "name": "Tv Nova Nordeste",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png",
     "url": "https://stream.ecast.com.br/nova-tv/index.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "28",
-    "name": "TV PAMPA",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvpampa-logo3.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvpampa/tvpampa/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
@@ -766,17 +621,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "290",
-    "name": "Kanuca TV Brasil",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Kanuca_TV_100x100.png",
-    "url": "https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/kanucatv/kanucatv/playlist.m3u8",
-    "categories": [
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "183",
     "name": "Kids Mais",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/unnamed.png",
@@ -814,17 +658,6 @@
     "name": "TV Judaica",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Judaica_100x100.png",
     "url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
-    "categories": [
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "288",
-    "name": "TV Rede Mais Familia",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_2Ofmxdy.png",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redefamilia/redefamilia/playlist.m3u8",
     "categories": [
       "Variedades"
     ],
