@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 74,
-  "total_removidos_teste": 7,
+  "total_ativos": 75,
+  "total_removidos_teste": 6,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -17,6 +17,7 @@
     "Séries Classic",
     "TV Clube",
     "TV CNB",
+    "Tv Estilo",
     "Atitude New",
     "CANAL START",
     "RS SPORTS",
@@ -83,8 +84,26 @@
   ],
   "falhas": [
     {
+      "name": "TV METROPOLES",
+      "url": "https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV 24 HORAS",
+      "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "BH Channel",
+      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
@@ -99,32 +118,8 @@
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV METROPOLES",
-      "url": "https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV 24 HORAS",
-      "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "BH Channel",
-      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Tv Estilo",
-      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/tvestilo/tvestilo/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-stmv8-samcast-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
     }
   ],
-  "atualizado_em": "2026-10-09T22:14:33Z",
-  "duracao_segundos": 14.67
+  "atualizado_em": "2026-10-10T04:18:29Z",
+  "duracao_segundos": 7.6
 }

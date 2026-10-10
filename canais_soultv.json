@@ -121,6 +121,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "90",
+    "name": "Tv Estilo",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_Estilo_png.png",
+    "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/tvestilo/tvestilo/playlist.m3u8",
+    "categories": [
+      "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "266",
     "name": "Atitude New",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tv_atitude_logo_100x100.png",

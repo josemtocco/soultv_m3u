@@ -34,6 +34,9 @@ https://stream.ecast.com.br/jonas-silva/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="TV CNB" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/100x100_1ET0LFK.png" group-title="Entretenimento",TV CNB
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
 
+#EXTINF:-1 tvg-id="90" tvg-name="Tv Estilo" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_Estilo_png.png" group-title="Entretenimento",Tv Estilo
+https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/tvestilo/tvestilo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="266" tvg-name="Atitude New" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tv_atitude_logo_100x100.png" group-title="Esportes / Games",Atitude New
 https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8
 
