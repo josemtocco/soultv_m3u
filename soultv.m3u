@@ -61,8 +61,14 @@ https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/redeistv/redeistv/playli
 #EXTINF:-1 tvg-id="233" tvg-name="Play TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo_100x100_no_formato.png" group-title="Filmes / Séries",Play TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/playtv/index.m3u8
 
+#EXTINF:-1 tvg-id="345" tvg-name="TV 24 HORAS" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/24_horas_tv_SOUL_TV.png" group-title="Filmes / Séries",TV 24 HORAS
+https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
+
 #EXTINF:-1 tvg-id="348" tvg-name="TV DA QUEBRADA" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_QUEBRADA_100X100_COM_FUNDO_0fOHbbh.png" group-title="Filmes / Séries",TV DA QUEBRADA
 https://stmv2.samcast.com.br/davi2252/davi2252/playlist.m3u8
+
+#EXTINF:-1 tvg-id="346" tvg-name="TV METROPOLES" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_METROPOLES_FUDO_VERMELHO_100x100.png" group-title="Filmes / Séries",TV METROPOLES
+https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8
 
 #EXTINF:-1 tvg-id="347" tvg-name="TV Protagonistas" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_so_marca_final_1.jpg" group-title="Filmes / Séries",TV Protagonistas
 https://Stmv1.samcast.com.br/tvprotagonistasdo2603/tvprotagonistasdo2603/playlist.m3u8
@@ -103,9 +109,6 @@ https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 #EXTINF:-1 tvg-id="286" tvg-name="RIT TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/1399_-_logo_100x100.png" group-title="Minas",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 
-#EXTINF:-1 tvg-id="226" tvg-name="TV Difusão" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px.png" group-title="Minas",TV Difusão
-https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="193" tvg-name="TV Mais Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png" group-title="Minas",TV Mais Brasil
 https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
@@ -129,9 +132,6 @@ https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/petloverstv/petloverstv/
 
 #EXTINF:-1 tvg-id="284" tvg-name="TV + Pet" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_MAIS_PET_100X100.png" group-title="Pet",TV + Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
-
-#EXTINF:-1 tvg-id="215" tvg-name="40 gtv" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png" group-title="Regionais",40 gtv
-https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="57" tvg-name="Amazon Sat" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png" group-title="Regionais",Amazon Sat
 https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8

@@ -223,6 +223,18 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "345",
+    "name": "TV 24 HORAS",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/24_horas_tv_SOUL_TV.png",
+    "url": "https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8",
+    "categories": [
+      "Filmes / Séries",
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "348",
     "name": "TV DA QUEBRADA",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_QUEBRADA_100X100_COM_FUNDO_0fOHbbh.png",
@@ -230,6 +242,18 @@
     "categories": [
       "Filmes / Séries",
       "Cultura"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "346",
+    "name": "TV METROPOLES",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_METROPOLES_FUDO_VERMELHO_100x100.png",
+    "url": "https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8",
+    "categories": [
+      "Filmes / Séries",
+      "Minas"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -381,17 +405,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "226",
-    "name": "TV Difusão",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px.png",
-    "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
-    "categories": [
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "193",
     "name": "TV Mais Brasil",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png",
@@ -475,17 +488,6 @@
     "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
     "categories": [
       "Pet"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "215",
-    "name": "40 gtv",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png",
-    "url": "https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8",
-    "categories": [
-      "Regionais"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
