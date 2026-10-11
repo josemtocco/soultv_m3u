@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 76,
-  "total_removidos_teste": 5,
+  "total_ativos": 74,
+  "total_removidos_teste": 7,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -46,7 +46,6 @@
     "TV Mais Brasil",
     "TV Marcheti",
     "WTV Brasil",
-    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -70,7 +69,6 @@
     "Tv Nordestina",
     "Tv Nova Nordeste",
     "TV PAMPA",
-    "TV Votorantim",
     "Astral TV",
     "Tv Adorar",
     "Adesso TV",
@@ -91,6 +89,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "BH Channel",
+      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "VRT Channel",
       "url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
       "status": "inativo",
@@ -103,18 +107,24 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "BH Channel",
-      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
+      "name": "TV A Folha",
+      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV Votorantim",
+      "url": "https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='br5093.streamingdevideo.com.br', port=443): Read timed out. (read timeout=12)"
     }
   ],
-  "atualizado_em": "2026-10-11T03:58:01Z",
-  "duracao_segundos": 7.66
+  "atualizado_em": "2026-10-11T12:06:03Z",
+  "duracao_segundos": 15.16
 }
