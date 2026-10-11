@@ -438,6 +438,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "69",
+    "name": "VRT Channel",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png",
+    "url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "148",
     "name": "WTV Brasil",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png",
@@ -449,10 +460,10 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "61",
-    "name": "Tv Grande Natal HDTV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg",
-    "url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
+    "id": "87",
+    "name": "TV A Folha",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
     "categories": [
       "Música"
     ],
@@ -464,17 +475,6 @@
     "name": "Pet Lovers TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/BOLA_PETLOVERSTV.png",
     "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/petloverstv/petloverstv/playlist.m3u8",
-    "categories": [
-      "Pet"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "284",
-    "name": "TV + Pet",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_MAIS_PET_100X100.png",
-    "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
     "categories": [
       "Pet"
     ],
@@ -695,6 +695,17 @@
     "name": "TV PAMPA",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvpampa-logo3.png",
     "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvpampa/tvpampa/playlist.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "177",
+    "name": "TV Votorantim",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TVV_100px.png",
+    "url": "https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
