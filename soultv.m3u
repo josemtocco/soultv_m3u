@@ -109,14 +109,14 @@ https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 #EXTINF:-1 tvg-id="286" tvg-name="RIT TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/1399_-_logo_100x100.png" group-title="Minas",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 
+#EXTINF:-1 tvg-id="226" tvg-name="TV Difusão" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px.png" group-title="Minas",TV Difusão
+https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="193" tvg-name="TV Mais Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png" group-title="Minas",TV Mais Brasil
 https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="257" tvg-name="TV Marcheti" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tv.fw_-_100_x_100.png" group-title="Minas",TV Marcheti
 https://cdn-tiva-stmv1-samcast-com-br.smartplay.pe/junior4319/junior4319/playlist.m3u8
-
-#EXTINF:-1 tvg-id="69" tvg-name="VRT Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png" group-title="Minas",VRT Channel
-https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="148" tvg-name="WTV Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png" group-title="Minas",WTV Brasil
 https://cdn-tiva-stmv7-samcast-com-br.smartplay.pe/wtvbrasil/wtvbrasil/playlist.m3u8
@@ -132,6 +132,9 @@ https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/petloverstv/petloverstv/
 
 #EXTINF:-1 tvg-id="284" tvg-name="TV + Pet" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_MAIS_PET_100X100.png" group-title="Pet",TV + Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+
+#EXTINF:-1 tvg-id="215" tvg-name="40 gtv" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png" group-title="Regionais",40 gtv
+https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="57" tvg-name="Amazon Sat" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png" group-title="Regionais",Amazon Sat
 https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8

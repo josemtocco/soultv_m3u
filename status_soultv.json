@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 75,
-  "total_removidos_teste": 6,
+  "total_ativos": 76,
+  "total_removidos_teste": 5,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -42,14 +42,15 @@
     "TV Portuguesa",
     "AG Tv",
     "RIT TV",
+    "TV Difusão",
     "TV Mais Brasil",
     "TV Marcheti",
-    "VRT Channel",
     "WTV Brasil",
     "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
+    "40 gtv",
     "Amazon Sat",
     "America TV",
     "Canal TVC",
@@ -90,22 +91,10 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Difusão",
-      "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
+      "name": "VRT Channel",
+      "url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "40 gtv",
-      "url": "https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 500, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Hip Hop Vai Além TV",
-      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
       "name": "TV MAX",
@@ -117,9 +106,15 @@
       "name": "BH Channel",
       "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
       "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-stmv8-samcast-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Hip Hop Vai Além TV",
+      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-10T21:09:19Z",
-  "duracao_segundos": 17.36
+  "atualizado_em": "2026-10-11T03:58:01Z",
+  "duracao_segundos": 7.66
 }

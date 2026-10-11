@@ -405,6 +405,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "226",
+    "name": "TV Difusão",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px.png",
+    "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "193",
     "name": "TV Mais Brasil",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png",
@@ -420,17 +431,6 @@
     "name": "TV Marcheti",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tv.fw_-_100_x_100.png",
     "url": "https://cdn-tiva-stmv1-samcast-com-br.smartplay.pe/junior4319/junior4319/playlist.m3u8",
-    "categories": [
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "69",
-    "name": "VRT Channel",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png",
-    "url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
     "categories": [
       "Minas"
     ],
@@ -488,6 +488,17 @@
     "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
     "categories": [
       "Pet"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "215",
+    "name": "40 gtv",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png",
+    "url": "https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8",
+    "categories": [
+      "Regionais"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
