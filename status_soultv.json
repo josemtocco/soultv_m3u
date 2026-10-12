@@ -65,12 +65,12 @@
     "TV Diário do Sertão",
     "TV IN",
     "Tv Life America",
+    "TV MAX",
     "TV Meio",
     "Tv Mogiana",
     "Tv Nordestina",
     "Tv Nova Nordeste",
     "TV PAMPA",
-    "TV Votorantim",
     "Astral TV",
     "Tv Adorar",
     "Adesso TV",
@@ -88,12 +88,6 @@
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV MAX",
-      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
       "name": "BH Channel",
@@ -117,9 +111,15 @@
       "name": "TV Judaica",
       "url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
       "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='br5093.streamingdevideo.com.br', port=443): Read timed out. (read timeout=12)"
+      "motivo": "ConnectTimeout: HTTPSConnectionPool(host='br5093.streamingdevideo.com.br', port=443): Max retries exceeded with url: /tvjudaica/tvjudaica/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='br5093.streamingdevideo.com.br', port=443) at 0x7fb4280be990>, 'Connection to br5093.streamingdevideo.com.br timed out. (connect timeout=12)'))"
+    },
+    {
+      "name": "TV Votorantim",
+      "url": "https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ConnectTimeout: HTTPSConnectionPool(host='br5093.streamingdevideo.com.br', port=443): Max retries exceeded with url: /tvv/tvv/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='br5093.streamingdevideo.com.br', port=443) at 0x7fb4280bcc20>, 'Connection to br5093.streamingdevideo.com.br timed out. (connect timeout=12)'))"
     }
   ],
-  "atualizado_em": "2026-10-12T04:18:33Z",
-  "duracao_segundos": 13.07
+  "atualizado_em": "2026-10-12T14:24:59Z",
+  "duracao_segundos": 15.4
 }

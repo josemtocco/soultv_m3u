@@ -178,6 +178,9 @@ https://live.tvinterior.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="Tv Life America" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
+#EXTINF:-1 tvg-id="55" tvg-name="TV MAX" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png" group-title="Regionais",TV MAX
+https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8
+
 #EXTINF:-1 tvg-id="218" tvg-name="TV Meio" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/SOULTV-100x100px-.png" group-title="Regionais",TV Meio
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/redemeio/index.m3u8
 
@@ -192,9 +195,6 @@ https://stream.ecast.com.br/nova-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="28" tvg-name="TV PAMPA" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvpampa-logo3.png" group-title="Regionais",TV PAMPA
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvpampa/tvpampa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="177" tvg-name="TV Votorantim" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TVV_100px.png" group-title="Regionais",TV Votorantim
-https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="137" tvg-name="Astral TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png" group-title="Religioso",Astral TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8
