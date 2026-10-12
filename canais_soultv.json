@@ -471,6 +471,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "61",
+    "name": "Tv Grande Natal HDTV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg",
+    "url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
+    "categories": [
+      "Música"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "212",
     "name": "Pet Lovers TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/BOLA_PETLOVERSTV.png",
@@ -810,17 +821,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
-  },
-  {
-    "id": "332",
-    "name": "TV Judaica",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Judaica_100x100.png",
-    "url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
-    "categories": [
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
   },
   {
     "id": "288",

@@ -48,6 +48,7 @@
     "VRT Channel",
     "WTV Brasil",
     "TV A Folha",
+    "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "40 gtv",
     "Amazon Sat",
@@ -79,16 +80,9 @@
     "Kids Mais",
     "Rede SDP TV",
     "SBC",
-    "TV Judaica",
     "TV Rede Mais Familia"
   ],
   "falhas": [
-    {
-      "name": "Tv Grande Natal HDTV",
-      "url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
     {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
@@ -100,6 +94,12 @@
       "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "BH Channel",
+      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
       "name": "Hip Hop Vai Além TV",
@@ -114,12 +114,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "BH Channel",
-      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
+      "name": "TV Judaica",
+      "url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='br5093.streamingdevideo.com.br', port=443): Read timed out. (read timeout=12)"
     }
   ],
-  "atualizado_em": "2026-10-11T21:27:56Z",
-  "duracao_segundos": 11.8
+  "atualizado_em": "2026-10-12T04:18:33Z",
+  "duracao_segundos": 13.07
 }
