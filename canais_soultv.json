@@ -493,6 +493,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "284",
+    "name": "TV + Pet",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_MAIS_PET_100X100.png",
+    "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
+    "categories": [
+      "Pet"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "215",
     "name": "40 gtv",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png",
