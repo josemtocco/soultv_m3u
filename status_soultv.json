@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 75,
-  "total_removidos_teste": 6,
+  "total_ativos": 77,
+  "total_removidos_teste": 4,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -71,6 +71,7 @@
     "Tv Nordestina",
     "Tv Nova Nordeste",
     "TV PAMPA",
+    "TV Votorantim",
     "Astral TV",
     "Tv Adorar",
     "Adesso TV",
@@ -80,6 +81,7 @@
     "Kids Mais",
     "Rede SDP TV",
     "SBC",
+    "TV Judaica",
     "TV Rede Mais Familia"
   ],
   "falhas": [
@@ -106,20 +108,8 @@
       "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Judaica",
-      "url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ConnectTimeout: HTTPSConnectionPool(host='br5093.streamingdevideo.com.br', port=443): Max retries exceeded with url: /tvjudaica/tvjudaica/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='br5093.streamingdevideo.com.br', port=443) at 0x7fb4280be990>, 'Connection to br5093.streamingdevideo.com.br timed out. (connect timeout=12)'))"
-    },
-    {
-      "name": "TV Votorantim",
-      "url": "https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ConnectTimeout: HTTPSConnectionPool(host='br5093.streamingdevideo.com.br', port=443): Max retries exceeded with url: /tvv/tvv/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='br5093.streamingdevideo.com.br', port=443) at 0x7fb4280bcc20>, 'Connection to br5093.streamingdevideo.com.br timed out. (connect timeout=12)'))"
     }
   ],
-  "atualizado_em": "2026-10-12T14:24:59Z",
-  "duracao_segundos": 15.4
+  "atualizado_em": "2026-10-13T00:07:42Z",
+  "duracao_segundos": 5.27
 }

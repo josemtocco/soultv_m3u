@@ -196,6 +196,9 @@ https://stream.ecast.com.br/nova-tv/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="TV PAMPA" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvpampa-logo3.png" group-title="Regionais",TV PAMPA
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/tvpampa/tvpampa/playlist.m3u8
 
+#EXTINF:-1 tvg-id="177" tvg-name="TV Votorantim" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TVV_100px.png" group-title="Regionais",TV Votorantim
+https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="137" tvg-name="Astral TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png" group-title="Religioso",Astral TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8
 
@@ -222,6 +225,9 @@ https://video01.brascast.com/rede8652/rede8652/playlist.m3u8
 
 #EXTINF:-1 tvg-id="313" tvg-name="SBC" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_SBC_100_x_100.png" group-title="Variedades",SBC
 https://video01.brascast.com/rede1250/rede1250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="332" tvg-name="TV Judaica" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Judaica_100x100.png" group-title="Variedades",TV Judaica
+https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="288" tvg-name="TV Rede Mais Familia" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_2Ofmxdy.png" group-title="Variedades",TV Rede Mais Familia
 https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redefamilia/redefamilia/playlist.m3u8
