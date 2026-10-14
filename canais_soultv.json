@@ -339,17 +339,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "118",
-    "name": "Onda Digital TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_100_X_100.png",
-    "url": "http://live.ondadigitaltv.com/ODTV/index.m3u8",
-    "categories": [
-      "Internacional"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "114",
     "name": "Peru Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LogobTRANSPARENTE_100x100.png",
@@ -833,6 +822,17 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
+  },
+  {
+    "id": "332",
+    "name": "TV Judaica",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Judaica_100x100.png",
+    "url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
+    "categories": [
+      "Variedades"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
   },
   {
     "id": "288",

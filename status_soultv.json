@@ -36,7 +36,6 @@
     "Assim é Portugal",
     "CNB American TV",
     "FMTV",
-    "Onda Digital TV",
     "Peru Channel",
     "TV Florida",
     "TV Portuguesa",
@@ -81,18 +80,19 @@
     "Kids Mais",
     "Rede SDP TV",
     "SBC",
+    "TV Judaica",
     "TV Rede Mais Familia"
   ],
   "falhas": [
     {
-      "name": "TV Judaica",
-      "url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "BH Channel",
+      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
@@ -109,12 +109,12 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "BH Channel",
-      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
+      "name": "Onda Digital TV",
+      "url": "http://live.ondadigitaltv.com/ODTV/index.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-14T11:10:33Z",
-  "duracao_segundos": 7.34
+  "atualizado_em": "2026-10-14T16:31:36Z",
+  "duracao_segundos": 6.9
 }
