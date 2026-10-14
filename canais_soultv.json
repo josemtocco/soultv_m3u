@@ -44,17 +44,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "209",
-    "name": "Viva e Eduque",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_VIVAEDUQUE-100x100.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/vivaedeixeviver/vivaedeixeviver/playlist.m3u8",
-    "categories": [
-      "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "110",
     "name": "Q Tal Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/QTAL_channel_logo_REDUZIDO.png",
@@ -64,17 +53,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
-  },
-  {
-    "id": "245",
-    "name": "Rede Brasil",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/rede_brasil_MARCA_100x100.png",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redebrasiloficial/redebrasiloficial/playlist.m3u8",
-    "categories": [
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
   },
   {
     "id": "111",
@@ -158,17 +136,6 @@
     "name": "RS SPORTS",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_100X100_axxpiY3.png",
     "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports01/rssports01/playlist.m3u8",
-    "categories": [
-      "Esportes / Games"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "156",
-    "name": "RS SPORTS 2",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_2_100X100_OKYHE7H.png",
-    "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports02/rssports02/playlist.m3u8",
     "categories": [
       "Esportes / Games"
     ],
@@ -271,18 +238,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "105",
-    "name": "TV Sonata",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvsonata.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/isonata/isonata/playlist.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "265",
     "name": "Vivax",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_VIVAX_100x100.png",
@@ -290,17 +245,6 @@
     "categories": [
       "Filmes / Séries",
       "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "66",
-    "name": "Bem Melhor",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Reduz.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/bemmelhor/bemmelhor/playlist.m3u8",
-    "categories": [
-      "Gastronomia"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -321,17 +265,6 @@
     "name": "CNB American TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_100_x_100.png",
     "url": "https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/playlist.m3u8",
-    "categories": [
-      "Internacional"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "263",
-    "name": "FMTV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_FMTV_100x100.png",
-    "url": "https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/fmtvbr/fmtvbr/playlist.m3u8",
     "categories": [
       "Internacional"
     ],
@@ -559,17 +492,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "221",
-    "name": "POA Streaming TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_POA_Streaming_100_px.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/poastreaming/poastreaming/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "132",
     "name": "Primer TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Pe%C3%A7as_App_logo_100_x_100_reduz.png",
@@ -664,18 +586,6 @@
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
     "categories": [
       "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "55",
-    "name": "TV MAX",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8",
-    "categories": [
-      "Regionais",
-      "Variedades"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -795,17 +705,6 @@
     "name": "DM Kids TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo2_PNGHD_1.png",
     "url": "https://cdn-tiva-video03-logicahost-com-br.smartplay.pe/dmkidstv/dmkidstv/playlist.m3u8",
-    "categories": [
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "290",
-    "name": "Kanuca TV Brasil",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Kanuca_TV_100x100.png",
-    "url": "https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/kanucatv/kanucatv/playlist.m3u8",
     "categories": [
       "Variedades"
     ],
