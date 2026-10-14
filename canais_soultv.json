@@ -658,18 +658,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "55",
-    "name": "TV MAX",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8",
-    "categories": [
-      "Regionais",
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "218",
     "name": "TV Meio",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/SOULTV-100x100px-.png",
