@@ -3,14 +3,16 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 69,
-  "total_removidos_teste": 12,
+  "total_ativos": 76,
+  "total_removidos_teste": 5,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
     "Tv História",
     "Veza TV",
+    "Viva e Eduque",
     "Q Tal Channel",
+    "Rede Brasil",
     "Rede QDM",
     "Séries Classic",
     "TV Clube",
@@ -19,6 +21,7 @@
     "Atitude New",
     "CANAL START",
     "RS SPORTS",
+    "RS SPORTS 2",
     "RS SPORTS 3",
     "AWTV",
     "ISTV",
@@ -27,9 +30,12 @@
     "TV DA QUEBRADA",
     "TV METROPOLES",
     "TV Protagonistas",
+    "TV Sonata",
     "Vivax",
+    "Bem Melhor",
     "Assim é Portugal",
     "CNB American TV",
+    "FMTV",
     "Onda Digital TV",
     "Peru Channel",
     "TV Florida",
@@ -50,6 +56,7 @@
     "America TV",
     "Canal TVC",
     "OK TV",
+    "POA Streaming TV",
     "Primer TV",
     "Rede TV Paraná",
     "Rede UTV Brasil",
@@ -59,6 +66,7 @@
     "TV Diário do Sertão",
     "TV IN",
     "Tv Life America",
+    "TV MAX",
     "TV Meio",
     "Tv Mogiana",
     "Tv Nordestina",
@@ -73,19 +81,18 @@
     "Kids Mais",
     "Rede SDP TV",
     "SBC",
-    "TV Judaica",
     "TV Rede Mais Familia"
   ],
   "falhas": [
     {
-      "name": "SescTV",
-      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
+      "name": "TV Judaica",
+      "url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "BH Channel",
-      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
+      "name": "SescTV",
+      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
@@ -96,60 +103,18 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "FMTV",
-      "url": "https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/fmtvbr/fmtvbr/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 521, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Kanuca TV Brasil",
       "url": "https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/kanucatv/kanucatv/playlist.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 521, conteúdo não reconhecido como HLS"
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV Sonata",
-      "url": "https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/isonata/isonata/playlist.m3u8",
+      "name": "BH Channel",
+      "url": "https://cdn-tiva-stmv8-samcast-com-br.smartplay.pe/jcbrasil7363/jcbrasil7363/playlist.m3u8",
       "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video04-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
-    },
-    {
-      "name": "TV MAX",
-      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video09-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
-    },
-    {
-      "name": "Rede Brasil",
-      "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redebrasiloficial/redebrasiloficial/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video09-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
-    },
-    {
-      "name": "RS SPORTS 2",
-      "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports02/rssports02/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video07-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
-    },
-    {
-      "name": "Bem Melhor",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/bemmelhor/bemmelhor/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video01-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
-    },
-    {
-      "name": "POA Streaming TV",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/poastreaming/poastreaming/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video01-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
-    },
-    {
-      "name": "Viva e Eduque",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/vivaedeixeviver/vivaedeixeviver/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video01-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-14T03:31:08Z",
-  "duracao_segundos": 17.64
+  "atualizado_em": "2026-10-14T11:10:33Z",
+  "duracao_segundos": 7.34
 }
