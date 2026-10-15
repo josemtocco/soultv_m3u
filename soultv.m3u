@@ -91,6 +91,9 @@ https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/playlist.m3u8
 #EXTINF:-1 tvg-id="263" tvg-name="FMTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_FMTV_100x100.png" group-title="Internacional",FMTV
 https://cdn-tiva-video08-logicahost-com-br.smartplay.pe/fmtvbr/fmtvbr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="118" tvg-name="Onda Digital TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_100_X_100.png" group-title="Internacional",Onda Digital TV
+http://live.ondadigitaltv.com/ODTV/index.m3u8
+
 #EXTINF:-1 tvg-id="114" tvg-name="Peru Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LogobTRANSPARENTE_100x100.png" group-title="Internacional",Peru Channel
 https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/entertainmentplay/entertainmentplay/playlist.m3u8
 
@@ -177,6 +180,9 @@ https://live.tvinterior.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="129" tvg-name="Tv Life America" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="TV MAX" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png" group-title="Regionais",TV MAX
+https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="218" tvg-name="TV Meio" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/SOULTV-100x100px-.png" group-title="Regionais",TV Meio
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/redemeio/index.m3u8

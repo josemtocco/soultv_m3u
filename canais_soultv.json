@@ -339,6 +339,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "118",
+    "name": "Onda Digital TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_100_X_100.png",
+    "url": "http://live.ondadigitaltv.com/ODTV/index.m3u8",
+    "categories": [
+      "Internacional"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "114",
     "name": "Peru Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LogobTRANSPARENTE_100x100.png",
@@ -653,6 +664,18 @@
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
     "categories": [
       "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "55",
+    "name": "TV MAX",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png",
+    "url": "https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8",
+    "categories": [
+      "Regionais",
+      "Variedades"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
