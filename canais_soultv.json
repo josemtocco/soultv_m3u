@@ -154,6 +154,39 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "155",
+    "name": "RS SPORTS",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_100X100_axxpiY3.png",
+    "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports01/rssports01/playlist.m3u8",
+    "categories": [
+      "Esportes / Games"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "156",
+    "name": "RS SPORTS 2",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_2_100X100_OKYHE7H.png",
+    "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports02/rssports02/playlist.m3u8",
+    "categories": [
+      "Esportes / Games"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "180",
+    "name": "RS SPORTS 3",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_3_100X100_Dz8ksEi.png",
+    "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports03/rssports03/playlist.m3u8",
+    "categories": [
+      "Esportes / Games"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "149",
     "name": "AWTV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png",
@@ -486,17 +519,6 @@
     "name": "Amazon Sat",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png",
     "url": "https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
-    "id": "181",
-    "name": "America TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_america-tv.png",
-    "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12962/playlist/playlist.m3u8",
     "categories": [
       "Regionais"
     ],

@@ -43,6 +43,15 @@ https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8
 #EXTINF:-1 tvg-id="242" tvg-name="CANAL START" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logomarca_CANAL_START_100X100_PNG.png" group-title="Esportes / Games",CANAL START
 https://cdn-tiva-srv5-zcast-com-br.smartplay.pe/canalstart/canalstart/playlist.m3u8
 
+#EXTINF:-1 tvg-id="155" tvg-name="RS SPORTS" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_100X100_axxpiY3.png" group-title="Esportes / Games",RS SPORTS
+https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports01/rssports01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="156" tvg-name="RS SPORTS 2" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_2_100X100_OKYHE7H.png" group-title="Esportes / Games",RS SPORTS 2
+https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports02/rssports02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="180" tvg-name="RS SPORTS 3" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_3_100X100_Dz8ksEi.png" group-title="Esportes / Games",RS SPORTS 3
+https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports03/rssports03/playlist.m3u8
+
 #EXTINF:-1 tvg-id="149" tvg-name="AWTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png" group-title="Filmes / Séries",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 
@@ -132,9 +141,6 @@ https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="57" tvg-name="Amazon Sat" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png" group-title="Regionais",Amazon Sat
 https://cdn-tiva-amazonsat-brasilstream-com-br.smartplay.pe/hls/amazonsat/index.m3u8
-
-#EXTINF:-1 tvg-id="181" tvg-name="America TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_america-tv.png" group-title="Regionais",America TV
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-12962/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="229" tvg-name="Canal TVC" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tvc_100x100_soul_tv.png" group-title="Regionais",Canal TVC
 https://cdn-tiva-stmv1-voxtvhd-com-br.smartplay.pe/canaltvc/canaltvc/playlist.m3u8
