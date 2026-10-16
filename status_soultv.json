@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 77,
-  "total_removidos_teste": 4,
+  "total_ativos": 76,
+  "total_removidos_teste": 5,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -47,12 +47,12 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
-    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
     "40 gtv",
     "Amazon Sat",
+    "America TV",
     "Canal TVC",
     "OK TV",
     "POA Streaming TV",
@@ -73,7 +73,6 @@
     "TV PAMPA",
     "TV Votorantim",
     "Astral TV",
-    "Tv Adorar",
     "Adesso TV",
     "Canal 25",
     "DM Kids TV",
@@ -92,10 +91,16 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Hip Hop Vai Além TV",
-      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+      "name": "Tv Adorar",
+      "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartplay.pe/tvadorar/index.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV A Folha",
+      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
       "name": "BH Channel",
@@ -104,12 +109,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "America TV",
-      "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12962/playlist/playlist.m3u8",
+      "name": "Hip Hop Vai Além TV",
+      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn.live.br1.jmvstream.com', port=443): Read timed out. (read timeout=12)"
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-16T16:04:35Z",
-  "duracao_segundos": 19.89
+  "atualizado_em": "2026-10-16T20:29:48Z",
+  "duracao_segundos": 4.9
 }
