@@ -43,20 +43,14 @@ https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8
 #EXTINF:-1 tvg-id="242" tvg-name="CANAL START" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logomarca_CANAL_START_100X100_PNG.png" group-title="Esportes / Games",CANAL START
 https://cdn-tiva-srv5-zcast-com-br.smartplay.pe/canalstart/canalstart/playlist.m3u8
 
-#EXTINF:-1 tvg-id="155" tvg-name="RS SPORTS" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_100X100_axxpiY3.png" group-title="Esportes / Games",RS SPORTS
-https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports01/rssports01/playlist.m3u8
-
-#EXTINF:-1 tvg-id="156" tvg-name="RS SPORTS 2" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_2_100X100_OKYHE7H.png" group-title="Esportes / Games",RS SPORTS 2
-https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports02/rssports02/playlist.m3u8
-
-#EXTINF:-1 tvg-id="180" tvg-name="RS SPORTS 3" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_3_100X100_Dz8ksEi.png" group-title="Esportes / Games",RS SPORTS 3
-https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports03/rssports03/playlist.m3u8
-
 #EXTINF:-1 tvg-id="149" tvg-name="AWTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png" group-title="Filmes / Séries",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="74" tvg-name="ISTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_istv_png.png" group-title="Filmes / Séries",ISTV
 https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/redeistv/redeistv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="233" tvg-name="Play TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo_100x100_no_formato.png" group-title="Filmes / Séries",Play TV
+https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/playtv/index.m3u8
 
 #EXTINF:-1 tvg-id="345" tvg-name="TV 24 HORAS" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/24_horas_tv_SOUL_TV.png" group-title="Filmes / Séries",TV 24 HORAS
 https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8

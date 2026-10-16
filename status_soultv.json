@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 77,
-  "total_removidos_teste": 4,
+  "total_ativos": 75,
+  "total_removidos_teste": 6,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -20,11 +20,9 @@
     "Tv Estilo",
     "Atitude New",
     "CANAL START",
-    "RS SPORTS",
-    "RS SPORTS 2",
-    "RS SPORTS 3",
     "AWTV",
     "ISTV",
+    "Play TV",
     "TV 24 HORAS",
     "TV DA QUEBRADA",
     "TV METROPOLES",
@@ -104,12 +102,24 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Play TV",
-      "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/playtv/index.m3u8",
+      "name": "RS SPORTS 3",
+      "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports03/rssports03/playlist.m3u8",
       "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-maystreaming-cloudecast-com.smartplay.pe', port=443): Read timed out. (read timeout=12)"
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video07-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "name": "RS SPORTS 2",
+      "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports02/rssports02/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video07-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "name": "RS SPORTS",
+      "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports01/rssports01/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video07-logicahost-com-br.smartplay.pe', port=443): Read timed out. (read timeout=12)"
     }
   ],
-  "atualizado_em": "2026-10-16T03:06:38Z",
-  "duracao_segundos": 13.42
+  "atualizado_em": "2026-10-16T10:41:28Z",
+  "duracao_segundos": 14.58
 }

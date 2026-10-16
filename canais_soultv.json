@@ -154,39 +154,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "155",
-    "name": "RS SPORTS",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_100X100_axxpiY3.png",
-    "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports01/rssports01/playlist.m3u8",
-    "categories": [
-      "Esportes / Games"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "156",
-    "name": "RS SPORTS 2",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_2_100X100_OKYHE7H.png",
-    "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports02/rssports02/playlist.m3u8",
-    "categories": [
-      "Esportes / Games"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "180",
-    "name": "RS SPORTS 3",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_3_100X100_Dz8ksEi.png",
-    "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports03/rssports03/playlist.m3u8",
-    "categories": [
-      "Esportes / Games"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "149",
     "name": "AWTV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png",
@@ -206,6 +173,18 @@
     "categories": [
       "Filmes / Séries",
       "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "233",
+    "name": "Play TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo_100x100_no_formato.png",
+    "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/playtv/index.m3u8",
+    "categories": [
+      "Filmes / Séries",
+      "Variedades"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
