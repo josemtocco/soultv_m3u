@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 78,
-  "total_removidos_teste": 3,
+  "total_ativos": 77,
+  "total_removidos_teste": 4,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -25,7 +25,6 @@
     "RS SPORTS 3",
     "AWTV",
     "ISTV",
-    "Play TV",
     "TV 24 HORAS",
     "TV DA QUEBRADA",
     "TV METROPOLES",
@@ -103,8 +102,14 @@
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Play TV",
+      "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/playtv/index.m3u8",
+      "status": "inativo",
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-maystreaming-cloudecast-com.smartplay.pe', port=443): Read timed out. (read timeout=12)"
     }
   ],
-  "atualizado_em": "2026-10-15T20:55:36Z",
-  "duracao_segundos": 6.08
+  "atualizado_em": "2026-10-16T03:06:38Z",
+  "duracao_segundos": 13.42
 }
