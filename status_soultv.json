@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 77,
-  "total_removidos_teste": 3,
+  "total_ativos": 76,
+  "total_removidos_teste": 4,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -46,7 +46,6 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
-    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -98,12 +97,18 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "TV A Folha",
+      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-17T10:08:37Z",
-  "duracao_segundos": 4.63
+  "atualizado_em": "2026-10-17T14:56:54Z",
+  "duracao_segundos": 4.64
 }
