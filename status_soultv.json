@@ -13,7 +13,6 @@
     "Viva e Eduque",
     "Q Tal Channel",
     "Rede Brasil",
-    "Rede QDM",
     "Séries Classic",
     "TV Clube",
     "TV CNB",
@@ -23,6 +22,7 @@
     "RS SPORTS",
     "RS SPORTS 2",
     "RS SPORTS 3",
+    "AWTV",
     "ISTV",
     "Play TV",
     "TV 24 HORAS",
@@ -86,8 +86,8 @@
   ],
   "falhas": [
     {
-      "name": "AWTV",
-      "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+      "name": "Rede QDM",
+      "url": "https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -104,6 +104,6 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-17T02:58:27Z",
-  "duracao_segundos": 12.05
+  "atualizado_em": "2026-10-17T10:08:37Z",
+  "duracao_segundos": 4.63
 }

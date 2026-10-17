@@ -77,17 +77,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "111",
-    "name": "Rede QDM",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_QDM_reduzido.png",
-    "url": "https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8",
-    "categories": [
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "240",
     "name": "Séries Classic",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100.png",
@@ -182,6 +171,18 @@
     "url": "https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports03/rssports03/playlist.m3u8",
     "categories": [
       "Esportes / Games"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "149",
+    "name": "AWTV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png",
+    "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+    "categories": [
+      "Filmes / Séries",
+      "Entretenimento"
     ],
     "status": "ativo",
     "teste": "HTTP 206"

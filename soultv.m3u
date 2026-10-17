@@ -22,9 +22,6 @@ https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="245" tvg-name="Rede Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/rede_brasil_MARCA_100x100.png" group-title="Entretenimento",Rede Brasil
 https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
-#EXTINF:-1 tvg-id="111" tvg-name="Rede QDM" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_QDM_reduzido.png" group-title="Entretenimento",Rede QDM
-https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
-
 #EXTINF:-1 tvg-id="240" tvg-name="Séries Classic" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100.png" group-title="Entretenimento",Séries Classic
 https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/serieclassic/serieclassic/playlist.m3u8
 
@@ -51,6 +48,9 @@ https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports02/rssports02/pl
 
 #EXTINF:-1 tvg-id="180" tvg-name="RS SPORTS 3" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_3_100X100_Dz8ksEi.png" group-title="Esportes / Games",RS SPORTS 3
 https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports03/rssports03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="149" tvg-name="AWTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png" group-title="Filmes / Séries",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="74" tvg-name="ISTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_istv_png.png" group-title="Filmes / Séries",ISTV
 https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/redeistv/redeistv/playlist.m3u8
