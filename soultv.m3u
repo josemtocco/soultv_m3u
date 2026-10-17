@@ -52,9 +52,6 @@ https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports02/rssports02/pl
 #EXTINF:-1 tvg-id="180" tvg-name="RS SPORTS 3" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_3_100X100_Dz8ksEi.png" group-title="Esportes / Games",RS SPORTS 3
 https://cdn-tiva-video07-logicahost-com-br.smartplay.pe/rssports03/rssports03/playlist.m3u8
 
-#EXTINF:-1 tvg-id="149" tvg-name="AWTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png" group-title="Filmes / Séries",AWTV
-https://awtv.nuvemplay.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="74" tvg-name="ISTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_istv_png.png" group-title="Filmes / Séries",ISTV
 https://cdn-tiva-video10-logicahost-com-br.smartplay.pe/redeistv/redeistv/playlist.m3u8
 
@@ -123,6 +120,9 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="148" tvg-name="WTV Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png" group-title="Minas",WTV Brasil
 https://cdn-tiva-stmv7-samcast-com-br.smartplay.pe/wtvbrasil/wtvbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="87" tvg-name="TV A Folha" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png" group-title="Música",TV A Folha
+https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="Tv Grande Natal HDTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg" group-title="Música",Tv Grande Natal HDTV
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
@@ -201,6 +201,9 @@ https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="137" tvg-name="Astral TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png" group-title="Religioso",Astral TV
 https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8
+
+#EXTINF:-1 tvg-id="236" tvg-name="Tv Adorar" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Adorar_100x100.png" group-title="Religioso",Tv Adorar
+https://cdn-tiva-isaocorp-cloudecast-com.smartplay.pe/tvadorar/index.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="Adesso TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_transp.png" group-title="Variedades",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8

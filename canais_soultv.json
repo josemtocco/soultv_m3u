@@ -187,18 +187,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "149",
-    "name": "AWTV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png",
-    "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "74",
     "name": "ISTV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_istv_png.png",
@@ -455,6 +443,17 @@
     "url": "https://cdn-tiva-stmv7-samcast-com-br.smartplay.pe/wtvbrasil/wtvbrasil/playlist.m3u8",
     "categories": [
       "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "87",
+    "name": "TV A Folha",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
+    "categories": [
+      "Música"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -740,6 +739,17 @@
     "name": "Astral TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png",
     "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartplay.pe/astraltv/index.m3u8",
+    "categories": [
+      "Religioso"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "236",
+    "name": "Tv Adorar",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Adorar_100x100.png",
+    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartplay.pe/tvadorar/index.m3u8",
     "categories": [
       "Religioso"
     ],
