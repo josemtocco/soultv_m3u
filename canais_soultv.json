@@ -460,17 +460,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "87",
-    "name": "TV A Folha",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png",
-    "url": "https://cdn-origin.soultv.com.br/soultv-tvafolha/tracks-v1a1/mono.ts.m3u8",
-    "categories": [
-      "Música"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "61",
     "name": "Tv Grande Natal HDTV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg",
@@ -508,17 +497,6 @@
     "name": "40 gtv",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png",
     "url": "https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "57",
-    "name": "Amazon Sat",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png",
-    "url": "https://cdn-origin.soultv.com.br/soultv-amazonsat/tracks-v1a1/mono.ts.m3u8",
     "categories": [
       "Regionais"
     ],
