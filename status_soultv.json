@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 76,
-  "total_removidos_teste": 4,
+  "total_ativos": 77,
+  "total_removidos_teste": 3,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -13,6 +13,7 @@
     "Viva e Eduque",
     "Q Tal Channel",
     "Rede Brasil",
+    "Rede QDM",
     "Séries Classic",
     "TV Clube",
     "TV CNB",
@@ -46,6 +47,7 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
+    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -68,7 +70,6 @@
     "TV Meio",
     "Tv Mogiana",
     "Tv Nordestina",
-    "Tv Nova Nordeste",
     "TV PAMPA",
     "TV Votorantim",
     "Astral TV",
@@ -85,30 +86,24 @@
   ],
   "falhas": [
     {
-      "name": "Rede QDM",
-      "url": "https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV A Folha",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.smartplay.pe/tvafolha/tvafolha/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Hip Hop Vai Além TV",
-      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.smartplay.pe/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Tv Nova Nordeste",
+      "url": "https://stream.ecast.com.br/nova-tv/index.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-17T20:06:22Z",
-  "duracao_segundos": 8.41
+  "atualizado_em": "2026-10-18T02:59:46Z",
+  "duracao_segundos": 3.27
 }
