@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 77,
-  "total_removidos_teste": 3,
+  "total_ativos": 78,
+  "total_removidos_teste": 2,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -54,6 +54,7 @@
     "40 gtv",
     "Amazon Sat",
     "America TV",
+    "Canal TVC",
     "OK TV",
     "POA Streaming TV",
     "Primer TV",
@@ -92,18 +93,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Canal TVC",
-      "url": "https://cdn-origin.soultv.com.br/soultv-canaltvc/tracks-v1a1/mono.ts.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-19T12:06:39Z",
-  "duracao_segundos": 3.99
+  "atualizado_em": "2026-10-19T21:59:20Z",
+  "duracao_segundos": 3.24
 }

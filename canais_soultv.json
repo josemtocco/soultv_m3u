@@ -537,6 +537,17 @@
     "teste": "HTTP 200"
   },
   {
+    "id": "229",
+    "name": "Canal TVC",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tvc_100x100_soul_tv.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-canaltvc/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "204",
     "name": "OK TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/100_X_100.png",
