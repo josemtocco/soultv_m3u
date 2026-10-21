@@ -11,6 +11,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "237",
+    "name": "TV Folha do Campo",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/unnamed_1.png",
+    "url": "https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8",
+    "categories": [
+      "Agronegócios"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 200"
+  },
+  {
     "id": "296",
     "name": "Tv História",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png",
@@ -44,6 +55,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "110",
+    "name": "Q Tal Channel",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/QTAL_channel_logo_REDUZIDO.png",
+    "url": "https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8",
+    "categories": [
+      "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 200"
+  },
+  {
     "id": "245",
     "name": "Rede Brasil",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/rede_brasil_MARCA_100x100.png",
@@ -53,6 +75,17 @@
     ],
     "status": "ativo",
     "teste": "HTTP 206"
+  },
+  {
+    "id": "111",
+    "name": "Rede QDM",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_QDM_reduzido.png",
+    "url": "https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8",
+    "categories": [
+      "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 200"
   },
   {
     "id": "240",
@@ -97,6 +130,17 @@
     ],
     "status": "ativo",
     "teste": "HTTP 206"
+  },
+  {
+    "id": "266",
+    "name": "Atitude New",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tv_atitude_logo_100x100.png",
+    "url": "https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8",
+    "categories": [
+      "Esportes / Games"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 200"
   },
   {
     "id": "242",
@@ -659,6 +703,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "60",
+    "name": "Tv Nordestina",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Nordestina_logo_100x100.png",
+    "url": "https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "231",
     "name": "Tv Nova Nordeste",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png",
@@ -756,6 +811,17 @@
     ],
     "status": "ativo",
     "teste": "HTTP 206"
+  },
+  {
+    "id": "183",
+    "name": "Kids Mais",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/unnamed.png",
+    "url": "https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8",
+    "categories": [
+      "Variedades"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 200"
   },
   {
     "id": "172",
