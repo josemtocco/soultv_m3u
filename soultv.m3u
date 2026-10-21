@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-id="123" tvg-name="Canal do Boi" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_CNBOI-BRANCA_-_SD_reduzido.png" group-title="Agronegócios",Canal do Boi
 https://aovivo3.equipea.com.br:5443/aovivort/streams/FGPjVZA1EidEnBCn5502382962900440.m3u8
 
-#EXTINF:-1 tvg-id="237" tvg-name="TV Folha do Campo" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/unnamed_1.png" group-title="Agronegócios",TV Folha do Campo
-https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="296" tvg-name="Tv História" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png" group-title="Cultura",Tv História
 https://cdn-origin.soultv.com.br/soultv-tvhistoria/tracks-v1a1/mono.ts.m3u8
 
@@ -16,14 +13,8 @@ https://vezatv.cdn.cportal.com.br/live/stream.m3u8
 #EXTINF:-1 tvg-id="209" tvg-name="Viva e Eduque" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_VIVAEDUQUE-100x100.png" group-title="Cultura",Viva e Eduque
 https://cdn-origin.soultv.com.br/soultv-vivaeeduque/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="110" tvg-name="Q Tal Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/QTAL_channel_logo_REDUZIDO.png" group-title="Entretenimento",Q Tal Channel
-https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
-
 #EXTINF:-1 tvg-id="245" tvg-name="Rede Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/rede_brasil_MARCA_100x100.png" group-title="Entretenimento",Rede Brasil
 https://cdn-origin.soultv.com.br/soultv-redebrasil/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="111" tvg-name="Rede QDM" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_QDM_reduzido.png" group-title="Entretenimento",Rede QDM
-https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="240" tvg-name="Séries Classic" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100.png" group-title="Entretenimento",Séries Classic
 https://cdn-origin.soultv.com.br/soultv-seriesclassic/tracks-v1a1/mono.ts.m3u8
@@ -36,9 +27,6 @@ https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="90" tvg-name="Tv Estilo" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_Estilo_png.png" group-title="Entretenimento",Tv Estilo
 https://cdn-origin.soultv.com.br/soultv-tvestilo/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="266" tvg-name="Atitude New" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tv_atitude_logo_100x100.png" group-title="Esportes / Games",Atitude New
-https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8
 
 #EXTINF:-1 tvg-id="242" tvg-name="CANAL START" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logomarca_CANAL_START_100X100_PNG.png" group-title="Esportes / Games",CANAL START
 https://cdn-origin.soultv.com.br/soultv-canalstart/tracks-v1a1/mono.ts.m3u8
@@ -190,9 +178,6 @@ https://cdn-origin.soultv.com.br/soultv-tvmeio/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="241" tvg-name="Tv Mogiana" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_1.png" group-title="Regionais",Tv Mogiana
 https://a.cdni.live/mogianaonline4773/mogianaonline4773/playlist.m3u8
 
-#EXTINF:-1 tvg-id="60" tvg-name="Tv Nordestina" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Nordestina_logo_100x100.png" group-title="Regionais",Tv Nordestina
-https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
-
 #EXTINF:-1 tvg-id="231" tvg-name="Tv Nova Nordeste" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png" group-title="Regionais",Tv Nova Nordeste
 https://stream.ecast.com.br/nova-tv/index.m3u8
 
@@ -219,9 +204,6 @@ https://cdn-origin.soultv.com.br/soultv-dmkidstv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="290" tvg-name="Kanuca TV Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Kanuca_TV_100x100.png" group-title="Variedades",Kanuca TV Brasil
 https://cdn-origin.soultv.com.br/soultv-kanucatvbrasil/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="183" tvg-name="Kids Mais" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/unnamed.png" group-title="Variedades",Kids Mais
-https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
 
 #EXTINF:-1 tvg-id="172" tvg-name="Rede SDP TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/icone-sbp_V63iUmT.png" group-title="Variedades",Rede SDP TV
 https://video01.brascast.com/rede8652/rede8652/playlist.m3u8

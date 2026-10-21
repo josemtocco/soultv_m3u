@@ -3,22 +3,18 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 78,
-  "total_removidos_teste": 2,
+  "total_ativos": 72,
+  "total_removidos_teste": 8,
   "canais_ativos": [
     "Canal do Boi",
-    "TV Folha do Campo",
     "Tv História",
     "Veza TV",
     "Viva e Eduque",
-    "Q Tal Channel",
     "Rede Brasil",
-    "Rede QDM",
     "Séries Classic",
     "TV Clube",
     "TV CNB",
     "Tv Estilo",
-    "Atitude New",
     "CANAL START",
     "RS SPORTS",
     "RS SPORTS 2",
@@ -69,7 +65,6 @@
     "TV MAX",
     "TV Meio",
     "Tv Mogiana",
-    "Tv Nordestina",
     "Tv Nova Nordeste",
     "TV PAMPA",
     "TV Votorantim",
@@ -79,7 +74,6 @@
     "Canal 25",
     "DM Kids TV",
     "Kanuca TV Brasil",
-    "Kids Mais",
     "Rede SDP TV",
     "SBC",
     "TV Judaica",
@@ -87,18 +81,54 @@
   ],
   "falhas": [
     {
+      "name": "Kids Mais",
+      "url": "https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "SSLError: HTTPSConnectionPool(host='stmv1.transmissaodigital.com', port=443): Max retries exceeded with url: /tvkidmais/tvkidmais/playlist.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+    },
+    {
+      "name": "Rede QDM",
+      "url": "https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "SSLError: HTTPSConnectionPool(host='stmv1.transmissaodigital.com', port=443): Max retries exceeded with url: /redeqdm/redeqdm/playlist.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+    },
+    {
+      "name": "Q Tal Channel",
+      "url": "https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "SSLError: HTTPSConnectionPool(host='stmv1.transmissaodigital.com', port=443): Max retries exceeded with url: /qtalchannel/qtalchannel/playlist.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+    },
+    {
+      "name": "TV Folha do Campo",
+      "url": "https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "SSLError: HTTPSConnectionPool(host='stmv1.transmissaodigital.com', port=443): Max retries exceeded with url: /folha-do-campo/folha-do-campo/playlist.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+    },
+    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "Atitude New",
+      "url": "https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "SSLError: HTTPSConnectionPool(host='stmv1.transmissaodigital.com', port=443): Max retries exceeded with url: /tvatitudenew/tvatitudenew/playlist.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+    },
+    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Tv Nordestina",
+      "url": "https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-20T21:14:11Z",
-  "duracao_segundos": 4.52
+  "atualizado_em": "2026-10-21T03:17:41Z",
+  "duracao_segundos": 4.33
 }
