@@ -211,9 +211,6 @@ https://cdn-origin.soultv.com.br/soultv-tvadorar/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="Adesso TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_transp.png" group-title="Variedades",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="304" tvg-name="Canal 25" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo.png" group-title="Variedades",Canal 25
-https://cdn-origin.soultv.com.br/soultv-canal25/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="247" tvg-name="DM Kids TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo2_PNGHD_1.png" group-title="Variedades",DM Kids TV
 https://cdn-origin.soultv.com.br/soultv-dmkidstv/tracks-v1a1/mono.ts.m3u8
 
