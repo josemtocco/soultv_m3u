@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 77,
-  "total_removidos_teste": 3,
+  "total_ativos": 78,
+  "total_removidos_teste": 2,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -76,6 +76,7 @@
     "Astral TV",
     "Tv Adorar",
     "Adesso TV",
+    "Canal 25",
     "DM Kids TV",
     "Kanuca TV Brasil",
     "Kids Mais",
@@ -96,14 +97,8 @@
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Canal 25",
-      "url": "https://cdn-origin.soultv.com.br/soultv-canal25/tracks-v1a1/mono.ts.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-22T11:09:15Z",
-  "duracao_segundos": 6.58
+  "atualizado_em": "2026-10-22T16:37:29Z",
+  "duracao_segundos": 7.73
 }
