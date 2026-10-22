@@ -438,6 +438,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "69",
+    "name": "VRT Channel",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png",
+    "url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "148",
     "name": "WTV Brasil",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png",

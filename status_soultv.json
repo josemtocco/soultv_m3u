@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 77,
-  "total_removidos_teste": 3,
+  "total_ativos": 78,
+  "total_removidos_teste": 2,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -45,6 +45,7 @@
     "TV Difusão",
     "TV Mais Brasil",
     "TV Marcheti",
+    "VRT Channel",
     "WTV Brasil",
     "TV A Folha",
     "Tv Grande Natal HDTV",
@@ -96,14 +97,8 @@
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "VRT Channel",
-      "url": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
-      "status": "inativo",
-      "motivo": "ConnectTimeout: HTTPSConnectionPool(host='sistemavrt2023.vrtchannel.tv.br', port=3626): Max retries exceeded with url: /hybrid/play.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='sistemavrt2023.vrtchannel.tv.br', port=3626) at 0x7fc1a0c2d220>, 'Connection to sistemavrt2023.vrtchannel.tv.br timed out. (connect timeout=12)'))"
     }
   ],
-  "atualizado_em": "2026-10-21T21:15:05Z",
-  "duracao_segundos": 13.94
+  "atualizado_em": "2026-10-22T03:16:11Z",
+  "duracao_segundos": 4.17
 }
