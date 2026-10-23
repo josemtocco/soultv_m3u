@@ -372,17 +372,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "220",
-    "name": "TV Portuguesa",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_sem_fundo_03.png",
-    "url": "https://tvportuguesa.myemail.pt:8888/live/stream1_aac/index.m3u8",
-    "categories": [
-      "Internacional"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "115",
     "name": "AG Tv",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_YOUTUBE_100100px_ZfxeqjJ.png",
@@ -508,17 +497,6 @@
     "name": "40 gtv",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png",
     "url": "https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "57",
-    "name": "Amazon Sat",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png",
-    "url": "https://cdn-origin.soultv.com.br/soultv-amazonsat/tracks-v1a1/mono.ts.m3u8",
     "categories": [
       "Regionais"
     ],

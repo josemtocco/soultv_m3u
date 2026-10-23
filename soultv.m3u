@@ -100,9 +100,6 @@ https://cdn-origin.soultv.com.br/soultv-peruchannel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="140" tvg-name="TV Florida" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logosoul.png" group-title="Internacional",TV Florida
 https://cdn-origin.soultv.com.br/soultv-tvflorida/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="220" tvg-name="TV Portuguesa" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_sem_fundo_03.png" group-title="Internacional",TV Portuguesa
-https://tvportuguesa.myemail.pt:8888/live/stream1_aac/index.m3u8
-
 #EXTINF:-1 tvg-id="115" tvg-name="AG Tv" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_YOUTUBE_100100px_ZfxeqjJ.png" group-title="Minas",AG Tv
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 
@@ -138,9 +135,6 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 
 #EXTINF:-1 tvg-id="215" tvg-name="40 gtv" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png" group-title="Regionais",40 gtv
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="57" tvg-name="Amazon Sat" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png" group-title="Regionais",Amazon Sat
-https://cdn-origin.soultv.com.br/soultv-amazonsat/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="181" tvg-name="America TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_america-tv.png" group-title="Regionais",America TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12962/playlist/playlist.m3u8
