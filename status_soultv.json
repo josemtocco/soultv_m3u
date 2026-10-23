@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 76,
-  "total_removidos_teste": 4,
+  "total_ativos": 78,
+  "total_removidos_teste": 2,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -39,6 +39,7 @@
     "Onda Digital TV",
     "Peru Channel",
     "TV Florida",
+    "TV Portuguesa",
     "AG Tv",
     "RIT TV",
     "TV Difusão",
@@ -51,6 +52,7 @@
     "Pet Lovers TV",
     "TV + Pet",
     "40 gtv",
+    "Amazon Sat",
     "America TV",
     "Canal TVC",
     "OK TV",
@@ -85,22 +87,10 @@
   ],
   "falhas": [
     {
-      "name": "Amazon Sat",
-      "url": "https://cdn-origin.soultv.com.br/soultv-amazonsat/tracks-v1a1/mono.ts.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Portuguesa",
-      "url": "https://tvportuguesa.myemail.pt:8888/live/stream1_aac/index.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
       "name": "Hip Hop Vai Além TV",
@@ -109,6 +99,6 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-23T03:21:57Z",
-  "duracao_segundos": 3.79
+  "atualizado_em": "2026-10-23T10:59:49Z",
+  "duracao_segundos": 4.01
 }
