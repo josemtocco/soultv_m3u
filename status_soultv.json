@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 78,
-  "total_removidos_teste": 2,
+  "total_ativos": 76,
+  "total_removidos_teste": 4,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -52,7 +52,6 @@
     "Pet Lovers TV",
     "TV + Pet",
     "40 gtv",
-    "Amazon Sat",
     "America TV",
     "Canal TVC",
     "OK TV",
@@ -61,7 +60,6 @@
     "Rede TV Paraná",
     "Rede UTV Brasil",
     "Tenda TV",
-    "TV Alagoinha",
     "TV Alternativa",
     "TV Diário do Sertão",
     "TV IN",
@@ -87,6 +85,12 @@
   ],
   "falhas": [
     {
+      "name": "Amazon Sat",
+      "url": "https://cdn-origin.soultv.com.br/soultv-amazonsat/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
@@ -97,8 +101,14 @@
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV Alagoinha",
+      "url": "https://cdn-origin.soultv.com.br/soultv-tvalagoinha/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-23T20:58:27Z",
-  "duracao_segundos": 3.31
+  "atualizado_em": "2026-10-24T03:15:46Z",
+  "duracao_segundos": 13.55
 }
