@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 41,
-  "total_removidos_teste": 39,
+  "total_ativos": 40,
+  "total_removidos_teste": 40,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -17,7 +17,6 @@
     "AWTV",
     "TV 24 HORAS",
     "TV DA QUEBRADA",
-    "TV METROPOLES",
     "TV Protagonistas",
     "Vivax",
     "CNB American TV",
@@ -50,6 +49,12 @@
   ],
   "falhas": [
     {
+      "name": "ISTV",
+      "url": "https://cdn-origin.soultv.com.br/soultv-istv/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "TV Sonata",
       "url": "https://cdn-origin.soultv.com.br/soultv-tvsonata/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
@@ -62,20 +67,14 @@
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Tv Estilo",
-      "url": "https://cdn-origin.soultv.com.br/soultv-tvestilo/tracks-v1a1/mono.ts.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "TV Meio",
       "url": "https://cdn-origin.soultv.com.br/soultv-tvmeio/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "ISTV",
-      "url": "https://cdn-origin.soultv.com.br/soultv-istv/tracks-v1a1/mono.ts.m3u8",
+      "name": "Tv Estilo",
+      "url": "https://cdn-origin.soultv.com.br/soultv-tvestilo/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
@@ -134,10 +133,10 @@
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "RS SPORTS 2",
-      "url": "https://cdn-origin.soultv.com.br/soultv-rssports2/tracks-v1a1/mono.ts.m3u8",
+      "name": "TV METROPOLES",
+      "url": "https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
       "name": "RS SPORTS",
@@ -148,6 +147,12 @@
     {
       "name": "Astral TV",
       "url": "https://cdn-origin.soultv.com.br/soultv-astraltv/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "RS SPORTS 2",
+      "url": "https://cdn-origin.soultv.com.br/soultv-rssports2/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
@@ -188,16 +193,16 @@
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "SescTV",
-      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Canal TVC",
       "url": "https://cdn-origin.soultv.com.br/soultv-canaltvc/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "SescTV",
+      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
       "name": "POA Streaming TV",
@@ -242,12 +247,6 @@
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Hip Hop Vai Além TV",
-      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "TV PAMPA",
       "url": "https://cdn-origin.soultv.com.br/soultv-tvpampa/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
@@ -266,6 +265,12 @@
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "Hip Hop Vai Além TV",
+      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "DM Kids TV",
       "url": "https://cdn-origin.soultv.com.br/soultv-dmkidstv/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
@@ -281,9 +286,9 @@
       "name": "Primer TV",
       "url": "http://177.74.174.57:8080/hls/primertv.m3u8",
       "status": "inativo",
-      "motivo": "ConnectTimeout: HTTPConnectionPool(host='177.74.174.57', port=8080): Max retries exceeded with url: /hls/primertv.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='177.74.174.57', port=8080) at 0x7f82262b0710>, 'Connection to 177.74.174.57 timed out. (connect timeout=12)'))"
+      "motivo": "ConnectTimeout: HTTPConnectionPool(host='177.74.174.57', port=8080): Max retries exceeded with url: /hls/primertv.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='177.74.174.57', port=8080) at 0x7f1ee7734950>, 'Connection to 177.74.174.57 timed out. (connect timeout=12)'))"
     }
   ],
-  "atualizado_em": "2026-10-24T10:16:53Z",
-  "duracao_segundos": 14.21
+  "atualizado_em": "2026-10-24T15:22:41Z",
+  "duracao_segundos": 13.76
 }
