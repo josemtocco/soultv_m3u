@@ -49,14 +49,8 @@
   ],
   "falhas": [
     {
-      "name": "ISTV",
-      "url": "https://cdn-origin.soultv.com.br/soultv-istv/tracks-v1a1/mono.ts.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Sonata",
-      "url": "https://cdn-origin.soultv.com.br/soultv-tvsonata/tracks-v1a1/mono.ts.m3u8",
+      "name": "Tv Estilo",
+      "url": "https://cdn-origin.soultv.com.br/soultv-tvestilo/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
@@ -73,20 +67,26 @@
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Tv Estilo",
-      "url": "https://cdn-origin.soultv.com.br/soultv-tvestilo/tracks-v1a1/mono.ts.m3u8",
+      "name": "ISTV",
+      "url": "https://cdn-origin.soultv.com.br/soultv-istv/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV MAX",
-      "url": "https://cdn-origin.soultv.com.br/soultv-tvmax/tracks-v1a1/mono.ts.m3u8",
+      "name": "TV Sonata",
+      "url": "https://cdn-origin.soultv.com.br/soultv-tvsonata/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
       "name": "Assim é Portugal",
       "url": "https://cdn-origin.soultv.com.br/soultv-assimeportugal/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV MAX",
+      "url": "https://cdn-origin.soultv.com.br/soultv-tvmax/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
@@ -199,16 +199,16 @@
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "SescTV",
-      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "POA Streaming TV",
       "url": "https://cdn-origin.soultv.com.br/soultv-poastreamingtv/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "SescTV",
+      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
       "name": "TV Alagoinha",
@@ -247,20 +247,14 @@
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV PAMPA",
-      "url": "https://cdn-origin.soultv.com.br/soultv-tvpampa/tracks-v1a1/mono.ts.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Canal 25",
       "url": "https://cdn-origin.soultv.com.br/soultv-canal25/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Peru Channel",
-      "url": "https://cdn-origin.soultv.com.br/soultv-peruchannel/tracks-v1a1/mono.ts.m3u8",
+      "name": "TV PAMPA",
+      "url": "https://cdn-origin.soultv.com.br/soultv-tvpampa/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
@@ -277,6 +271,12 @@
       "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "Peru Channel",
+      "url": "https://cdn-origin.soultv.com.br/soultv-peruchannel/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 530, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Viva e Eduque",
       "url": "https://cdn-origin.soultv.com.br/soultv-vivaeeduque/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
@@ -286,9 +286,9 @@
       "name": "Primer TV",
       "url": "http://177.74.174.57:8080/hls/primertv.m3u8",
       "status": "inativo",
-      "motivo": "ConnectTimeout: HTTPConnectionPool(host='177.74.174.57', port=8080): Max retries exceeded with url: /hls/primertv.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='177.74.174.57', port=8080) at 0x7f1ee7734950>, 'Connection to 177.74.174.57 timed out. (connect timeout=12)'))"
+      "motivo": "ConnectTimeout: HTTPConnectionPool(host='177.74.174.57', port=8080): Max retries exceeded with url: /hls/primertv.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='177.74.174.57', port=8080) at 0x7fdd2a110770>, 'Connection to 177.74.174.57 timed out. (connect timeout=12)'))"
     }
   ],
-  "atualizado_em": "2026-10-24T15:22:41Z",
-  "duracao_segundos": 13.76
+  "atualizado_em": "2026-10-24T20:12:31Z",
+  "duracao_segundos": 13.63
 }
