@@ -247,6 +247,18 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "346",
+    "name": "TV METROPOLES",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_METROPOLES_FUDO_VERMELHO_100x100.png",
+    "url": "https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8",
+    "categories": [
+      "Filmes / Séries",
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "347",
     "name": "TV Protagonistas",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_so_marca_final_1.jpg",

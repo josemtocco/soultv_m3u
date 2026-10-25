@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 76,
-  "total_removidos_teste": 4,
+  "total_ativos": 77,
+  "total_removidos_teste": 3,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -28,6 +28,7 @@
     "Play TV",
     "TV 24 HORAS",
     "TV DA QUEBRADA",
+    "TV METROPOLES",
     "TV Protagonistas",
     "TV Sonata",
     "Vivax",
@@ -85,12 +86,6 @@
   ],
   "falhas": [
     {
-      "name": "TV METROPOLES",
-      "url": "https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
@@ -106,9 +101,9 @@
       "name": "Primer TV",
       "url": "http://177.74.174.57:8080/hls/primertv.m3u8",
       "status": "inativo",
-      "motivo": "ConnectTimeout: HTTPConnectionPool(host='177.74.174.57', port=8080): Max retries exceeded with url: /hls/primertv.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='177.74.174.57', port=8080) at 0x7f3ece7e2fc0>, 'Connection to 177.74.174.57 timed out. (connect timeout=12)'))"
+      "motivo": "ConnectTimeout: HTTPConnectionPool(host='177.74.174.57', port=8080): Max retries exceeded with url: /hls/primertv.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='177.74.174.57', port=8080) at 0x7fdf786cc3e0>, 'Connection to 177.74.174.57 timed out. (connect timeout=12)'))"
     }
   ],
-  "atualizado_em": "2026-10-25T15:32:42Z",
-  "duracao_segundos": 13.56
+  "atualizado_em": "2026-10-25T20:22:23Z",
+  "duracao_segundos": 13.24
 }
