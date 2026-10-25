@@ -111,9 +111,9 @@
       "name": "Primer TV",
       "url": "http://177.74.174.57:8080/hls/primertv.m3u8",
       "status": "inativo",
-      "motivo": "ConnectTimeout: HTTPConnectionPool(host='177.74.174.57', port=8080): Max retries exceeded with url: /hls/primertv.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='177.74.174.57', port=8080) at 0x7f997edc18e0>, 'Connection to 177.74.174.57 timed out. (connect timeout=12)'))"
+      "motivo": "ConnectTimeout: HTTPConnectionPool(host='177.74.174.57', port=8080): Max retries exceeded with url: /hls/primertv.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='177.74.174.57', port=8080) at 0x7fb7cc17b2f0>, 'Connection to 177.74.174.57 timed out. (connect timeout=12)'))"
     }
   ],
-  "atualizado_em": "2026-10-25T03:10:40Z",
-  "duracao_segundos": 13.36
+  "atualizado_em": "2026-10-25T10:42:36Z",
+  "duracao_segundos": 13.42
 }
