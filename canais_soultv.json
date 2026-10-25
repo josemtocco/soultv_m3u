@@ -22,10 +22,32 @@
     "teste": "HTTP 200"
   },
   {
+    "id": "296",
+    "name": "Tv História",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvhistoria/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Cultura"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "235",
     "name": "Veza TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/VezaTV_Branco_-_Logo_1_4naHcCE.png",
     "url": "https://vezatv.cdn.cportal.com.br/live/stream.m3u8",
+    "categories": [
+      "Cultura"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "209",
+    "name": "Viva e Eduque",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_VIVAEDUQUE-100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-vivaeeduque/tracks-v1a1/mono.ts.m3u8",
     "categories": [
       "Cultura"
     ],
@@ -44,6 +66,17 @@
     "teste": "HTTP 200"
   },
   {
+    "id": "245",
+    "name": "Rede Brasil",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/rede_brasil_MARCA_100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-redebrasil/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "111",
     "name": "Rede QDM",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_QDM_reduzido.png",
@@ -53,6 +86,17 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
+  },
+  {
+    "id": "240",
+    "name": "Séries Classic",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-seriesclassic/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
   },
   {
     "id": "214",
@@ -77,6 +121,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "90",
+    "name": "Tv Estilo",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_Estilo_png.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvestilo/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "266",
     "name": "Atitude New",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tv_atitude_logo_100x100.png",
@@ -88,6 +143,50 @@
     "teste": "HTTP 200"
   },
   {
+    "id": "242",
+    "name": "CANAL START",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logomarca_CANAL_START_100X100_PNG.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-canalstart/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Esportes / Games"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "155",
+    "name": "RS SPORTS",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_100X100_axxpiY3.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-rssports/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Esportes / Games"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "156",
+    "name": "RS SPORTS 2",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_2_100X100_OKYHE7H.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-rssports2/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Esportes / Games"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "180",
+    "name": "RS SPORTS 3",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/RS_SPORTS_3_100X100_Dz8ksEi.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-rssports3/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Esportes / Games"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "149",
     "name": "AWTV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png",
@@ -95,6 +194,30 @@
     "categories": [
       "Filmes / Séries",
       "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "74",
+    "name": "ISTV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_istv_png.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-istv/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Filmes / Séries",
+      "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "233",
+    "name": "Play TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo_100x100_no_formato.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-playtv/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Filmes / Séries",
+      "Variedades"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -136,6 +259,18 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "105",
+    "name": "TV Sonata",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvsonata.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvsonata/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Filmes / Séries",
+      "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "265",
     "name": "Vivax",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_VIVAX_100x100.png",
@@ -143,6 +278,28 @@
     "categories": [
       "Filmes / Séries",
       "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "66",
+    "name": "Bem Melhor",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Reduz.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-bemmelhor/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Gastronomia"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "54",
+    "name": "Assim é Portugal",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvportugal-logo.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-assimeportugal/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Internacional"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -159,10 +316,43 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "263",
+    "name": "FMTV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_FMTV_100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-fmtv/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Internacional"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "118",
     "name": "Onda Digital TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_100_X_100.png",
     "url": "http://live.ondadigitaltv.com/ODTV/index.m3u8",
+    "categories": [
+      "Internacional"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "114",
+    "name": "Peru Channel",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LogobTRANSPARENTE_100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-peruchannel/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Internacional"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "140",
+    "name": "TV Florida",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logosoul.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvflorida/tracks-v1a1/mono.ts.m3u8",
     "categories": [
       "Internacional"
     ],
@@ -214,6 +404,28 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "193",
+    "name": "TV Mais Brasil",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvmaisbrasil/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "257",
+    "name": "TV Marcheti",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tv.fw_-_100_x_100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvmarcheti/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "69",
     "name": "VRT Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png",
@@ -225,12 +437,45 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "148",
+    "name": "WTV Brasil",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-wtvbrasil/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "87",
+    "name": "TV A Folha",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvafolha/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Música"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "61",
     "name": "Tv Grande Natal HDTV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg",
     "url": "https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8",
     "categories": [
       "Música"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "212",
+    "name": "Pet Lovers TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/BOLA_PETLOVERSTV.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-petloverstv/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Pet"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -258,6 +503,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "57",
+    "name": "Amazon Sat",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/amazonsat_100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-amazonsat/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "181",
     "name": "America TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_america-tv.png",
@@ -269,10 +525,32 @@
     "teste": "HTTP 200"
   },
   {
+    "id": "229",
+    "name": "Canal TVC",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tvc_100x100_soul_tv.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-canaltvc/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "204",
     "name": "OK TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/100_X_100.png",
     "url": "https://stmv2.srvsh.com.br/douglas5010/douglas5010/playlist.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "221",
+    "name": "POA Streaming TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_POA_Streaming_100_px.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-poastreamingtv/tracks-v1a1/mono.ts.m3u8",
     "categories": [
       "Regionais"
     ],
@@ -313,6 +591,28 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "224",
+    "name": "TV Alagoinha",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_ALAGOINHA_100_X_100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvalagoinha/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "117",
+    "name": "TV Alternativa",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TVA_100X100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvalternativa/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "238",
     "name": "TV Diário do Sertão",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_para_SOUL_TV_100x100px_1.png",
@@ -324,21 +624,33 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "327",
-    "name": "TV IN",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGOTIPO-TVIN-100X100_copiar.png",
-    "url": "https://live.tvinterior.com.br/hls/stream.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "129",
     "name": "Tv Life America",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png",
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "55",
+    "name": "TV MAX",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvmax/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Regionais",
+      "Variedades"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "218",
+    "name": "TV Meio",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/SOULTV-100x100px-.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvmeio/tracks-v1a1/mono.ts.m3u8",
     "categories": [
       "Regionais"
     ],
@@ -379,12 +691,45 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "28",
+    "name": "TV PAMPA",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvpampa-logo3.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvpampa/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "177",
     "name": "TV Votorantim",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TVV_100px.png",
     "url": "https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8",
     "categories": [
       "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "137",
+    "name": "Astral TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-astraltv/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Religioso"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "236",
+    "name": "Tv Adorar",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Adorar_100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvadorar/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Religioso"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -399,6 +744,39 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
+  },
+  {
+    "id": "304",
+    "name": "Canal 25",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-canal25/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Variedades"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "247",
+    "name": "DM Kids TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo2_PNGHD_1.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-dmkidstv/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Variedades"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "290",
+    "name": "Kanuca TV Brasil",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Kanuca_TV_100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-kanucatvbrasil/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Variedades"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
   },
   {
     "id": "183",
@@ -438,6 +816,17 @@
     "name": "TV Judaica",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Judaica_100x100.png",
     "url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
+    "categories": [
+      "Variedades"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "288",
+    "name": "TV Rede Mais Familia",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_2Ofmxdy.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-tvredemaisfamilia/tracks-v1a1/mono.ts.m3u8",
     "categories": [
       "Variedades"
     ],
