@@ -169,6 +169,9 @@ https://cdn-origin.soultv.com.br/soultv-tvalternativa/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="238" tvg-name="TV Diário do Sertão" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_para_SOUL_TV_100x100px_1.png" group-title="Regionais",TV Diário do Sertão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="327" tvg-name="TV IN" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGOTIPO-TVIN-100X100_copiar.png" group-title="Regionais",TV IN
+https://live.tvinterior.com.br/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="129" tvg-name="Tv Life America" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
