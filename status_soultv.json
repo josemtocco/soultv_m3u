@@ -54,9 +54,9 @@
     "40 gtv",
     "Amazon Sat",
     "America TV",
-    "Canal TVC",
     "OK TV",
     "POA Streaming TV",
+    "Primer TV",
     "Rede TV Paraná",
     "Rede UTV Brasil",
     "Tenda TV",
@@ -92,18 +92,18 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "Canal TVC",
+      "url": "https://cdn-origin.soultv.com.br/soultv-canaltvc/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Primer TV",
-      "url": "http://177.74.174.57:8080/hls/primertv.m3u8",
-      "status": "inativo",
-      "motivo": "ConnectTimeout: HTTPConnectionPool(host='177.74.174.57', port=8080): Max retries exceeded with url: /hls/primertv.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='177.74.174.57', port=8080) at 0x7fdf3ee8cdd0>, 'Connection to 177.74.174.57 timed out. (connect timeout=12)'))"
     }
   ],
-  "atualizado_em": "2026-10-26T12:15:04Z",
-  "duracao_segundos": 13.64
+  "atualizado_em": "2026-10-26T22:17:11Z",
+  "duracao_segundos": 5.66
 }
