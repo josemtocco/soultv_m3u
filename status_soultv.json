@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 77,
-  "total_removidos_teste": 3,
+  "total_ativos": 75,
+  "total_removidos_teste": 5,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -12,7 +12,6 @@
     "Veza TV",
     "Viva e Eduque",
     "Q Tal Channel",
-    "Rede Brasil",
     "Rede QDM",
     "Séries Classic",
     "TV Clube",
@@ -41,7 +40,6 @@
     "TV Florida",
     "TV Portuguesa",
     "AG Tv",
-    "RIT TV",
     "TV Difusão",
     "TV Mais Brasil",
     "TV Marcheti",
@@ -86,6 +84,12 @@
   ],
   "falhas": [
     {
+      "name": "Rede Brasil",
+      "url": "https://cdn-origin.soultv.com.br/soultv-redebrasil/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
@@ -102,8 +106,14 @@
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "RIT TV",
+      "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-27T17:27:43Z",
-  "duracao_segundos": 4.4
+  "atualizado_em": "2026-10-27T21:48:45Z",
+  "duracao_segundos": 4.13
 }

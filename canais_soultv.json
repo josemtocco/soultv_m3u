@@ -66,17 +66,6 @@
     "teste": "HTTP 200"
   },
   {
-    "id": "245",
-    "name": "Rede Brasil",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/rede_brasil_MARCA_100x100.png",
-    "url": "https://cdn-origin.soultv.com.br/soultv-redebrasil/tracks-v1a1/mono.ts.m3u8",
-    "categories": [
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "111",
     "name": "Rede QDM",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_QDM_reduzido.png",
@@ -387,17 +376,6 @@
     "name": "AG Tv",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_YOUTUBE_100100px_ZfxeqjJ.png",
     "url": "https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8",
-    "categories": [
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "286",
-    "name": "RIT TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/1399_-_logo_100x100.png",
-    "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8",
     "categories": [
       "Minas"
     ],
