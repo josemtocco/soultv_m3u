@@ -747,17 +747,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "177",
-    "name": "TV Votorantim",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TVV_100px.png",
-    "url": "https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "137",
     "name": "Astral TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png",
@@ -789,17 +778,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
-  },
-  {
-    "id": "304",
-    "name": "Canal 25",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo.png",
-    "url": "https://cdn-origin.soultv.com.br/soultv-canal25/tracks-v1a1/mono.ts.m3u8",
-    "categories": [
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
   },
   {
     "id": "247",
