@@ -66,6 +66,17 @@
     "teste": "HTTP 200"
   },
   {
+    "id": "245",
+    "name": "Rede Brasil",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/rede_brasil_MARCA_100x100.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-redebrasil/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "111",
     "name": "Rede QDM",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_QDM_reduzido.png",
@@ -383,6 +394,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "286",
+    "name": "RIT TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/1399_-_logo_100x100.png",
+    "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "226",
     "name": "TV Difusão",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px.png",
@@ -513,6 +535,17 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
+  },
+  {
+    "id": "229",
+    "name": "Canal TVC",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tvc_100x100_soul_tv.png",
+    "url": "https://cdn-origin.soultv.com.br/soultv-canaltvc/tracks-v1a1/mono.ts.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
   },
   {
     "id": "204",
@@ -685,6 +718,17 @@
     "name": "Tv Nova Nordeste",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png",
     "url": "https://stream.ecast.com.br/nova-tv/index.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "234",
+    "name": "TV Onix",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_ONIX_Branco__100_x_100_.png",
+    "url": "https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
