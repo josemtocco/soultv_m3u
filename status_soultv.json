@@ -3,16 +3,14 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 77,
-  "total_removidos_teste": 4,
+  "total_ativos": 76,
+  "total_removidos_teste": 5,
   "canais_ativos": [
-    "Canal do Boi",
     "TV Folha do Campo",
     "Tv História",
     "Veza TV",
     "Viva e Eduque",
     "Q Tal Channel",
-    "Rede Brasil",
     "Rede QDM",
     "Séries Classic",
     "TV Clube",
@@ -76,6 +74,7 @@
     "Astral TV",
     "Tv Adorar",
     "Adesso TV",
+    "Canal 25",
     "DM Kids TV",
     "Kanuca TV Brasil",
     "Kids Mais",
@@ -85,6 +84,12 @@
     "TV Rede Mais Familia"
   ],
   "falhas": [
+    {
+      "name": "Rede Brasil",
+      "url": "https://cdn-origin.soultv.com.br/soultv-redebrasil/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
     {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
@@ -104,12 +109,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Canal 25",
-      "url": "https://cdn-origin.soultv.com.br/soultv-canal25/tracks-v1a1/mono.ts.m3u8",
+      "name": "Canal do Boi",
+      "url": "https://aovivo3.equipea.com.br:5443/aovivort/streams/FGPjVZA1EidEnBCn5502382962900440.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-28T12:06:22Z",
-  "duracao_segundos": 3.92
+  "atualizado_em": "2026-10-28T22:10:15Z",
+  "duracao_segundos": 3.99
 }
