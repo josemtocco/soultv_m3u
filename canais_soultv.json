@@ -1,5 +1,16 @@
 [
   {
+    "id": "123",
+    "name": "Canal do Boi",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_CNBOI-BRANCA_-_SD_reduzido.png",
+    "url": "https://aovivo3.equipea.com.br:5443/aovivort/streams/FGPjVZA1EidEnBCn5502382962900440.m3u8",
+    "categories": [
+      "Agronegócios"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "237",
     "name": "TV Folha do Campo",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/unnamed_1.png",
