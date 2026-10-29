@@ -736,6 +736,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "177",
+    "name": "TV Votorantim",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TVV_100px.png",
+    "url": "https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "137",
     "name": "Astral TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png",
