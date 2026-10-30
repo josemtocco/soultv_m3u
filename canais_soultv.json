@@ -33,17 +33,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "235",
-    "name": "Veza TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/VezaTV_Branco_-_Logo_1_4naHcCE.png",
-    "url": "https://vezatv.cdn.cportal.com.br/live/stream.m3u8",
-    "categories": [
-      "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "209",
     "name": "Viva e Eduque",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_VIVAEDUQUE-100x100.png",

@@ -10,9 +10,6 @@ https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8
 #EXTINF:-1 tvg-id="296" tvg-name="Tv História" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png" group-title="Cultura",Tv História
 https://cdn-origin.soultv.com.br/soultv-tvhistoria/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="235" tvg-name="Veza TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/VezaTV_Branco_-_Logo_1_4naHcCE.png" group-title="Cultura",Veza TV
-https://vezatv.cdn.cportal.com.br/live/stream.m3u8
-
 #EXTINF:-1 tvg-id="209" tvg-name="Viva e Eduque" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_VIVAEDUQUE-100x100.png" group-title="Cultura",Viva e Eduque
 https://cdn-origin.soultv.com.br/soultv-vivaeeduque/tracks-v1a1/mono.ts.m3u8
 

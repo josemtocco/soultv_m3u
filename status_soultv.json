@@ -3,13 +3,12 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 78,
-  "total_removidos_teste": 3,
+  "total_ativos": 77,
+  "total_removidos_teste": 4,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
     "Tv História",
-    "Veza TV",
     "Viva e Eduque",
     "Q Tal Channel",
     "Rede QDM",
@@ -99,12 +98,18 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "Veza TV",
+      "url": "https://vezatv.cdn.cportal.com.br/live/stream.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 503, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-29T22:25:45Z",
-  "duracao_segundos": 4.13
+  "atualizado_em": "2026-10-30T04:21:18Z",
+  "duracao_segundos": 3.52
 }
