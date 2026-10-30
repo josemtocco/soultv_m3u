@@ -2,13 +2,14 @@
   "ok": true,
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
-  "total_api": 81,
+  "total_api": 80,
   "total_ativos": 76,
-  "total_removidos_teste": 5,
+  "total_removidos_teste": 4,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
     "Tv História",
+    "Veza TV",
     "Viva e Eduque",
     "Q Tal Channel",
     "Rede QDM",
@@ -64,7 +65,6 @@
     "TV Diário do Sertão",
     "TV IN",
     "Tv Life America",
-    "TV MAX",
     "TV Meio",
     "Tv Mogiana",
     "Tv Nordestina",
@@ -85,6 +85,12 @@
   ],
   "falhas": [
     {
+      "name": "TV MAX",
+      "url": "https://cdn-origin.soultv.com.br/soultv-tvmax/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Rede Brasil",
       "url": "https://cdn-origin.soultv.com.br/soultv-redebrasil/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
@@ -97,24 +103,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Veza TV",
-      "url": "https://vezatv.cdn.cportal.com.br/live/stream.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 503, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Onix",
-      "url": "https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-30T12:07:38Z",
-  "duracao_segundos": 3.75
+  "atualizado_em": "2026-10-30T21:55:50Z",
+  "duracao_segundos": 3.99
 }
