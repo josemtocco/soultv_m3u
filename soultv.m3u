@@ -190,9 +190,6 @@ https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabilioj
 #EXTINF:-1 tvg-id="231" tvg-name="Tv Nova Nordeste" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png" group-title="Regionais",Tv Nova Nordeste
 https://stream.ecast.com.br/nova-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="234" tvg-name="TV Onix" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_ONIX_Branco__100_x_100_.png" group-title="Regionais",TV Onix
-https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
-
 #EXTINF:-1 tvg-id="28" tvg-name="TV PAMPA" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvpampa-logo3.png" group-title="Regionais",TV PAMPA
 https://cdn-origin.soultv.com.br/soultv-tvpampa/tracks-v1a1/mono.ts.m3u8
 

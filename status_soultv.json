@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 81,
-  "total_ativos": 77,
-  "total_removidos_teste": 4,
+  "total_ativos": 76,
+  "total_removidos_teste": 5,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -69,7 +69,6 @@
     "Tv Mogiana",
     "Tv Nordestina",
     "Tv Nova Nordeste",
-    "TV Onix",
     "TV PAMPA",
     "TV Votorantim",
     "Astral TV",
@@ -104,12 +103,18 @@
       "motivo": "HTTP 503, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "TV Onix",
+      "url": "https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-30T04:21:18Z",
-  "duracao_segundos": 3.52
+  "atualizado_em": "2026-10-30T12:07:38Z",
+  "duracao_segundos": 3.75
 }

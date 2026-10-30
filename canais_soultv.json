@@ -703,17 +703,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "234",
-    "name": "TV Onix",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_ONIX_Branco__100_x_100_.png",
-    "url": "https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "28",
     "name": "TV PAMPA",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tvpampa-logo3.png",
