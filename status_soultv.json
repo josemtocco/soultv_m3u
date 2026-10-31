@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 75,
-  "total_removidos_teste": 5,
+  "total_ativos": 74,
+  "total_removidos_teste": 6,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -16,7 +16,6 @@
     "Séries Classic",
     "TV Clube",
     "TV CNB",
-    "Tv Estilo",
     "Atitude New",
     "CANAL START",
     "RS SPORTS",
@@ -67,11 +66,11 @@
     "Tv Life America",
     "TV Meio",
     "Tv Mogiana",
-    "Tv Nordestina",
     "Tv Nova Nordeste",
     "TV PAMPA",
     "TV Votorantim",
     "Astral TV",
+    "Tv Adorar",
     "Adesso TV",
     "Canal 25",
     "DM Kids TV",
@@ -84,6 +83,12 @@
   ],
   "falhas": [
     {
+      "name": "Tv Estilo",
+      "url": "https://cdn-origin.soultv.com.br/soultv-tvestilo/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "TV MAX",
       "url": "https://cdn-origin.soultv.com.br/soultv-tvmax/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
@@ -92,12 +97,6 @@
     {
       "name": "Rede Brasil",
       "url": "https://cdn-origin.soultv.com.br/soultv-redebrasil/tracks-v1a1/mono.ts.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Tv Adorar",
-      "url": "https://cdn-origin.soultv.com.br/soultv-tvadorar/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -112,8 +111,14 @@
       "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Tv Nordestina",
+      "url": "https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-31T11:40:41Z",
-  "duracao_segundos": 3.92
+  "atualizado_em": "2026-10-31T16:48:55Z",
+  "duracao_segundos": 3.98
 }
