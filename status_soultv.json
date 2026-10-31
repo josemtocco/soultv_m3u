@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 76,
-  "total_removidos_teste": 4,
+  "total_ativos": 75,
+  "total_removidos_teste": 5,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -72,7 +72,6 @@
     "TV PAMPA",
     "TV Votorantim",
     "Astral TV",
-    "Tv Adorar",
     "Adesso TV",
     "Canal 25",
     "DM Kids TV",
@@ -87,6 +86,12 @@
     {
       "name": "TV MAX",
       "url": "https://cdn-origin.soultv.com.br/soultv-tvmax/tracks-v1a1/mono.ts.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Tv Adorar",
+      "url": "https://cdn-origin.soultv.com.br/soultv-tvadorar/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -109,6 +114,6 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-10-30T21:55:50Z",
-  "duracao_segundos": 3.99
+  "atualizado_em": "2026-10-31T04:00:43Z",
+  "duracao_segundos": 14.72
 }
