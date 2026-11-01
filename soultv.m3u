@@ -178,6 +178,9 @@ https://live.tvinterior.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="Tv Life America" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
+#EXTINF:-1 tvg-id="55" tvg-name="TV MAX" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png" group-title="Regionais",TV MAX
+https://cdn-origin.soultv.com.br/soultv-tvmax/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="218" tvg-name="TV Meio" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/SOULTV-100x100px-.png" group-title="Regionais",TV Meio
 https://cdn-origin.soultv.com.br/soultv-tvmeio/tracks-v1a1/mono.ts.m3u8
 
