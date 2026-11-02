@@ -154,14 +154,8 @@ https://cdn-origin.soultv.com.br/soultv-poastreamingtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="Primer TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Pe%C3%A7as_App_logo_100_x_100_reduz.png" group-title="Regionais",Primer TV
 http://177.74.174.57:8080/hls/primertv.m3u8
 
-#EXTINF:-1 tvg-id="250" tvg-name="Rede TV Paraná" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/PAG_02_-_LOGO_100X100_YUPjBIv.png" group-title="Regionais",Rede TV Paraná
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-
 #EXTINF:-1 tvg-id="77" tvg-name="Rede UTV Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_UTV_baixa.png" group-title="Regionais",Rede UTV Brasil
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="249" tvg-name="Tenda TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/PAG_02_-_LOGO_100X100.png" group-title="Regionais",Tenda TV
-https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="224" tvg-name="TV Alagoinha" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_ALAGOINHA_100_X_100.png" group-title="Regionais",TV Alagoinha
 https://cdn-origin.soultv.com.br/soultv-tvalagoinha/tracks-v1a1/mono.ts.m3u8

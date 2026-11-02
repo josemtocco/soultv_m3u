@@ -570,32 +570,10 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "250",
-    "name": "Rede TV Paraná",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/PAG_02_-_LOGO_100X100_YUPjBIv.png",
-    "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "77",
     "name": "Rede UTV Brasil",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_UTV_baixa.png",
     "url": "https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "249",
-    "name": "Tenda TV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/PAG_02_-_LOGO_100X100.png",
-    "url": "https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
