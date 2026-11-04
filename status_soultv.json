@@ -2,9 +2,9 @@
   "ok": true,
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
-  "total_api": 80,
+  "total_api": 75,
   "total_ativos": 75,
-  "total_removidos_teste": 5,
+  "total_removidos_teste": 0,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -46,6 +46,7 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
+    "Hip Hop Vai Além TV",
     "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
@@ -56,7 +57,6 @@
     "Canal TVC",
     "OK TV",
     "POA Streaming TV",
-    "Primer TV",
     "Rede UTV Brasil",
     "TV Alagoinha",
     "TV Alternativa",
@@ -82,38 +82,7 @@
     "TV Judaica",
     "TV Rede Mais Familia"
   ],
-  "falhas": [
-    {
-      "name": "Rede Brasil",
-      "url": "https://cdn-origin.soultv.com.br/soultv-redebrasil/tracks-v1a1/mono.ts.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "SescTV",
-      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Hip Hop Vai Além TV",
-      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Rede TV Paraná",
-      "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Tenda TV",
-      "url": "https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    }
-  ],
-  "atualizado_em": "2026-11-04T13:46:34Z",
-  "duracao_segundos": 5.3
+  "falhas": [],
+  "atualizado_em": "2026-11-04T23:12:07Z",
+  "duracao_segundos": 4.24
 }
