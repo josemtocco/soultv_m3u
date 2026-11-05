@@ -163,6 +163,9 @@ https://cdn-tiva-stmv5-samcast-com-br.soultv.com.br/wagner7919/wagner7919/playli
 #EXTINF:-1 tvg-id="238" tvg-name="TV Diário do Sertão" tvg-logo="https://tv.soultv.com.br/arte/6f7eedcf803d5412032c41287cb1ef77298b4065.png" group-title="Regionais",TV Diário do Sertão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="327" tvg-name="TV IN" tvg-logo="https://tv.soultv.com.br/arte/b357e215c51c2e3175f572a8d03b7c4ea32deb06.png" group-title="Regionais",TV IN
+https://live.tvinterior.com.br/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="129" tvg-name="Tv Life America" tvg-logo="https://tv.soultv.com.br/arte/b5b955511c8d3d18164e78cdc0ca12a8d5fda879.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
@@ -174,6 +177,9 @@ https://cdn-tiva-maystreaming-cloudecast-com.soultv.com.br/redemeio/index.m3u8
 
 #EXTINF:-1 tvg-id="241" tvg-name="Tv Mogiana" tvg-logo="https://tv.soultv.com.br/arte/547aa0fef05e9c0e3b402e61195c86e0f275f628.png" group-title="Regionais",Tv Mogiana
 https://a.cdni.live/mogianaonline4773/mogianaonline4773/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="Tv Nordestina" tvg-logo="https://tv.soultv.com.br/arte/d054a8099832b83474edb8ea3a51e12f39e07fc8.png" group-title="Regionais",Tv Nordestina
+https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="231" tvg-name="Tv Nova Nordeste" tvg-logo="https://tv.soultv.com.br/arte/fdfe02bb9b5fa2c872fef6bd9d314450599f74ee.png" group-title="Regionais",Tv Nova Nordeste
 https://stream.ecast.com.br/nova-tv/index.m3u8
