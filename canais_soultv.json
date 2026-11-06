@@ -325,7 +325,7 @@
       "Internacional"
     ],
     "status": "ativo",
-    "teste": "HTTP 206"
+    "teste": "HTTP 200"
   },
   {
     "id": "118",
@@ -766,7 +766,7 @@
       "Variedades"
     ],
     "status": "ativo",
-    "teste": "HTTP 206"
+    "teste": "HTTP 200"
   },
   {
     "id": "183",
