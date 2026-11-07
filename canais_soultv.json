@@ -52,7 +52,7 @@
       "Cultura"
     ],
     "status": "ativo",
-    "teste": "HTTP 206"
+    "teste": "HTTP 200"
   },
   {
     "id": "110",
@@ -188,18 +188,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "74",
-    "name": "ISTV",
-    "logo": "https://tv.soultv.com.br/arte/2ae275ece8f605608b77182a28b97f5c87e6d38b.png",
-    "url": "https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/redeistv/redeistv/playlist.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "233",
     "name": "Play TV",
     "logo": "https://tv.soultv.com.br/arte/ff42a81dc880127b5c7e14bd0f1e008ebba3622f.png",
@@ -292,7 +280,7 @@
       "Gastronomia"
     ],
     "status": "ativo",
-    "teste": "HTTP 206"
+    "teste": "HTTP 200"
   },
   {
     "id": "54",
@@ -457,7 +445,7 @@
       "Música"
     ],
     "status": "ativo",
-    "teste": "HTTP 206"
+    "teste": "HTTP 200"
   },
   {
     "id": "61",
@@ -541,17 +529,6 @@
     "name": "OK TV",
     "logo": "https://tv.soultv.com.br/arte/1511704e9b492a6be42b72cd2c516b13820a04c5.png",
     "url": "https://stmv2.srvsh.com.br/douglas5010/douglas5010/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "221",
-    "name": "POA Streaming TV",
-    "logo": "https://tv.soultv.com.br/arte/555f44de2ff15e88d0180591c964cf911548bfb0.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/poastreaming/poastreaming/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
