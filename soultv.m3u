@@ -28,6 +28,9 @@ https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/serieclassic/serieclass
 #EXTINF:-1 tvg-id="214" tvg-name="TV Clube" tvg-logo="https://tv.soultv.com.br/arte/f47e88972113e310752ebe444062df2efb811e20.png" group-title="Entretenimento",TV Clube
 https://stream.ecast.com.br/jonas-silva/index.m3u8
 
+#EXTINF:-1 tvg-id="127" tvg-name="TV CNB" tvg-logo="https://tv.soultv.com.br/arte/c987cb541f7e1293784bedc5a356c05d10c51974.png" group-title="Entretenimento",TV CNB
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
+
 #EXTINF:-1 tvg-id="90" tvg-name="Tv Estilo" tvg-logo="https://tv.soultv.com.br/arte/a76aab4fe160f58e5475bade0050fb3a78d1acbd.png" group-title="Entretenimento",Tv Estilo
 https://cdn-tiva-stmv8-samcast-com-br.soultv.com.br/tvestilo/tvestilo/playlist.m3u8
 
@@ -78,6 +81,9 @@ https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/bemmelhor/bemmelhor/pla
 
 #EXTINF:-1 tvg-id="54" tvg-name="Assim é Portugal" tvg-logo="https://tv.soultv.com.br/arte/1ce111e1aa17bba61bf19a76574e8a96de5dc465.png" group-title="Internacional",Assim é Portugal
 https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/assimeportugal/assimeportugal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="174" tvg-name="CNB American TV" tvg-logo="https://tv.soultv.com.br/arte/c9b47060f83558b53b621fb3c9269c70dc3ffe65.png" group-title="Internacional",CNB American TV
+https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/playlist.m3u8
 
 #EXTINF:-1 tvg-id="263" tvg-name="FMTV" tvg-logo="https://tv.soultv.com.br/arte/2da2f55ad42ff70eec073dae8f1cfc1d7069e705.png" group-title="Internacional",FMTV
 https://cdn-tiva-video08-logicahost-com-br.soultv.com.br/fmtvbr/fmtvbr/playlist.m3u8
