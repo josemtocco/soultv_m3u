@@ -269,7 +269,7 @@
       "Entretenimento"
     ],
     "status": "ativo",
-    "teste": "HTTP 206"
+    "teste": "HTTP 200"
   },
   {
     "id": "265",
@@ -303,7 +303,7 @@
       "Internacional"
     ],
     "status": "ativo",
-    "teste": "HTTP 206"
+    "teste": "HTTP 200"
   },
   {
     "id": "174",
@@ -347,7 +347,7 @@
       "Internacional"
     ],
     "status": "ativo",
-    "teste": "HTTP 206"
+    "teste": "HTTP 200"
   },
   {
     "id": "140",
@@ -479,7 +479,7 @@
       "Pet"
     ],
     "status": "ativo",
-    "teste": "HTTP 206"
+    "teste": "HTTP 200"
   },
   {
     "id": "284",
@@ -689,7 +689,7 @@
       "Regionais"
     ],
     "status": "ativo",
-    "teste": "HTTP 206"
+    "teste": "HTTP 200"
   },
   {
     "id": "177",
