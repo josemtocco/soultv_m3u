@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 75,
-  "total_ativos": 72,
-  "total_removidos_teste": 3,
+  "total_ativos": 74,
+  "total_removidos_teste": 1,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -55,10 +55,12 @@
     "America TV",
     "Canal TVC",
     "OK TV",
+    "POA Streaming TV",
     "Rede UTV Brasil",
     "TV Alagoinha",
     "TV Alternativa",
     "TV Diário do Sertão",
+    "TV IN",
     "Tv Life America",
     "TV MAX",
     "TV Meio",
@@ -81,24 +83,12 @@
   ],
   "falhas": [
     {
-      "name": "POA Streaming TV",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/poastreaming/poastreaming/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV IN",
-      "url": "https://live.tvinterior.com.br/hls/stream.m3u8",
-      "status": "inativo",
-      "motivo": "ConnectionError: HTTPSConnectionPool(host='live.tvinterior.com.br', port=443): Max retries exceeded with url: /hls/stream.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='live.tvinterior.com.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     }
   ],
-  "atualizado_em": "2026-11-07T21:27:00Z",
-  "duracao_segundos": 13.94
+  "atualizado_em": "2026-11-08T04:25:22Z",
+  "duracao_segundos": 4.68
 }

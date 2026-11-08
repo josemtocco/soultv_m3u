@@ -148,6 +148,9 @@ https://cdn-tiva-stmv1-voxtvhd-com-br.soultv.com.br/canaltvc/canaltvc/playlist.m
 #EXTINF:-1 tvg-id="204" tvg-name="OK TV" tvg-logo="https://tv.soultv.com.br/arte/1511704e9b492a6be42b72cd2c516b13820a04c5.png" group-title="Regionais",OK TV
 https://stmv2.srvsh.com.br/douglas5010/douglas5010/playlist.m3u8
 
+#EXTINF:-1 tvg-id="221" tvg-name="POA Streaming TV" tvg-logo="https://tv.soultv.com.br/arte/555f44de2ff15e88d0180591c964cf911548bfb0.png" group-title="Regionais",POA Streaming TV
+https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/poastreaming/poastreaming/playlist.m3u8
+
 #EXTINF:-1 tvg-id="77" tvg-name="Rede UTV Brasil" tvg-logo="https://tv.soultv.com.br/arte/55a3d3f8ff47aa874f31ec0f190abeec625cda17.png" group-title="Regionais",Rede UTV Brasil
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 
@@ -159,6 +162,9 @@ https://cdn-tiva-stmv5-samcast-com-br.soultv.com.br/wagner7919/wagner7919/playli
 
 #EXTINF:-1 tvg-id="238" tvg-name="TV Diário do Sertão" tvg-logo="https://tv.soultv.com.br/arte/6f7eedcf803d5412032c41287cb1ef77298b4065.png" group-title="Regionais",TV Diário do Sertão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="327" tvg-name="TV IN" tvg-logo="https://tv.soultv.com.br/arte/b357e215c51c2e3175f572a8d03b7c4ea32deb06.png" group-title="Regionais",TV IN
+https://live.tvinterior.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="129" tvg-name="Tv Life America" tvg-logo="https://tv.soultv.com.br/arte/b5b955511c8d3d18164e78cdc0ca12a8d5fda879.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
