@@ -148,9 +148,6 @@ https://cdn-tiva-stmv1-voxtvhd-com-br.soultv.com.br/canaltvc/canaltvc/playlist.m
 #EXTINF:-1 tvg-id="204" tvg-name="OK TV" tvg-logo="https://tv.soultv.com.br/arte/1511704e9b492a6be42b72cd2c516b13820a04c5.png" group-title="Regionais",OK TV
 https://stmv2.srvsh.com.br/douglas5010/douglas5010/playlist.m3u8
 
-#EXTINF:-1 tvg-id="221" tvg-name="POA Streaming TV" tvg-logo="https://tv.soultv.com.br/arte/555f44de2ff15e88d0180591c964cf911548bfb0.png" group-title="Regionais",POA Streaming TV
-https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/poastreaming/poastreaming/playlist.m3u8
-
 #EXTINF:-1 tvg-id="77" tvg-name="Rede UTV Brasil" tvg-logo="https://tv.soultv.com.br/arte/55a3d3f8ff47aa874f31ec0f190abeec625cda17.png" group-title="Regionais",Rede UTV Brasil
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 

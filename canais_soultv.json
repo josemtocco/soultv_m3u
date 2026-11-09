@@ -548,17 +548,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "221",
-    "name": "POA Streaming TV",
-    "logo": "https://tv.soultv.com.br/arte/555f44de2ff15e88d0180591c964cf911548bfb0.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/poastreaming/poastreaming/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "77",
     "name": "Rede UTV Brasil",
     "logo": "https://tv.soultv.com.br/arte/55a3d3f8ff47aa874f31ec0f190abeec625cda17.png",
