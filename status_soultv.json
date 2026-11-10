@@ -2,16 +2,17 @@
   "ok": true,
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
-  "total_api": 75,
-  "total_ativos": 65,
-  "total_removidos_teste": 10,
+  "total_api": 80,
+  "total_ativos": 74,
+  "total_removidos_teste": 6,
   "canais_ativos": [
-    "Canal do Boi",
     "TV Folha do Campo",
+    "Tv História",
     "Veza TV",
     "Viva e Eduque",
     "Q Tal Channel",
     "Rede QDM",
+    "Séries Classic",
     "TV Clube",
     "TV CNB",
     "Tv Estilo",
@@ -27,12 +28,16 @@
     "TV DA QUEBRADA",
     "TV METROPOLES",
     "TV Protagonistas",
+    "TV Sonata",
+    "Vivax",
     "Bem Melhor",
+    "Assim é Portugal",
     "CNB American TV",
     "FMTV",
     "Onda Digital TV",
     "Peru Channel",
     "TV Florida",
+    "TV Portuguesa",
     "AG Tv",
     "RIT TV",
     "TV Difusão",
@@ -40,7 +45,6 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
-    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -49,10 +53,14 @@
     "America TV",
     "Canal TVC",
     "OK TV",
+    "Primer TV",
+    "Rede TV Paraná",
     "Rede UTV Brasil",
+    "Tenda TV",
     "TV Alagoinha",
     "TV Alternativa",
     "TV Diário do Sertão",
+    "TV IN",
     "Tv Life America",
     "TV MAX",
     "TV Meio",
@@ -65,6 +73,7 @@
     "Tv Adorar",
     "Adesso TV",
     "Canal 25",
+    "DM Kids TV",
     "Kanuca TV Brasil",
     "Kids Mais",
     "Rede SDP TV",
@@ -74,66 +83,42 @@
   ],
   "falhas": [
     {
-      "name": "Séries Classic",
-      "url": "https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/serieclassic/serieclassic/playlist.m3u8",
+      "name": "SescTV",
+      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Tv História",
-      "url": "https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/tvhistoria/tvhistoria/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Sonata",
-      "url": "https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/isonata/isonata/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "POA Streaming TV",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/poastreaming/poastreaming/playlist.m3u8",
+      "name": "Canal do Boi",
+      "url": "https://aovivo3.equipea.com.br:5443/aovivort/streams/FGPjVZA1EidEnBCn5502382962900440.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
       "name": "Hip Hop Vai Além TV",
-      "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+      "url": "https://cdn-tiva-stmv4-voxtvhd-com-br.soultv.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "DM Kids TV",
-      "url": "https://cdn-tiva-video03-logicahost-com-br.soultv.com.br/dmkidstv/dmkidstv/playlist.m3u8",
+      "name": "Rede Brasil",
+      "url": "https://cdn-origin.soultv.com.br/soultv-redebrasil/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Vivax",
-      "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8",
+      "name": "POA Streaming TV",
+      "url": "https://cdn-origin.soultv.com.br/soultv-poastreamingtv/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Assim é Portugal",
-      "url": "https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/assimeportugal/assimeportugal/playlist.m3u8",
+      "name": "TV A Folha",
+      "url": "https://cdn-origin.soultv.com.br/soultv-tvafolha/tracks-v1a1/mono.ts.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV Portuguesa",
-      "url": "https://tvportuguesa.myemail.pt:8888/live/stream1_aac/index.m3u8",
-      "status": "inativo",
-      "motivo": "ConnectionError: HTTPSConnectionPool(host='tvportuguesa.myemail.pt', port=8888): Max retries exceeded with url: /live/stream1_aac/index.m3u8 (Caused by NameResolutionError(\"HTTPSConnection(host='tvportuguesa.myemail.pt', port=8888): Failed to resolve 'tvportuguesa.myemail.pt' ([Errno -3] Temporary failure in name resolution)\"))"
-    },
-    {
-      "name": "TV IN",
-      "url": "https://live.tvinterior.com.br/hls/stream.m3u8",
-      "status": "inativo",
-      "motivo": "ConnectionError: HTTPSConnectionPool(host='live.tvinterior.com.br', port=443): Max retries exceeded with url: /hls/stream.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='live.tvinterior.com.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-origin.soultv.com.br', port=443): Read timed out. (read timeout=12)"
     }
   ],
-  "atualizado_em": "2026-11-10T14:19:54Z",
-  "duracao_segundos": 14.68
+  "atualizado_em": "2026-11-10T22:49:48Z",
+  "duracao_segundos": 13.16
 }
