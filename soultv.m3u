@@ -121,8 +121,8 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="148" tvg-name="WTV Brasil" tvg-logo="https://tv.soultv.com.br/arte/88d8fccd8fe412b311de69a6c0bed2e35faaec58.png" group-title="Minas",WTV Brasil
 https://cdn-tiva-stmv7-samcast-com-br.soultv.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="87" tvg-name="TV A Folha" tvg-logo="https://tv.soultv.com.br/arte/dadd450c856ae5a81f03a691f81fc92f33b4afdc.png" group-title="Música",TV A Folha
-https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="258" tvg-name="Hip Hop Vai Além TV" tvg-logo="https://tv.soultv.com.br/arte/2bbdd693deba1fe69873679778113dac1d2ff5fd.png" group-title="Música",Hip Hop Vai Além TV
+https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="Tv Grande Natal HDTV" tvg-logo="https://tv.soultv.com.br/arte/d633f12af8c928b7ae45e19cf75a14d4b5a4ea19.jpg" group-title="Música",Tv Grande Natal HDTV
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
@@ -159,9 +159,6 @@ https://cdn-tiva-stmv5-samcast-com-br.soultv.com.br/wagner7919/wagner7919/playli
 
 #EXTINF:-1 tvg-id="238" tvg-name="TV Diário do Sertão" tvg-logo="https://tv.soultv.com.br/arte/6f7eedcf803d5412032c41287cb1ef77298b4065.png" group-title="Regionais",TV Diário do Sertão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="327" tvg-name="TV IN" tvg-logo="https://tv.soultv.com.br/arte/b357e215c51c2e3175f572a8d03b7c4ea32deb06.png" group-title="Regionais",TV IN
-https://live.tvinterior.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="129" tvg-name="Tv Life America" tvg-logo="https://tv.soultv.com.br/arte/b5b955511c8d3d18164e78cdc0ca12a8d5fda879.png" group-title="Regionais",Tv Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8

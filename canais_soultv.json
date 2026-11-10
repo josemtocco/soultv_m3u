@@ -449,15 +449,15 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "87",
-    "name": "TV A Folha",
-    "logo": "https://tv.soultv.com.br/arte/dadd450c856ae5a81f03a691f81fc92f33b4afdc.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
+    "id": "258",
+    "name": "Hip Hop Vai Além TV",
+    "logo": "https://tv.soultv.com.br/arte/2bbdd693deba1fe69873679778113dac1d2ff5fd.png",
+    "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
     "categories": [
       "Música"
     ],
     "status": "ativo",
-    "teste": "HTTP 200"
+    "teste": "HTTP 206"
   },
   {
     "id": "61",
@@ -590,17 +590,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 206"
-  },
-  {
-    "id": "327",
-    "name": "TV IN",
-    "logo": "https://tv.soultv.com.br/arte/b357e215c51c2e3175f572a8d03b7c4ea32deb06.png",
-    "url": "https://live.tvinterior.com.br/hls/stream.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
   },
   {
     "id": "129",
