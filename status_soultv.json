@@ -3,17 +3,15 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 75,
-  "total_ativos": 72,
-  "total_removidos_teste": 3,
+  "total_ativos": 65,
+  "total_removidos_teste": 10,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
-    "Tv História",
     "Veza TV",
     "Viva e Eduque",
     "Q Tal Channel",
     "Rede QDM",
-    "Séries Classic",
     "TV Clube",
     "TV CNB",
     "Tv Estilo",
@@ -29,16 +27,12 @@
     "TV DA QUEBRADA",
     "TV METROPOLES",
     "TV Protagonistas",
-    "TV Sonata",
-    "Vivax",
     "Bem Melhor",
-    "Assim é Portugal",
     "CNB American TV",
     "FMTV",
     "Onda Digital TV",
     "Peru Channel",
     "TV Florida",
-    "TV Portuguesa",
     "AG Tv",
     "RIT TV",
     "TV Difusão",
@@ -46,7 +40,7 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
-    "Hip Hop Vai Além TV",
+    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -71,7 +65,6 @@
     "Tv Adorar",
     "Adesso TV",
     "Canal 25",
-    "DM Kids TV",
     "Kanuca TV Brasil",
     "Kids Mais",
     "Rede SDP TV",
@@ -81,16 +74,58 @@
   ],
   "falhas": [
     {
+      "name": "Séries Classic",
+      "url": "https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/serieclassic/serieclassic/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Tv História",
+      "url": "https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/tvhistoria/tvhistoria/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV Sonata",
+      "url": "https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/isonata/isonata/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "POA Streaming TV",
       "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/poastreaming/poastreaming/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV A Folha",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
+      "name": "Hip Hop Vai Além TV",
+      "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "DM Kids TV",
+      "url": "https://cdn-tiva-video03-logicahost-com-br.soultv.com.br/dmkidstv/dmkidstv/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Vivax",
+      "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Assim é Portugal",
+      "url": "https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/assimeportugal/assimeportugal/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV Portuguesa",
+      "url": "https://tvportuguesa.myemail.pt:8888/live/stream1_aac/index.m3u8",
+      "status": "inativo",
+      "motivo": "ConnectionError: HTTPSConnectionPool(host='tvportuguesa.myemail.pt', port=8888): Max retries exceeded with url: /live/stream1_aac/index.m3u8 (Caused by NameResolutionError(\"HTTPSConnection(host='tvportuguesa.myemail.pt', port=8888): Failed to resolve 'tvportuguesa.myemail.pt' ([Errno -3] Temporary failure in name resolution)\"))"
     },
     {
       "name": "TV IN",
@@ -99,6 +134,6 @@
       "motivo": "ConnectionError: HTTPSConnectionPool(host='live.tvinterior.com.br', port=443): Max retries exceeded with url: /hls/stream.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='live.tvinterior.com.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     }
   ],
-  "atualizado_em": "2026-11-10T01:10:35Z",
-  "duracao_segundos": 14.3
+  "atualizado_em": "2026-11-10T14:19:54Z",
+  "duracao_segundos": 14.68
 }

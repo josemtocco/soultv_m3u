@@ -22,17 +22,6 @@
     "teste": "HTTP 200"
   },
   {
-    "id": "296",
-    "name": "Tv História",
-    "logo": "https://tv.soultv.com.br/arte/6751502516340c9afbf997a0ef6acaa2512ea7cd.png",
-    "url": "https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/tvhistoria/tvhistoria/playlist.m3u8",
-    "categories": [
-      "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "235",
     "name": "Veza TV",
     "logo": "https://tv.soultv.com.br/arte/340bf6af196efe70588eabaaf7d68f22cee85bb5.png",
@@ -70,17 +59,6 @@
     "name": "Rede QDM",
     "logo": "https://tv.soultv.com.br/arte/1cfc55c7cdd1dda44d2646ea04536aac12050ef3.png",
     "url": "https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8",
-    "categories": [
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
-    "id": "240",
-    "name": "Séries Classic",
-    "logo": "https://tv.soultv.com.br/arte/2fe6a2b7d6564c4e5f3f039e8754632868912a01.png",
-    "url": "https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/serieclassic/serieclassic/playlist.m3u8",
     "categories": [
       "Entretenimento"
     ],
@@ -260,47 +238,12 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "105",
-    "name": "TV Sonata",
-    "logo": "https://tv.soultv.com.br/arte/20cdea4d041b4dc30b48beac6ce1cbe661ff653b.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/isonata/isonata/playlist.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
-    "id": "265",
-    "name": "Vivax",
-    "logo": "https://tv.soultv.com.br/arte/d4f770b69f374741e28f89a588aef70f058c1134.png",
-    "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "66",
     "name": "Bem Melhor",
     "logo": "https://tv.soultv.com.br/arte/e36fe20b98ebc18e99d708b8cf4dc7ea9d5cad55.png",
     "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8",
     "categories": [
       "Gastronomia"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
-    "id": "54",
-    "name": "Assim é Portugal",
-    "logo": "https://tv.soultv.com.br/arte/1ce111e1aa17bba61bf19a76574e8a96de5dc465.png",
-    "url": "https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/assimeportugal/assimeportugal/playlist.m3u8",
-    "categories": [
-      "Internacional"
     ],
     "status": "ativo",
     "teste": "HTTP 200"
@@ -359,17 +302,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 206"
-  },
-  {
-    "id": "220",
-    "name": "TV Portuguesa",
-    "logo": "https://tv.soultv.com.br/arte/4d31d8e5c71fe9ef5088080f79ce0a290f533415.png",
-    "url": "https://tvportuguesa.myemail.pt:8888/live/stream1_aac/index.m3u8",
-    "categories": [
-      "Internacional"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
   },
   {
     "id": "115",
@@ -449,15 +381,15 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "258",
-    "name": "Hip Hop Vai Além TV",
-    "logo": "https://tv.soultv.com.br/arte/2bbdd693deba1fe69873679778113dac1d2ff5fd.png",
-    "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
+    "id": "87",
+    "name": "TV A Folha",
+    "logo": "https://tv.soultv.com.br/arte/dadd450c856ae5a81f03a691f81fc92f33b4afdc.png",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
     "categories": [
       "Música"
     ],
     "status": "ativo",
-    "teste": "HTTP 206"
+    "teste": "HTTP 200"
   },
   {
     "id": "61",
@@ -723,17 +655,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 206"
-  },
-  {
-    "id": "247",
-    "name": "DM Kids TV",
-    "logo": "https://tv.soultv.com.br/arte/8a4c69d312655a6ffd62d8939f3e0d7670be7164.png",
-    "url": "https://cdn-tiva-video03-logicahost-com-br.soultv.com.br/dmkidstv/dmkidstv/playlist.m3u8",
-    "categories": [
-      "Variedades"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
   },
   {
     "id": "290",

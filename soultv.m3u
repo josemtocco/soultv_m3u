@@ -7,9 +7,6 @@ https://aovivo3.equipea.com.br:5443/aovivort/streams/FGPjVZA1EidEnBCn55023829629
 #EXTINF:-1 tvg-id="237" tvg-name="TV Folha do Campo" tvg-logo="https://tv.soultv.com.br/arte/8e49a960576edfb32db54af11635539d33408854.png" group-title="Agronegócios",TV Folha do Campo
 https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="296" tvg-name="Tv História" tvg-logo="https://tv.soultv.com.br/arte/6751502516340c9afbf997a0ef6acaa2512ea7cd.png" group-title="Cultura",Tv História
-https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/tvhistoria/tvhistoria/playlist.m3u8
-
 #EXTINF:-1 tvg-id="235" tvg-name="Veza TV" tvg-logo="https://tv.soultv.com.br/arte/340bf6af196efe70588eabaaf7d68f22cee85bb5.png" group-title="Cultura",Veza TV
 https://vezatv.cdn.cportal.com.br/live/stream.m3u8
 
@@ -21,9 +18,6 @@ https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="111" tvg-name="Rede QDM" tvg-logo="https://tv.soultv.com.br/arte/1cfc55c7cdd1dda44d2646ea04536aac12050ef3.png" group-title="Entretenimento",Rede QDM
 https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="240" tvg-name="Séries Classic" tvg-logo="https://tv.soultv.com.br/arte/2fe6a2b7d6564c4e5f3f039e8754632868912a01.png" group-title="Entretenimento",Séries Classic
-https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/serieclassic/serieclassic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="214" tvg-name="TV Clube" tvg-logo="https://tv.soultv.com.br/arte/f47e88972113e310752ebe444062df2efb811e20.png" group-title="Entretenimento",TV Clube
 https://stream.ecast.com.br/jonas-silva/index.m3u8
@@ -70,17 +64,8 @@ https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8
 #EXTINF:-1 tvg-id="347" tvg-name="TV Protagonistas" tvg-logo="https://tv.soultv.com.br/arte/0a912071ea03aa4786c2d4168194ad4ec99af84c.jpg" group-title="Filmes / Séries",TV Protagonistas
 https://Stmv1.samcast.com.br/tvprotagonistasdo2603/tvprotagonistasdo2603/playlist.m3u8
 
-#EXTINF:-1 tvg-id="105" tvg-name="TV Sonata" tvg-logo="https://tv.soultv.com.br/arte/20cdea4d041b4dc30b48beac6ce1cbe661ff653b.png" group-title="Filmes / Séries",TV Sonata
-https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/isonata/isonata/playlist.m3u8
-
-#EXTINF:-1 tvg-id="265" tvg-name="Vivax" tvg-logo="https://tv.soultv.com.br/arte/d4f770b69f374741e28f89a588aef70f058c1134.png" group-title="Filmes / Séries",Vivax
-https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="66" tvg-name="Bem Melhor" tvg-logo="https://tv.soultv.com.br/arte/e36fe20b98ebc18e99d708b8cf4dc7ea9d5cad55.png" group-title="Gastronomia",Bem Melhor
 https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-
-#EXTINF:-1 tvg-id="54" tvg-name="Assim é Portugal" tvg-logo="https://tv.soultv.com.br/arte/1ce111e1aa17bba61bf19a76574e8a96de5dc465.png" group-title="Internacional",Assim é Portugal
-https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/assimeportugal/assimeportugal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="174" tvg-name="CNB American TV" tvg-logo="https://tv.soultv.com.br/arte/c9b47060f83558b53b621fb3c9269c70dc3ffe65.png" group-title="Internacional",CNB American TV
 https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/playlist.m3u8
@@ -96,9 +81,6 @@ https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/entertainmentplay/enter
 
 #EXTINF:-1 tvg-id="140" tvg-name="TV Florida" tvg-logo="https://tv.soultv.com.br/arte/6f39d4a561d4f08e3f59b7631e4ecfbc78b4ae68.png" group-title="Internacional",TV Florida
 https://cdn-tiva-srv6-zcast-com-br.soultv.com.br/tvfloridausa/tvfloridausa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="220" tvg-name="TV Portuguesa" tvg-logo="https://tv.soultv.com.br/arte/4d31d8e5c71fe9ef5088080f79ce0a290f533415.png" group-title="Internacional",TV Portuguesa
-https://tvportuguesa.myemail.pt:8888/live/stream1_aac/index.m3u8
 
 #EXTINF:-1 tvg-id="115" tvg-name="AG Tv" tvg-logo="https://tv.soultv.com.br/arte/ec41b65b9cfd1364753c27cc457f79dafa3d50fc.png" group-title="Minas",AG Tv
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
@@ -121,8 +103,8 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="148" tvg-name="WTV Brasil" tvg-logo="https://tv.soultv.com.br/arte/88d8fccd8fe412b311de69a6c0bed2e35faaec58.png" group-title="Minas",WTV Brasil
 https://cdn-tiva-stmv7-samcast-com-br.soultv.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="258" tvg-name="Hip Hop Vai Além TV" tvg-logo="https://tv.soultv.com.br/arte/2bbdd693deba1fe69873679778113dac1d2ff5fd.png" group-title="Música",Hip Hop Vai Além TV
-https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="TV A Folha" tvg-logo="https://tv.soultv.com.br/arte/dadd450c856ae5a81f03a691f81fc92f33b4afdc.png" group-title="Música",TV A Folha
+https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="Tv Grande Natal HDTV" tvg-logo="https://tv.soultv.com.br/arte/d633f12af8c928b7ae45e19cf75a14d4b5a4ea19.jpg" group-title="Música",Tv Grande Natal HDTV
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
@@ -195,9 +177,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="304" tvg-name="Canal 25" tvg-logo="https://tv.soultv.com.br/arte/77f671f3b9a43b4f5f1e1e4913429a0d1098d60a.png" group-title="Variedades",Canal 25
 https://cdn-tiva-stream01-msolutionbrasil-com-br.soultv.com.br/hls/canal25/live.m3u8
-
-#EXTINF:-1 tvg-id="247" tvg-name="DM Kids TV" tvg-logo="https://tv.soultv.com.br/arte/8a4c69d312655a6ffd62d8939f3e0d7670be7164.png" group-title="Variedades",DM Kids TV
-https://cdn-tiva-video03-logicahost-com-br.soultv.com.br/dmkidstv/dmkidstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="290" tvg-name="Kanuca TV Brasil" tvg-logo="https://tv.soultv.com.br/arte/0c1c4e00fa4096be8acf6fdcf81efba933378818.png" group-title="Variedades",Kanuca TV Brasil
 https://cdn-tiva-video08-logicahost-com-br.soultv.com.br/kanucatv/kanucatv/playlist.m3u8
