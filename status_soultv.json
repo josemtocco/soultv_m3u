@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 80,
-  "total_ativos": 76,
-  "total_removidos_teste": 4,
+  "total_ativos": 77,
+  "total_removidos_teste": 3,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -24,11 +24,11 @@
     "RS SPORTS 2",
     "RS SPORTS 3",
     "AWTV",
+    "ISTV",
     "Play TV",
     "TV 24 HORAS",
     "TV DA QUEBRADA",
     "TV METROPOLES",
-    "TV Protagonistas",
     "TV Sonata",
     "Vivax",
     "Bem Melhor",
@@ -46,6 +46,7 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
+    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -85,22 +86,16 @@
   ],
   "falhas": [
     {
-      "name": "SescTV",
-      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
+      "name": "TV Protagonistas",
+      "url": "https://Stmv1.samcast.com.br/tvprotagonistasdo2603/tvprotagonistasdo2603/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "ISTV",
-      "url": "https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/redeistv/redeistv/playlist.m3u8",
+      "name": "SescTV",
+      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "TV A Folha",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
       "name": "Hip Hop Vai Além TV",
@@ -109,6 +104,6 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-11-11T04:41:10Z",
-  "duracao_segundos": 4.95
+  "atualizado_em": "2026-11-11T13:32:55Z",
+  "duracao_segundos": 5.86
 }

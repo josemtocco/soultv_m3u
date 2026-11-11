@@ -55,6 +55,9 @@ https://cdn-tiva-video07-logicahost-com-br.soultv.com.br/rssports03/rssports03/p
 #EXTINF:-1 tvg-id="149" tvg-name="AWTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png" group-title="Filmes / Séries",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="74" tvg-name="ISTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_istv_png.png" group-title="Filmes / Séries",ISTV
+https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/redeistv/redeistv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="233" tvg-name="Play TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo_100x100_no_formato.png" group-title="Filmes / Séries",Play TV
 https://cdn-tiva-maystreaming-cloudecast-com.soultv.com.br/playtv/index.m3u8
 
@@ -66,9 +69,6 @@ https://stmv2.samcast.com.br/davi2252/davi2252/playlist.m3u8
 
 #EXTINF:-1 tvg-id="346" tvg-name="TV METROPOLES" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_METROPOLES_FUDO_VERMELHO_100x100.png" group-title="Filmes / Séries",TV METROPOLES
 https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8
-
-#EXTINF:-1 tvg-id="347" tvg-name="TV Protagonistas" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_so_marca_final_1.jpg" group-title="Filmes / Séries",TV Protagonistas
-https://Stmv1.samcast.com.br/tvprotagonistasdo2603/tvprotagonistasdo2603/playlist.m3u8
 
 #EXTINF:-1 tvg-id="105" tvg-name="TV Sonata" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvsonata.png" group-title="Filmes / Séries",TV Sonata
 https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/isonata/isonata/playlist.m3u8
@@ -120,6 +120,9 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="148" tvg-name="WTV Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png" group-title="Minas",WTV Brasil
 https://cdn-tiva-stmv7-samcast-com-br.soultv.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="87" tvg-name="TV A Folha" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png" group-title="Música",TV A Folha
+https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="Tv Grande Natal HDTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg" group-title="Música",Tv Grande Natal HDTV
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
