@@ -1,16 +1,5 @@
 [
   {
-    "id": "123",
-    "name": "Canal do Boi",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_CNBOI-BRANCA_-_SD_reduzido.png",
-    "url": "https://cdn-tiva-aovivo3-equipea-com-br.soultv.com.br/aovivort/streams/FGPjVZA1EidEnBCn5502382962900440.m3u8",
-    "categories": [
-      "Agronegócios"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "237",
     "name": "TV Folha do Campo",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/unnamed_1.png",
@@ -197,18 +186,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 206"
-  },
-  {
-    "id": "74",
-    "name": "ISTV",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_istv_png.png",
-    "url": "https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/redeistv/redeistv/playlist.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Entretenimento"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
   },
   {
     "id": "233",
@@ -635,17 +612,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "327",
-    "name": "TV IN",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGOTIPO-TVIN-100X100_copiar.png",
-    "url": "https://live.tvinterior.com.br/hls/stream.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "129",
     "name": "Tv Life America",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_100x100_1kkPCqI.png",
@@ -695,17 +661,6 @@
     "name": "Tv Nordestina",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Nordestina_logo_100x100.png",
     "url": "https://cdn-tiva-5ad482a77183d-streamlock-net.soultv.com.br/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "231",
-    "name": "Tv Nova Nordeste",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png",
-    "url": "https://cdn-tiva-stream-ecast-com-br.soultv.com.br/nova-tv/index.m3u8",
     "categories": [
       "Regionais"
     ],
