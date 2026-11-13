@@ -223,18 +223,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "345",
-    "name": "TV 24 HORAS",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/24_horas_tv_SOUL_TV.png",
-    "url": "https://cdn-tiva-stmv8-samcast-com-br.soultv.com.br/newswire7636/newswire7636/playlist.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "348",
     "name": "TV DA QUEBRADA",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_QUEBRADA_100X100_COM_FUNDO_0fOHbbh.png",
@@ -242,18 +230,6 @@
     "categories": [
       "Filmes / Séries",
       "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
-    "id": "346",
-    "name": "TV METROPOLES",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_METROPOLES_FUDO_VERMELHO_100x100.png",
-    "url": "https://cdn-tiva-stmv8-samcast-com-br.soultv.com.br/newswire4876/newswire4876/playlist.m3u8",
-    "categories": [
-      "Filmes / Séries",
-      "Minas"
     ],
     "status": "ativo",
     "teste": "HTTP 206"
@@ -360,17 +336,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "220",
-    "name": "TV Portuguesa",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_sem_fundo_03.png",
-    "url": "https://tvportuguesa.myemail.pt:8888/live/stream1_aac/index.m3u8",
-    "categories": [
-      "Internacional"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "115",
     "name": "AG Tv",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_YOUTUBE_100100px_ZfxeqjJ.png",
@@ -446,6 +411,17 @@
     ],
     "status": "ativo",
     "teste": "HTTP 206"
+  },
+  {
+    "id": "87",
+    "name": "TV A Folha",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
+    "categories": [
+      "Música"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 200"
   },
   {
     "id": "61",
