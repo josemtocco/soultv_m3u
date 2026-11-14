@@ -67,9 +67,6 @@ https://cdn-tiva-stmv2-samcast-com-br.soultv.com.br/davi2252/davi2252/playlist.m
 #EXTINF:-1 tvg-id="105" tvg-name="TV Sonata" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvsonata.png" group-title="Filmes / Séries",TV Sonata
 https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/isonata/isonata/playlist.m3u8
 
-#EXTINF:-1 tvg-id="265" tvg-name="Vivax" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_VIVAX_100x100.png" group-title="Filmes / Séries",Vivax
-https://cdn-tiva-video11-logicahost-com-br.soultv.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="66" tvg-name="Bem Melhor" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Reduz.png" group-title="Gastronomia",Bem Melhor
 https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
