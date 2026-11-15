@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 77,
-  "total_ativos": 72,
-  "total_removidos_teste": 5,
+  "total_ativos": 73,
+  "total_removidos_teste": 4,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -28,6 +28,7 @@
     "Play TV",
     "TV DA QUEBRADA",
     "TV Sonata",
+    "Vivax",
     "Bem Melhor",
     "Assim é Portugal",
     "CNB American TV",
@@ -103,14 +104,8 @@
       "url": "https://cdn-tiva-stream01-msolutionbrasil-com-br.soultv.com.br/hls/canal25/live.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Vivax",
-      "url": "https://cdn-tiva-video11-logicahost-com-br.soultv.com.br/redevivaxtv/redevivaxtv/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video11-logicahost-com-br.soultv.com.br', port=443): Read timed out. (read timeout=12)"
     }
   ],
-  "atualizado_em": "2026-11-15T13:26:10Z",
-  "duracao_segundos": 12.87
+  "atualizado_em": "2026-11-15T22:28:03Z",
+  "duracao_segundos": 2.76
 }
