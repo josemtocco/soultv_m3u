@@ -28,7 +28,6 @@
     "Play TV",
     "TV DA QUEBRADA",
     "TV Sonata",
-    "Vivax",
     "Bem Melhor",
     "Assim é Portugal",
     "CNB American TV",
@@ -44,6 +43,7 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
+    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -81,12 +81,6 @@
   ],
   "falhas": [
     {
-      "name": "TV A Folha",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "TV Votorantim",
       "url": "https://cdn-tiva-br5093-streamingdevideo-com-br.soultv.com.br/tvv/tvv/playlist.m3u8",
       "status": "inativo",
@@ -109,8 +103,14 @@
       "url": "https://cdn-tiva-stream01-msolutionbrasil-com-br.soultv.com.br/hls/canal25/live.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Vivax",
+      "url": "https://cdn-tiva-video11-logicahost-com-br.soultv.com.br/redevivaxtv/redevivaxtv/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video11-logicahost-com-br.soultv.com.br', port=443): Read timed out. (read timeout=12)"
     }
   ],
-  "atualizado_em": "2026-11-15T04:47:22Z",
-  "duracao_segundos": 3.36
+  "atualizado_em": "2026-11-15T13:26:10Z",
+  "duracao_segundos": 12.87
 }
