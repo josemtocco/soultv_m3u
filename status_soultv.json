@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 77,
-  "total_ativos": 73,
-  "total_removidos_teste": 4,
+  "total_ativos": 72,
+  "total_removidos_teste": 5,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -28,6 +28,7 @@
     "Play TV",
     "TV DA QUEBRADA",
     "TV Sonata",
+    "Vivax",
     "Bem Melhor",
     "Assim é Portugal",
     "CNB American TV",
@@ -43,7 +44,6 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
-    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -71,7 +71,6 @@
     "Astral TV",
     "Tv Adorar",
     "Adesso TV",
-    "Canal 25",
     "DM Kids TV",
     "Kanuca TV Brasil",
     "Kids Mais",
@@ -82,10 +81,10 @@
   ],
   "falhas": [
     {
-      "name": "SescTV",
-      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
+      "name": "TV A Folha",
+      "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
       "name": "TV Votorantim",
@@ -94,18 +93,24 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "SescTV",
+      "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Vivax",
-      "url": "https://cdn-tiva-video11-logicahost-com-br.soultv.com.br/redevivaxtv/redevivaxtv/playlist.m3u8",
+      "name": "Canal 25",
+      "url": "https://cdn-tiva-stream01-msolutionbrasil-com-br.soultv.com.br/hls/canal25/live.m3u8",
       "status": "inativo",
-      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-video11-logicahost-com-br.soultv.com.br', port=443): Read timed out. (read timeout=12)"
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-11-14T21:57:51Z",
-  "duracao_segundos": 12.95
+  "atualizado_em": "2026-11-15T04:47:22Z",
+  "duracao_segundos": 3.36
 }

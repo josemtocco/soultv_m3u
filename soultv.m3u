@@ -67,6 +67,9 @@ https://cdn-tiva-stmv2-samcast-com-br.soultv.com.br/davi2252/davi2252/playlist.m
 #EXTINF:-1 tvg-id="105" tvg-name="TV Sonata" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvsonata.png" group-title="Filmes / Séries",TV Sonata
 https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/isonata/isonata/playlist.m3u8
 
+#EXTINF:-1 tvg-id="265" tvg-name="Vivax" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_VIVAX_100x100.png" group-title="Filmes / Séries",Vivax
+https://cdn-tiva-video11-logicahost-com-br.soultv.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="66" tvg-name="Bem Melhor" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Reduz.png" group-title="Gastronomia",Bem Melhor
 https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
@@ -111,9 +114,6 @@ https://cdn-tiva-sistemavrt2023-vrtchannel-tv-br.soultv.com.br/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="148" tvg-name="WTV Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png" group-title="Minas",WTV Brasil
 https://cdn-tiva-stmv7-samcast-com-br.soultv.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="87" tvg-name="TV A Folha" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png" group-title="Música",TV A Folha
-https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="Tv Grande Natal HDTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg" group-title="Música",Tv Grande Natal HDTV
 https://cdn-tiva-tvgrandenatalhdtv-duckdns-org.soultv.com.br/hls/live.m3u8
@@ -195,9 +195,6 @@ https://cdn-tiva-isaocorp-cloudecast-com.soultv.com.br/tvadorar/index.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="Adesso TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo_100x100_transp.png" group-title="Variedades",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="304" tvg-name="Canal 25" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logotipo.png" group-title="Variedades",Canal 25
-https://cdn-tiva-stream01-msolutionbrasil-com-br.soultv.com.br/hls/canal25/live.m3u8
 
 #EXTINF:-1 tvg-id="247" tvg-name="DM Kids TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo2_PNGHD_1.png" group-title="Variedades",DM Kids TV
 https://cdn-tiva-video03-logicahost-com-br.soultv.com.br/dmkidstv/dmkidstv/playlist.m3u8
