@@ -44,17 +44,6 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "209",
-    "name": "Viva e Eduque",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_VIVAEDUQUE-100x100.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8",
-    "categories": [
-      "Cultura"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 200"
-  },
-  {
     "id": "110",
     "name": "Q Tal Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/QTAL_channel_logo_REDUZIDO.png",
@@ -698,17 +687,6 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
-  },
-  {
-    "id": "177",
-    "name": "TV Votorantim",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TVV_100px.png",
-    "url": "https://cdn-tiva-br5093-streamingdevideo-com-br.soultv.com.br/tvv/tvv/playlist.m3u8",
-    "categories": [
-      "Regionais"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
   },
   {
     "id": "236",

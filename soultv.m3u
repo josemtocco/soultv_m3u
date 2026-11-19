@@ -13,9 +13,6 @@ https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/tvhistoria/tvhistoria/p
 #EXTINF:-1 tvg-id="235" tvg-name="Veza TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/VezaTV_Branco_-_Logo_1_4naHcCE.png" group-title="Cultura",Veza TV
 https://vezatv.cdn.cportal.com.br/live/stream.m3u8
 
-#EXTINF:-1 tvg-id="209" tvg-name="Viva e Eduque" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_VIVAEDUQUE-100x100.png" group-title="Cultura",Viva e Eduque
-https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
-
 #EXTINF:-1 tvg-id="110" tvg-name="Q Tal Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/QTAL_channel_logo_REDUZIDO.png" group-title="Entretenimento",Q Tal Channel
 https://cdn-tiva-stmv1-transmissaodigital-com.soultv.com.br/qtalchannel/qtalchannel/playlist.m3u8
 
@@ -189,9 +186,6 @@ https://cdn-tiva-stream-ecast-com-br.soultv.com.br/nova-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="28" tvg-name="TV PAMPA" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvpampa-logo3.png" group-title="Regionais",TV PAMPA
 https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/tvpampa/tvpampa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="177" tvg-name="TV Votorantim" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TVV_100px.png" group-title="Regionais",TV Votorantim
-https://cdn-tiva-br5093-streamingdevideo-com-br.soultv.com.br/tvv/tvv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="236" tvg-name="Tv Adorar" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Adorar_100x100.png" group-title="Religioso",Tv Adorar
 https://cdn-tiva-isaocorp-cloudecast-com.soultv.com.br/tvadorar/index.m3u8
