@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 77,
-  "total_ativos": 73,
-  "total_removidos_teste": 4,
+  "total_ativos": 74,
+  "total_removidos_teste": 3,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -44,6 +44,7 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
+    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -82,8 +83,8 @@
   ],
   "falhas": [
     {
-      "name": "TV A Folha",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
+      "name": "Astral TV",
+      "url": "https://cdn-tiva-maystreaming-cloudecast-com.soultv.com.br/astraltv/index.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
@@ -94,18 +95,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Astral TV",
-      "url": "https://cdn-tiva-maystreaming-cloudecast-com.soultv.com.br/astraltv/index.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-11-18T23:52:36Z",
-  "duracao_segundos": 3.36
+  "atualizado_em": "2026-11-19T05:53:19Z",
+  "duracao_segundos": 3.61
 }
