@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 77,
-  "total_ativos": 74,
-  "total_removidos_teste": 3,
+  "total_ativos": 73,
+  "total_removidos_teste": 4,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -66,7 +66,6 @@
     "TV MAX",
     "TV Meio",
     "Tv Mogiana",
-    "Tv Nordestina",
     "Tv Nova Nordeste",
     "TV PAMPA",
     "TV Votorantim",
@@ -89,6 +88,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "Tv Nordestina",
+      "url": "https://cdn-tiva-5ad482a77183d-streamlock-net.soultv.com.br/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
@@ -101,6 +106,6 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-11-21T14:12:05Z",
-  "duracao_segundos": 12.06
+  "atualizado_em": "2026-11-21T22:45:45Z",
+  "duracao_segundos": 11.95
 }
