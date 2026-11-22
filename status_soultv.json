@@ -44,7 +44,6 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
-    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -69,6 +68,7 @@
     "Tv Nova Nordeste",
     "TV PAMPA",
     "TV Votorantim",
+    "Astral TV",
     "Tv Adorar",
     "Adesso TV",
     "Canal 25",
@@ -88,6 +88,12 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
+      "name": "TV A Folha",
+      "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "Tv Nordestina",
       "url": "https://cdn-tiva-5ad482a77183d-streamlock-net.soultv.com.br/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
       "status": "inativo",
@@ -98,14 +104,8 @@
       "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Astral TV",
-      "url": "https://cdn-tiva-maystreaming-cloudecast-com.soultv.com.br/astraltv/index.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-11-21T22:45:45Z",
-  "duracao_segundos": 11.95
+  "atualizado_em": "2026-11-22T05:01:51Z",
+  "duracao_segundos": 3.56
 }
