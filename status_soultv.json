@@ -23,6 +23,7 @@
     "RS SPORTS",
     "RS SPORTS 2",
     "RS SPORTS 3",
+    "AWTV",
     "ISTV",
     "Play TV",
     "TV DA QUEBRADA",
@@ -43,7 +44,6 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
-    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -82,16 +82,16 @@
   ],
   "falhas": [
     {
-      "name": "AWTV",
-      "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 500, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV A Folha",
+      "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     },
     {
       "name": "Tv Nordestina",
@@ -106,6 +106,6 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-11-22T14:01:35Z",
-  "duracao_segundos": 4.6
+  "atualizado_em": "2026-11-22T23:13:43Z",
+  "duracao_segundos": 3.67
 }
