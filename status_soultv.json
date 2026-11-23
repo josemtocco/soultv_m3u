@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 77,
-  "total_ativos": 73,
-  "total_removidos_teste": 4,
+  "total_ativos": 74,
+  "total_removidos_teste": 3,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -44,6 +44,7 @@
     "TV Marcheti",
     "VRT Channel",
     "WTV Brasil",
+    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
     "TV + Pet",
@@ -88,24 +89,18 @@
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "TV A Folha",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
+      "name": "Hip Hop Vai Além TV",
+      "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
       "name": "Tv Nordestina",
       "url": "https://cdn-tiva-5ad482a77183d-streamlock-net.soultv.com.br/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Hip Hop Vai Além TV",
-      "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-11-22T23:13:43Z",
-  "duracao_segundos": 3.67
+  "atualizado_em": "2026-11-23T05:44:03Z",
+  "duracao_segundos": 3.39
 }
