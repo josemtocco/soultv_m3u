@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 77,
-  "total_ativos": 74,
-  "total_removidos_teste": 3,
+  "total_ativos": 73,
+  "total_removidos_teste": 4,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -37,7 +37,6 @@
     "Peru Channel",
     "TV Florida",
     "TV Portuguesa",
-    "AG Tv",
     "RIT TV",
     "TV Difusão",
     "TV Mais Brasil",
@@ -83,6 +82,12 @@
   ],
   "falhas": [
     {
+      "name": "AG Tv",
+      "url": "https://cdn-tiva-video01-brascast-com.soultv.com.br/grezzana1839/grezzana1839/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
@@ -101,6 +106,6 @@
       "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-11-23T05:44:03Z",
-  "duracao_segundos": 3.39
+  "atualizado_em": "2026-11-23T17:23:09Z",
+  "duracao_segundos": 4.79
 }

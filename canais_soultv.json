@@ -347,17 +347,6 @@
     "teste": "HTTP 200"
   },
   {
-    "id": "115",
-    "name": "AG Tv",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_YOUTUBE_100100px_ZfxeqjJ.png",
-    "url": "https://cdn-tiva-video01-brascast-com.soultv.com.br/grezzana1839/grezzana1839/playlist.m3u8",
-    "categories": [
-      "Minas"
-    ],
-    "status": "ativo",
-    "teste": "HTTP 206"
-  },
-  {
     "id": "286",
     "name": "RIT TV",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/1399_-_logo_100x100.png",
