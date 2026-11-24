@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 77,
-  "total_ativos": 72,
-  "total_removidos_teste": 5,
+  "total_ativos": 74,
+  "total_removidos_teste": 3,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -37,6 +37,7 @@
     "Peru Channel",
     "TV Florida",
     "TV Portuguesa",
+    "AG Tv",
     "RIT TV",
     "TV Difusão",
     "TV Mais Brasil",
@@ -71,6 +72,7 @@
     "Astral TV",
     "Tv Adorar",
     "Adesso TV",
+    "Canal 25",
     "DM Kids TV",
     "Kanuca TV Brasil",
     "Kids Mais",
@@ -80,12 +82,6 @@
     "TV Rede Mais Familia"
   ],
   "falhas": [
-    {
-      "name": "AG Tv",
-      "url": "https://cdn-tiva-video01-brascast-com.soultv.com.br/grezzana1839/grezzana1839/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
     {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
@@ -103,14 +99,8 @@
       "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
-    },
-    {
-      "name": "Canal 25",
-      "url": "https://cdn-tiva-stream01-msolutionbrasil-com-br.soultv.com.br/hls/canal25/live.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
     }
   ],
-  "atualizado_em": "2026-11-24T03:48:24Z",
-  "duracao_segundos": 3.89
+  "atualizado_em": "2026-11-24T16:57:13Z",
+  "duracao_segundos": 4.34
 }
