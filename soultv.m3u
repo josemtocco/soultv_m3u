@@ -34,9 +34,6 @@ https://cdn-tiva-stream-ecast-com-br.soultv.com.br/jonas-silva/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="TV CNB" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/100x100_1ET0LFK.png" group-title="Entretenimento",TV CNB
 https://cdn-tiva-5cf4a2c2512a2-streamlock-net.soultv.com.br/tvcnb/tvcnb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="90" tvg-name="Tv Estilo" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_Estilo_png.png" group-title="Entretenimento",Tv Estilo
-https://cdn-tiva-stmv8-samcast-com-br.soultv.com.br/tvestilo/tvestilo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="266" tvg-name="Atitude New" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tv_atitude_logo_100x100.png" group-title="Esportes / Games",Atitude New
 https://cdn-tiva-stmv1-transmissaodigital-com.soultv.com.br/tvatitudenew/tvatitudenew/playlist.m3u8
 
@@ -61,9 +58,6 @@ https://cdn-tiva-video10-logicahost-com-br.soultv.com.br/redeistv/redeistv/playl
 #EXTINF:-1 tvg-id="233" tvg-name="Play TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logotipo_100x100_no_formato.png" group-title="Filmes / Séries",Play TV
 https://cdn-tiva-maystreaming-cloudecast-com.soultv.com.br/playtv/index.m3u8
 
-#EXTINF:-1 tvg-id="348" tvg-name="TV DA QUEBRADA" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_QUEBRADA_100X100_COM_FUNDO_0fOHbbh.png" group-title="Filmes / Séries",TV DA QUEBRADA
-https://cdn-tiva-stmv2-samcast-com-br.soultv.com.br/davi2252/davi2252/playlist.m3u8
-
 #EXTINF:-1 tvg-id="105" tvg-name="TV Sonata" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvsonata.png" group-title="Filmes / Séries",TV Sonata
 https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/isonata/isonata/playlist.m3u8
 
@@ -81,9 +75,6 @@ https://cdn-tiva-5cf4a2c2512a2-streamlock-net.soultv.com.br/tvcnbamerican/tvcnba
 
 #EXTINF:-1 tvg-id="263" tvg-name="FMTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_FMTV_100x100.png" group-title="Internacional",FMTV
 https://cdn-tiva-video08-logicahost-com-br.soultv.com.br/fmtvbr/fmtvbr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="118" tvg-name="Onda Digital TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_100_X_100.png" group-title="Internacional",Onda Digital TV
-https://cdn-tiva-live-ondadigitaltv-com.soultv.com.br/ODTV/index.m3u8
 
 #EXTINF:-1 tvg-id="114" tvg-name="Peru Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LogobTRANSPARENTE_100x100.png" group-title="Internacional",Peru Channel
 https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/entertainmentplay/entertainmentplay/playlist.m3u8
@@ -103,26 +94,17 @@ https://cdn-tiva-acesso-ecast-site.soultv.com.br/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="226" tvg-name="TV Difusão" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px.png" group-title="Minas",TV Difusão
 https://cdn-tiva-tvdsoultv-acessaradios-com-br.soultv.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="193" tvg-name="TV Mais Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png" group-title="Minas",TV Mais Brasil
-https://cdn-tiva-stmv8-samcast-com-br.soultv.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="257" tvg-name="TV Marcheti" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tv.fw_-_100_x_100.png" group-title="Minas",TV Marcheti
-https://cdn-tiva-stmv1-samcast-com-br.soultv.com.br/junior4319/junior4319/playlist.m3u8
-
 #EXTINF:-1 tvg-id="69" tvg-name="VRT Channel" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png" group-title="Minas",VRT Channel
 https://cdn-tiva-sistemavrt2023-vrtchannel-tv-br.soultv.com.br/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="148" tvg-name="WTV Brasil" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png" group-title="Minas",WTV Brasil
-https://cdn-tiva-stmv7-samcast-com-br.soultv.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="TV A Folha" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png" group-title="Música",TV A Folha
+https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="Tv Grande Natal HDTV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg" group-title="Música",Tv Grande Natal HDTV
 https://cdn-tiva-tvgrandenatalhdtv-duckdns-org.soultv.com.br/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="212" tvg-name="Pet Lovers TV" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/BOLA_PETLOVERSTV.png" group-title="Pet",Pet Lovers TV
 https://cdn-tiva-video04-logicahost-com-br.soultv.com.br/petloverstv/petloverstv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="284" tvg-name="TV + Pet" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_MAIS_PET_100X100.png" group-title="Pet",TV + Pet
-https://cdn-tiva-stmv5-samcast-com-br.soultv.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 
 #EXTINF:-1 tvg-id="215" tvg-name="40 gtv" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_40GTV_100X100.png" group-title="Regionais",40 gtv
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
@@ -157,9 +139,6 @@ https://cdn-tiva-tv02-zas-media.soultv.com.br/tendatv/tendatv/playlist.m3u8
 #EXTINF:-1 tvg-id="224" tvg-name="TV Alagoinha" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_ALAGOINHA_100_X_100.png" group-title="Regionais",TV Alagoinha
 https://cdn-tiva-stmv-jnbhost-com-br.soultv.com.br/tvalagoinha/tvalagoinha/playlist.m3u8
 
-#EXTINF:-1 tvg-id="117" tvg-name="TV Alternativa" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TVA_100X100.png" group-title="Regionais",TV Alternativa
-https://cdn-tiva-stmv5-samcast-com-br.soultv.com.br/wagner7919/wagner7919/playlist.m3u8
-
 #EXTINF:-1 tvg-id="238" tvg-name="TV Diário do Sertão" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_para_SOUL_TV_100x100px_1.png" group-title="Regionais",TV Diário do Sertão
 https://cdn-tiva-5ffab78b24f94-streamlock-net.soultv.com.br/pdsertaotv/pdsertaotv/playlist.m3u8
 
@@ -177,6 +156,9 @@ https://cdn-tiva-maystreaming-cloudecast-com.soultv.com.br/redemeio/index.m3u8
 
 #EXTINF:-1 tvg-id="241" tvg-name="Tv Mogiana" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/logo_1.png" group-title="Regionais",Tv Mogiana
 https://cdn-tiva-a-cdni-live.soultv.com.br/mogianaonline4773/mogianaonline4773/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="Tv Nordestina" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/TV_Nordestina_logo_100x100.png" group-title="Regionais",Tv Nordestina
+https://cdn-tiva-5ad482a77183d-streamlock-net.soultv.com.br/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="231" tvg-name="Tv Nova Nordeste" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO-PRATA.png" group-title="Regionais",Tv Nova Nordeste
 https://cdn-tiva-stream-ecast-com-br.soultv.com.br/nova-tv/index.m3u8

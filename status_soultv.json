@@ -3,8 +3,8 @@
   "fonte": "https://www.soultv.com.br/",
   "api": "https://cms.soultv.com.br/v1/brand?country=BR&language=pt&platform=web",
   "total_api": 77,
-  "total_ativos": 73,
-  "total_removidos_teste": 4,
+  "total_ativos": 67,
+  "total_removidos_teste": 10,
   "canais_ativos": [
     "Canal do Boi",
     "TV Folha do Campo",
@@ -17,7 +17,6 @@
     "Séries Classic",
     "TV Clube",
     "TV CNB",
-    "Tv Estilo",
     "Atitude New",
     "CANAL START",
     "RS SPORTS",
@@ -26,27 +25,22 @@
     "AWTV",
     "ISTV",
     "Play TV",
-    "TV DA QUEBRADA",
     "TV Sonata",
     "Vivax",
     "Bem Melhor",
     "Assim é Portugal",
     "CNB American TV",
     "FMTV",
-    "Onda Digital TV",
     "Peru Channel",
     "TV Florida",
     "TV Portuguesa",
     "AG Tv",
     "RIT TV",
     "TV Difusão",
-    "TV Mais Brasil",
-    "TV Marcheti",
     "VRT Channel",
-    "WTV Brasil",
+    "TV A Folha",
     "Tv Grande Natal HDTV",
     "Pet Lovers TV",
-    "TV + Pet",
     "40 gtv",
     "Amazon Sat",
     "America TV",
@@ -58,13 +52,13 @@
     "Rede UTV Brasil",
     "Tenda TV",
     "TV Alagoinha",
-    "TV Alternativa",
     "TV Diário do Sertão",
     "TV IN",
     "Tv Life America",
     "TV MAX",
     "TV Meio",
     "Tv Mogiana",
+    "Tv Nordestina",
     "Tv Nova Nordeste",
     "TV PAMPA",
     "TV Votorantim",
@@ -82,30 +76,66 @@
   ],
   "falhas": [
     {
-      "name": "TV A Folha",
-      "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "SescTV",
       "url": "https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
     },
     {
-      "name": "Tv Nordestina",
-      "url": "https://cdn-tiva-5ad482a77183d-streamlock-net.soultv.com.br/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8",
-      "status": "inativo",
-      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
-    },
-    {
       "name": "Hip Hop Vai Além TV",
       "url": "https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8",
       "status": "inativo",
       "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Onda Digital TV",
+      "url": "https://cdn-tiva-live-ondadigitaltv-com.soultv.com.br/ODTV/index.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 404, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV Mais Brasil",
+      "url": "https://cdn-tiva-stmv8-samcast-com-br.soultv.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "Tv Estilo",
+      "url": "https://cdn-tiva-stmv8-samcast-com-br.soultv.com.br/tvestilo/tvestilo/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "HTTP 403, conteúdo não reconhecido como HLS"
+    },
+    {
+      "name": "TV DA QUEBRADA",
+      "url": "https://cdn-tiva-stmv2-samcast-com-br.soultv.com.br/davi2252/davi2252/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-stmv2-samcast-com-br.soultv.com.br', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "name": "TV Alternativa",
+      "url": "https://cdn-tiva-stmv5-samcast-com-br.soultv.com.br/wagner7919/wagner7919/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-stmv5-samcast-com-br.soultv.com.br', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "name": "WTV Brasil",
+      "url": "https://cdn-tiva-stmv7-samcast-com-br.soultv.com.br/wtvbrasil/wtvbrasil/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-stmv7-samcast-com-br.soultv.com.br', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "name": "TV Marcheti",
+      "url": "https://cdn-tiva-stmv1-samcast-com-br.soultv.com.br/junior4319/junior4319/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-stmv1-samcast-com-br.soultv.com.br', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "name": "TV + Pet",
+      "url": "https://cdn-tiva-stmv5-samcast-com-br.soultv.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
+      "status": "inativo",
+      "motivo": "ReadTimeout: HTTPSConnectionPool(host='cdn-tiva-stmv5-samcast-com-br.soultv.com.br', port=443): Read timed out. (read timeout=12)"
     }
   ],
-  "atualizado_em": "2026-11-25T16:46:35Z",
-  "duracao_segundos": 5.32
+  "atualizado_em": "2026-11-26T01:33:16Z",
+  "duracao_segundos": 15.28
 }
