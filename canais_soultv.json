@@ -121,6 +121,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "90",
+    "name": "Tv Estilo",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_TV_Estilo_png.png",
+    "url": "https://cdn-tiva-stmv8-samcast-com-br.soultv.com.br/tvestilo/tvestilo/playlist.m3u8",
+    "categories": [
+      "Entretenimento"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "266",
     "name": "Atitude New",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/tv_atitude_logo_100x100.png",
@@ -212,6 +223,18 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "348",
+    "name": "TV DA QUEBRADA",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_QUEBRADA_100X100_COM_FUNDO_0fOHbbh.png",
+    "url": "https://cdn-tiva-stmv2-samcast-com-br.soultv.com.br/davi2252/davi2252/playlist.m3u8",
+    "categories": [
+      "Filmes / Séries",
+      "Cultura"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "105",
     "name": "TV Sonata",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvsonata.png",
@@ -280,6 +303,17 @@
     "teste": "HTTP 200"
   },
   {
+    "id": "118",
+    "name": "Onda Digital TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_100_X_100.png",
+    "url": "https://cdn-tiva-live-ondadigitaltv-com.soultv.com.br/ODTV/index.m3u8",
+    "categories": [
+      "Internacional"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "114",
     "name": "Peru Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LogobTRANSPARENTE_100x100.png",
@@ -346,6 +380,28 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "193",
+    "name": "TV Mais Brasil",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png",
+    "url": "https://cdn-tiva-stmv8-samcast-com-br.soultv.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "257",
+    "name": "TV Marcheti",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo_tv.fw_-_100_x_100.png",
+    "url": "https://cdn-tiva-stmv1-samcast-com-br.soultv.com.br/junior4319/junior4319/playlist.m3u8",
+    "categories": [
+      "Minas"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "69",
     "name": "VRT Channel",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/VRT_LOGO_BRANCO-01_baixa.png",
@@ -357,15 +413,15 @@
     "teste": "HTTP 206"
   },
   {
-    "id": "87",
-    "name": "TV A Folha",
-    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/logo-tvfolha_reduz.png",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.soultv.com.br/tvafolha/tvafolha/playlist.m3u8",
+    "id": "148",
+    "name": "WTV Brasil",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo-100x100.png",
+    "url": "https://cdn-tiva-stmv7-samcast-com-br.soultv.com.br/wtvbrasil/wtvbrasil/playlist.m3u8",
     "categories": [
-      "Música"
+      "Minas"
     ],
     "status": "ativo",
-    "teste": "HTTP 200"
+    "teste": "HTTP 206"
   },
   {
     "id": "61",
@@ -388,6 +444,17 @@
     ],
     "status": "ativo",
     "teste": "HTTP 200"
+  },
+  {
+    "id": "284",
+    "name": "TV + Pet",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TV_MAIS_PET_100X100.png",
+    "url": "https://cdn-tiva-stmv5-samcast-com-br.soultv.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
+    "categories": [
+      "Pet"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
   },
   {
     "id": "215",
@@ -504,6 +571,17 @@
     "name": "TV Alagoinha",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/TV_ALAGOINHA_100_X_100.png",
     "url": "https://cdn-tiva-stmv-jnbhost-com-br.soultv.com.br/tvalagoinha/tvalagoinha/playlist.m3u8",
+    "categories": [
+      "Regionais"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
+    "id": "117",
+    "name": "TV Alternativa",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/LOGO_TVA_100X100.png",
+    "url": "https://cdn-tiva-stmv5-samcast-com-br.soultv.com.br/wagner7919/wagner7919/playlist.m3u8",
     "categories": [
       "Regionais"
     ],
