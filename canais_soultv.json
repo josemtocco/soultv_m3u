@@ -711,6 +711,17 @@
     "teste": "HTTP 206"
   },
   {
+    "id": "137",
+    "name": "Astral TV",
+    "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logoclaro_100X100px.png",
+    "url": "https://cdn-tiva-maystreaming-cloudecast-com.soultv.com.br/astraltv/index.m3u8",
+    "categories": [
+      "Religioso"
+    ],
+    "status": "ativo",
+    "teste": "HTTP 206"
+  },
+  {
     "id": "236",
     "name": "Tv Adorar",
     "logo": "https://stsoultvbrs.blob.core.windows.net/media/brand/Logo_Adorar_100x100.png",
